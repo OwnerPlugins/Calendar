@@ -116,7 +116,7 @@ from Components.Label import Label
 from Components.config import config  # , configfile
 from skin import parseColor
 
-from . import _, PLUGIN_VERSION, PLUGIN_ICON
+from . import _, __version__, PLUGIN_ICON
 from .config_manager import (
     get_check_interval,
     get_debug,
@@ -3154,7 +3154,7 @@ class Calendar(Screen):
             ics_lines.append("BEGIN:VCALENDAR")
             ics_lines.append("VERSION:2.0")
             ics_lines.append(
-                "PRODID:-//Calendar Planner v{0}//EN".format(PLUGIN_VERSION))
+                "PRODID:-//Calendar Planner v{0}//EN".format(__version__))
             ics_lines.append("CALSCALE:GREGORIAN")
             ics_lines.append("METHOD:PUBLISH")
 
@@ -4679,7 +4679,7 @@ class Calendar(Screen):
             "Developer: on base plugin from Sirius0103 Rewrite Code by Lululla\n"
             "Homepage: www.corvoboys.org\n\n"
             "Homepage: www.corvoboys.org www.linuxsat-support.com\n\n"
-            "Homepage: www.gisclub.tv\n\n") % PLUGIN_VERSION
+            "Homepage: www.gisclub.tv\n\n") % __version__
         self.session.open(MessageBox, info_text, MessageBox.TYPE_INFO)
 
     def cancel(self):

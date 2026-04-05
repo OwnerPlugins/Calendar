@@ -21,7 +21,7 @@ from os import makedirs
 from os.path import join, exists
 from sys import version_info
 
-from . import _, PLUGIN_VERSION, PLUGIN_PATH, USER_AGENT
+from . import _, __version__, PLUGIN_PATH, USER_AGENT
 
 if version_info[0] == 3:
     from urllib.request import urlopen, Request
@@ -45,7 +45,7 @@ class PluginUpdater:
     BACKUP_DIR = "/tmp/calendar_backup"
 
     def __init__(self):
-        self.current_version = PLUGIN_VERSION
+        self.current_version = __version__
         self.user_agent = USER_AGENT
         self.backup_path = None
 

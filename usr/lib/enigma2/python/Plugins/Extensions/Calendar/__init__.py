@@ -22,14 +22,13 @@ from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 from Components.Language import language
 
 PLUGIN_NAME = "Calendar"
-PLUGIN_VERSION = "2.1"
-__version__ = PLUGIN_VERSION
+__version__ = "2.1"
 
 PLUGIN_PATH = resolveFilename(
     SCOPE_PLUGINS,
     "Extensions/{}".format(PLUGIN_NAME))
 PLUGIN_ICON = resolveFilename(SCOPE_PLUGINS, "Extensions/Calendar/plugin.png")
-USER_AGENT = "Calendar-Enigma2-Updater/%s" % PLUGIN_VERSION
+USER_AGENT = "Calendar-Enigma2-Updater/%s" % __version__
 PluginLanguageDomain = 'Calendar'
 PluginLanguagePath = "Extensions/Calendar/locale"
 isDreambox = exists("/usr/bin/apt-get")
