@@ -21,10 +21,10 @@ import gettext
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 from Components.Language import language
 
-
 PLUGIN_NAME = "Calendar"
 PLUGIN_VERSION = "2.1"
 __version__ = PLUGIN_VERSION
+
 PLUGIN_PATH = resolveFilename(
     SCOPE_PLUGINS,
     "Extensions/{}".format(PLUGIN_NAME))
