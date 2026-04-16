@@ -1,18 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-"""
-###########################################################
-#  Calendar Planner for Enigma2 v1.9                      #
-#  Created by: Lululla                                    #
-###########################################################
 
-Last Updated: 2026-01-15
-Status: Stable with complete vCard & ICS support
-Credits: Lululla
-Homepage: www.corvoboys.org www.linuxsat-support.com
-###########################################################
-"""
-from __future__ import print_function
 from Screens.Screen import Screen
 from Screens.MessageBox import MessageBox
 from Components.ActionMap import ActionMap
@@ -25,6 +13,19 @@ from .event_dialog import EventDialog
 from .formatters import MenuDialog
 from .ics_event_dialog import ICSEventDialog
 from .config_manager import get_debug, get_default_event_time
+
+"""
+###########################################################
+#  Calendar Planner for Enigma2 v1.9                      #
+#  Created by: Lululla                                    #
+###########################################################
+
+Last Updated: 2026-01-15
+Status: Stable with complete vCard & ICS support
+Credits: Lululla
+Homepage: www.corvoboys.org www.linuxsat-support.com
+###########################################################
+"""
 
 
 class ICSEventsView(Screen):

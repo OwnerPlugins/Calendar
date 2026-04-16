@@ -1,18 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-"""
-###########################################################
-#  Calendar Planner for Enigma2 v1.9                      #
-#  Created by: Lululla                                    #
-###########################################################
-
-Last Updated: 2026-01-15
-Status: Stable with complete vCard & ICS support
-Credits: Lululla
-Homepage: www.corvoboys.org www.linuxsat-support.com
-###########################################################
-"""
-from __future__ import print_function
 
 from datetime import datetime
 from enigma import getDesktop
@@ -27,6 +14,19 @@ from Components.Label import Label
 from . import _
 from .config_manager import get_debug
 from .formatters import format_field_display, clean_field_storage
+
+"""
+###########################################################
+#  Calendar Planner for Enigma2 v1.9                      #
+#  Created by: Lululla                                    #
+###########################################################
+
+Last Updated: 2026-01-15
+Status: Stable with complete vCard & ICS support
+Credits: Lululla
+Homepage: www.corvoboys.org www.linuxsat-support.com
+###########################################################
+"""
 
 
 class BirthdayDialog(Screen):

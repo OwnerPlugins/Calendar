@@ -1,30 +1,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-"""
-###########################################################
-#  Calendar Planner for Enigma2 v1.8                      #
-#  Created by: Lululla                                    #
-###########################################################
-
-Last Updated: 2026-01-02
-Status: Stable with complete vCard & ICS support
-Credits: Lululla
-Homepage: www.corvoboys.org www.linuxsat-support.com
-###########################################################
-"""
-from __future__ import print_function
 
 from datetime import datetime, timedelta
 from json import loads
 from os import makedirs, listdir
 from os.path import dirname, exists, join
 from re import search
-from sys import version_info
-
-if version_info[0] >= 3:
-    from urllib.request import urlopen
-else:
-    from urllib2 import urlopen
+from urllib.request import urlopen
 
 from Components.ActionMap import ActionMap
 from Components.Label import Label
@@ -38,6 +20,18 @@ from . import _
 from .formatters import HOLIDAYS_PATH
 from .config_manager import get_debug
 
+"""
+###########################################################
+#  Calendar Planner for Enigma2 v1.8                      #
+#  Created by: Lululla                                    #
+###########################################################
+
+Last Updated: 2026-01-02
+Status: Stable with complete vCard & ICS support
+Credits: Lululla
+Homepage: www.corvoboys.org www.linuxsat-support.com
+###########################################################
+"""
 
 # Country/Language Map
 COUNTRY_LANGUAGE_MAP = {
@@ -531,34 +525,19 @@ class HolidaysManager:
 
 
 class HolidaysImportScreen(Screen):
-    if version_info[0] >= 3:
-        skin = """
-            <screen name="HolidaysImportScreen" position="center,center" size="1180,650" title="Import Holidays" flags="wfNoBorder">
-                <widget name="country_list" position="13,76" size="691,480" itemHeight="45" font="Regular;34" scrollbarMode="showNever" />
-                <widget name="status_label" position="11,10" size="1163,60" font="Regular;34" foregroundColor="#00ffcc33" backgroundColor="#20101010" />
-                <widget name="log_text" position="714,83" size="447,502" font="Regular;26" />
-                <widget name="key_red" position="10,590" size="190,35" font="Regular;24" halign="center" />
-                <widget name="key_green" position="210,590" size="190,35" font="Regular;24" halign="center" />
-                <widget name="key_yellow" position="410,590" size="190,35" font="Regular;24" halign="center" />
-                <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Calendar/buttons/key_red.png" position="7,625" size="190,10" alphatest="blend" />
-                <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Calendar/buttons/key_green.png" position="210,625" size="190,10" alphatest="blend" />
-                <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Calendar/buttons/key_yellow.png" position="412,625" size="190,10" alphatest="blend" />
-            </screen>
-        """
-    else:
-        skin = """
-            <screen name="HolidaysImportScreen" position="center,center" size="1180,650" title="Import Holidays" flags="wfNoBorder">
-                <widget name="country_list" position="13,76" size="691,500" itemHeight="30" scrollbarMode="showNever" />
-                <widget name="status_label" position="11,10" size="1163,60" font="Regular;34" foregroundColor="#00ffcc33" backgroundColor="#20101010" />
-                <widget name="log_text" position="714,83" size="447,502" font="Regular;26" />
-                <widget name="key_red" position="10,590" size="190,35" font="Regular;24" halign="center" />
-                <widget name="key_green" position="210,590" size="190,35" font="Regular;24" halign="center" />
-                <widget name="key_yellow" position="410,590" size="190,35" font="Regular;24" halign="center" />
-                <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Calendar/buttons/key_red.png" position="7,625" size="190,10" alphatest="blend" />
-                <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Calendar/buttons/key_green.png" position="210,625" size="190,10" alphatest="blend" />
-                <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Calendar/buttons/key_yellow.png" position="412,625" size="190,10" alphatest="blend" />
-            </screen>
-        """
+    skin = """
+        <screen name="HolidaysImportScreen" position="center,center" size="1180,650" title="Import Holidays" flags="wfNoBorder">
+            <widget name="country_list" position="13,76" size="691,480" itemHeight="45" font="Regular;34" scrollbarMode="showNever" />
+            <widget name="status_label" position="11,10" size="1163,60" font="Regular;34" foregroundColor="#00ffcc33" backgroundColor="#20101010" />
+            <widget name="log_text" position="714,83" size="447,502" font="Regular;26" />
+            <widget name="key_red" position="10,590" size="190,35" font="Regular;24" halign="center" />
+            <widget name="key_green" position="210,590" size="190,35" font="Regular;24" halign="center" />
+            <widget name="key_yellow" position="410,590" size="190,35" font="Regular;24" halign="center" />
+            <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Calendar/buttons/key_red.png" position="7,625" size="190,10" alphatest="blend" />
+            <ePixmap pixmap="/usr/lib/enigma                        2/python/Plugins/Extensions/Calendar/buttons/key_green.png" position="210,625" size="190,10" alphatest="blend" />
+            <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Calendar/buttons/key_yellow.png" position="412,625" size="190,10" alphatest="blend" />
+        </screen>
+    """
 
     def __init__(self, session, language=None):
         Screen.__init__(self, session)

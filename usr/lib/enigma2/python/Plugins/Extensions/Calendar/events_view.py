@@ -1,5 +1,17 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+from Components.ActionMap import ActionMap
+from Components.MenuList import MenuList
+from Components.Label import Label
+from Screens.MessageBox import MessageBox
+from Screens.Screen import Screen
+from enigma import getDesktop
+
+from . import _
+from .config_manager import get_default_event_time
+from .event_dialog import EventDialog
+
 """
 ###########################################################
 #  Calendar Planner for Enigma2 v1.9                      #
@@ -12,17 +24,6 @@ Credits: Lululla
 Homepage: www.corvoboys.org www.linuxsat-support.com
 ###########################################################
 """
-from __future__ import print_function
-from Components.ActionMap import ActionMap
-from Components.MenuList import MenuList
-from Components.Label import Label
-from Screens.MessageBox import MessageBox
-from Screens.Screen import Screen
-from enigma import getDesktop
-
-from . import _
-from .config_manager import get_default_event_time
-from .event_dialog import EventDialog
 
 
 class EventsView(Screen):

@@ -1,5 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+from Screens.Screen import Screen
+from Components.Label import Label
+from enigma import eTimer
+
 """
 ###########################################################
 #                                                         #
@@ -23,10 +28,6 @@
 #  Status: Stable with event system                       #
 ###########################################################
 """
-from __future__ import print_function
-from Screens.Screen import Screen
-from Components.Label import Label
-from enigma import eTimer
 
 
 class SimpleNotifyWidget(Screen):

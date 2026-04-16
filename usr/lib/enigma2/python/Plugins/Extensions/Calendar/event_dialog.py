@@ -1,18 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-"""
-###########################################################
-#  Calendar Planner for Enigma2 v1.9                      #
-#  Created by: Lululla                                    #
-###########################################################
-
-Last Updated: 2026-01-15
-Status: Stable with complete vCard & ICS support
-Credits: Lululla
-Homepage: www.corvoboys.org www.linuxsat-support.com
-###########################################################
-"""
-from __future__ import print_function
 
 from enigma import getDesktop
 from Screens.Screen import Screen
@@ -25,6 +12,19 @@ from skin import parseColor
 from . import _
 from .config_manager import get_default_event_time, get_default_notify_minutes, get_debug
 from .event_manager import create_event_from_data
+
+"""
+###########################################################
+#  Calendar Planner for Enigma2 v1.9                      #
+#  Created by: Lululla                                    #
+###########################################################
+
+Last Updated: 2026-01-15
+Status: Stable with complete vCard & ICS support
+Credits: Lululla
+Homepage: www.corvoboys.org www.linuxsat-support.com
+###########################################################
+"""
 
 
 class EventDialog(Screen):

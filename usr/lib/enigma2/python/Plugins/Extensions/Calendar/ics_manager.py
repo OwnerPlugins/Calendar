@@ -1,5 +1,14 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+import os
+import time
+import glob
+from datetime import datetime
+from os.path import exists, join, getsize, getmtime, basename
+
+from .formatters import ICS_BASE_PATH
+
 """
 ###########################################################
 #  Calendar Planner for Enigma2 v1.9                      #
@@ -12,14 +21,6 @@ Credits: Lululla
 Homepage: www.corvoboys.org www.linuxsat-support.com
 ###########################################################
 """
-from __future__ import print_function
-import os
-import time
-import glob
-from datetime import datetime
-from os.path import exists, join, getsize, getmtime, basename
-
-from .formatters import ICS_BASE_PATH
 
 
 class ICSManager:

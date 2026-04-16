@@ -1,18 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-"""
-###########################################################
-#  Calendar Planner for Enigma2 v1.9                      #
-#  Created by: Lululla                                    #
-###########################################################
 
-Last Updated: 2026-01-15
-Status: Stable with complete vCard & ICS support
-Credits: Lululla
-Homepage: www.corvoboys.org www.linuxsat-support.com
-###########################################################
-"""
-from __future__ import print_function
 import time
 from datetime import datetime
 from re import split, IGNORECASE
@@ -33,6 +21,19 @@ from .duplicate_checker import DuplicateChecker, run_complete_cleanup
 from .event_manager import Event
 from .formatters import ICS_BASE_PATH
 from .config_manager import get_debug, get_default_event_time
+
+"""
+###########################################################
+#  Calendar Planner for Enigma2 v1.9                      #
+#  Created by: Lululla                                    #
+###########################################################
+
+Last Updated: 2026-01-15
+Status: Stable with complete vCard & ICS support
+Credits: Lululla
+Homepage: www.corvoboys.org www.linuxsat-support.com
+###########################################################
+"""
 
 
 class ICSImporter(Screen):

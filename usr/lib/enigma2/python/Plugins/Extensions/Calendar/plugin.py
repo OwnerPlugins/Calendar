@@ -1,5 +1,62 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+import datetime
+import glob
+import shutil
+from os import remove, makedirs, listdir
+from os.path import exists, dirname, join, basename, getmtime, getsize
+from time import localtime, time, strftime
+
+from enigma import getDesktop, eTimer
+from Plugins.Plugin import PluginDescriptor
+from Screens.Screen import Screen
+from Screens.MessageBox import MessageBox
+from Screens.Setup import Setup
+from Screens.VirtualKeyBoard import VirtualKeyBoard
+from Components.ActionMap import ActionMap
+from Components.Label import Label
+from Components.config import config  # , configfile
+from skin import parseColor
+
+from . import _, __version__, PLUGIN_ICON
+from .config_manager import (
+    get_check_interval,
+    get_debug,
+    get_default_event_time,
+    get_export_format,
+    get_last_used_default_time,
+    init_all_config,
+    save_all_config,
+    update_last_used_default_time,
+    validate_event_time
+)
+from .birthday_dialog import BirthdayDialog
+from .birthday_manager import BirthdayManager
+from .event_dialog import EventDialog
+from .event_manager import EventManager, Event
+from .contacts_view import ContactsView
+from .events_view import EventsView
+from .ics_events_view import ICSEventsView
+from .ics_browser import ICSBrowser
+from .ics_importer import ICSImporter
+from .vcf_importer import VCardImporter, export_contacts_to_vcf
+from .holidays import (
+    HolidaysImportScreen,
+    clear_holidays_dialog,
+    show_holidays_today,
+    show_upcoming_holidays as holidays_upcoming
+)
+
+
+try:
+    from .config_manager import force_init_config
+    force_init_config()
+    print("[Calendar] Configurazione forzatamente inizializzata all'import")
+except Exception as e:
+    print("[Calendar] Errore inizializzazione config:", str(e))
+
+
 """
 ###########################################################
 #  Calendar Planner for Enigma2 v1.9                      #
@@ -96,62 +153,6 @@ Homepage: www.corvoboys.org www.linuxsat-support.com
 ###########################################################
 """
 
-from __future__ import print_function
-
-import datetime
-import glob
-import shutil
-from os import remove, makedirs, listdir
-from os.path import exists, dirname, join, basename, getmtime, getsize
-from time import localtime, time, strftime
-
-from enigma import getDesktop, eTimer
-from Plugins.Plugin import PluginDescriptor
-from Screens.Screen import Screen
-from Screens.MessageBox import MessageBox
-from Screens.Setup import Setup
-from Screens.VirtualKeyBoard import VirtualKeyBoard
-from Components.ActionMap import ActionMap
-from Components.Label import Label
-from Components.config import config  # , configfile
-from skin import parseColor
-
-from . import _, __version__, PLUGIN_ICON
-from .config_manager import (
-    get_check_interval,
-    get_debug,
-    get_default_event_time,
-    get_export_format,
-    get_last_used_default_time,
-    init_all_config,
-    save_all_config,
-    update_last_used_default_time,
-    validate_event_time
-)
-from .birthday_dialog import BirthdayDialog
-from .birthday_manager import BirthdayManager
-from .event_dialog import EventDialog
-from .event_manager import EventManager, Event
-from .contacts_view import ContactsView
-from .events_view import EventsView
-from .ics_events_view import ICSEventsView
-from .ics_browser import ICSBrowser
-from .ics_importer import ICSImporter
-from .vcf_importer import VCardImporter, export_contacts_to_vcf
-from .holidays import (
-    HolidaysImportScreen,
-    clear_holidays_dialog,
-    show_holidays_today,
-    show_upcoming_holidays as holidays_upcoming
-)
-
-
-try:
-    from .config_manager import force_init_config
-    force_init_config()
-    print("[Calendar] Configurazione forzatamente inizializzata all'import")
-except Exception as e:
-    print("[Calendar] Errore inizializzazione config:", str(e))
 
 
 class Calendar(Screen):
@@ -4828,22 +4829,3 @@ def Plugins(**kwargs):
 
     print("[Calendar] Total descriptors: %d" % len(result))
     return result
-
-
-"""
-def Plugins(**kwargs):
-    result = []
-    result.append(PluginDescriptor(
-        where=PluginDescriptor.WHERE_SESSIONSTART,
-        fnc=sessionAutostart
-    ))
-    result.append(PluginDescriptor(
-        name=_("Calendar"),
-        description=_("Calendar with events and notifications"),
-        where=[PluginDescriptor.WHERE_PLUGINMENU,
-               PluginDescriptor.WHERE_EXTENSIONSMENU],
-        icon=PLUGIN_ICON,
-        fnc=main
-    ))
-    return result
-"""

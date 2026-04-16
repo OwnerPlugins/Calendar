@@ -1,5 +1,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+from Screens.MessageBox import MessageBox
+from enigma import quitMainloop
+
+from .updater import PluginUpdater
+from . import _
+
 """
 ###########################################################
 #  Calendar Planner for Enigma2 v1.9                      #
@@ -12,12 +19,6 @@ Credits: Lululla
 Homepage: www.corvoboys.org www.linuxsat-support.com
 ###########################################################
 """
-from __future__ import print_function
-from Screens.MessageBox import MessageBox
-from enigma import quitMainloop
-
-from .updater import PluginUpdater
-from . import _
 
 
 class UpdateManager:

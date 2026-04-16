@@ -1,5 +1,17 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+import time
+import shutil
+import subprocess
+from re import sub, search
+from os import makedirs
+from os.path import join, exists
+from urllib.request import urlopen, Request
+
+from . import _, __version__, PLUGIN_PATH, USER_AGENT
+
+
 """
 ###########################################################
 #  Calendar Planner for Enigma2 v1.9                      #
@@ -12,21 +24,6 @@ Credits: Lululla
 Homepage: www.corvoboys.org www.linuxsat-support.com
 ###########################################################
 """
-from __future__ import print_function
-import time
-import shutil
-import subprocess
-from re import sub, search
-from os import makedirs
-from os.path import join, exists
-from sys import version_info
-
-from . import _, __version__, PLUGIN_PATH, USER_AGENT
-
-if version_info[0] == 3:
-    from urllib.request import urlopen, Request
-else:
-    from urllib2 import urlopen, Request
 
 
 class PluginUpdater:

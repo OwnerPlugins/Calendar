@@ -1,5 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+from re import sub
+from .config_manager import get_default_event_time
+
 """
 ###########################################################
 #  Calendar Planner for Enigma2 v1.9                      #
@@ -12,10 +16,6 @@ Credits: Lululla
 Homepage: www.corvoboys.org www.linuxsat-support.com
 ###########################################################
 """
-from __future__ import print_function
-from re import sub
-
-from .config_manager import get_default_event_time
 
 
 class DuplicateChecker:

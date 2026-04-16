@@ -1,5 +1,16 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+from os import access, W_OK, listdir, makedirs
+from os.path import join, exists, isdir, dirname
+from Tools.Directories import resolveFilename, SCOPE_MEDIA
+from Components.config import config
+from Screens.Screen import Screen
+from Components.ActionMap import ActionMap
+from Components.MenuList import MenuList
+
+from . import _, PLUGIN_PATH
+
 """
 ###########################################################
 #  Calendar Planner for Enigma2 v1.8                      #
@@ -12,17 +23,6 @@ Credits: Lululla
 Homepage: www.corvoboys.org www.linuxsat-support.com
 ###########################################################
 """
-from __future__ import print_function
-
-from os import access, W_OK, listdir, makedirs
-from os.path import join, exists, isdir, dirname
-from Tools.Directories import resolveFilename, SCOPE_MEDIA
-from Components.config import config
-from Screens.Screen import Screen
-from Components.ActionMap import ActionMap
-from Components.MenuList import MenuList
-
-from . import _, PLUGIN_PATH
 
 # ============================================================================
 # GLOBAL CONSTANTS - INITIALIZE IMMEDIATELY ON IMPORT

@@ -1,18 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-"""
-###########################################################
-#  Calendar Planner for Enigma2 v1.9                      #
-#  Created by: Lululla                                    #
-###########################################################
-
-Last Updated: 2026-01-15
-Status: Stable with complete vCard & ICS support
-Credits: Lululla
-Homepage: www.corvoboys.org www.linuxsat-support.com
-###########################################################
-"""
-from __future__ import print_function
 import os
 import json
 from os.path import exists, join, dirname
@@ -26,6 +13,19 @@ from Components.config import (
     configfile
 )
 from . import _
+
+"""
+###########################################################
+#  Calendar Planner for Enigma2 v1.9                      #
+#  Created by: Lululla                                    #
+###########################################################
+
+Last Updated: 2026-01-15
+Status: Stable with complete vCard & ICS support
+Credits: Lululla
+Homepage: www.corvoboys.org www.linuxsat-support.com
+###########################################################
+"""
 
 # ===========================================================
 # PLUGIN CONFIGURATION FILE PATH
