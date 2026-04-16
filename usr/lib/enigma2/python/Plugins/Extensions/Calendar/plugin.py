@@ -154,7 +154,6 @@ Homepage: www.corvoboys.org www.linuxsat-support.com
 """
 
 
-
 class Calendar(Screen):
     if (getDesktop(0).size().width() >= 1920):
         skin = """
