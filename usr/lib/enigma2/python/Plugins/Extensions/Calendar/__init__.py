@@ -1,8 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from os import environ
-from os.path import exists
+
 import gettext
 
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
