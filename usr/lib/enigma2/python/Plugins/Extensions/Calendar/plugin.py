@@ -26,11 +26,12 @@ from .config_manager import (
     get_default_event_time,
     get_export_format,
     get_last_used_default_time,
-    init_all_config,
+    # init_all_config,
     save_all_config,
     update_last_used_default_time,
     validate_event_time
 )
+
 from .birthday_dialog import BirthdayDialog
 from .birthday_manager import BirthdayManager
 from .event_dialog import EventDialog
@@ -4717,14 +4718,6 @@ class settingCalendar(Setup):
     def keySave(self):
         """Save configuration - save to both Enigma2 and plugin file"""
         try:
-            from .config_manager import (
-                validate_event_time,
-                get_last_used_default_time,
-                update_last_used_default_time,
-                save_all_config,
-                get_debug
-            )
-
             if get_debug():
                 print("[settingCalendar] Saving configuration...")
 
