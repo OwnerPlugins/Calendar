@@ -10,853 +10,853 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "(Search: '{0}')"
-msgstr ""
+msgstr "(جستجو: '{0}')"
 
 msgid "(truncated)"
-msgstr ""
+msgstr "(قطع شده)"
 
 msgid "--- CONTACTS ---"
-msgstr ""
+msgstr "--- تماس ---"
 
 msgid "--- DATABASE ---"
-msgstr ""
+msgstr "--- پایگاه داده ---"
 
 msgid "--- EVENTS ---"
-msgstr ""
+msgstr "--- رویدادها ---"
 
 msgid "--- HOLIDAYS ---"
-msgstr ""
+msgstr "--- تعطیلات ---"
 
 msgid "--- PERSONAL DATA ---"
-msgstr ""
+msgstr "--- داده های شخصی ---"
 
 msgid "--- SYSTEM ---"
-msgstr ""
+msgstr "--- سیستم ---"
 
 msgid "Active"
-msgstr ""
+msgstr "فعال"
 
 msgid "Active:"
-msgstr ""
+msgstr "فعال:"
 
 msgid "Add"
-msgstr ""
+msgstr "اضافه کنید"
 
 msgid "Add Contact"
-msgstr ""
+msgstr "افزودن مخاطب"
 
 msgid "Add Event"
-msgstr ""
+msgstr "افزودن رویداد"
 
 msgid "Add date and time to exported filenames"
-msgstr ""
+msgstr "تاریخ و زمان را به نام فایل های صادر شده اضافه کنید"
 
 msgid "Add timestamp to filename"
-msgstr ""
+msgstr "برچسب زمانی را به نام فایل اضافه کنید"
 
 msgid "Alert sound"
-msgstr ""
+msgstr "صدای هشدار"
 
 msgid "Already on today's event"
-msgstr ""
+msgstr "در حال حاضر در رویداد امروز"
 
 msgid "April"
-msgstr ""
+msgstr "آوریل"
 
 msgid "August"
-msgstr ""
+msgstr "اوت"
 
 msgid "Automatically clean old notified events"
-msgstr ""
+msgstr "به طور خودکار رویدادهای قدیمی اطلاع داده شده را پاک کنید"
 
 msgid "Autostart delay"
-msgstr ""
+msgstr "تأخیر در شروع خودکار"
 
 msgid "Back"
-msgstr ""
+msgstr "برگشت"
 
 msgid "Birthday (YYYY-MM-DD)"
-msgstr ""
+msgstr "تولد (YYYY-MM-DD)"
 
 msgid "Birthdays: {0}"
-msgstr ""
+msgstr "تاریخ تولد: {0}"
 
 msgid "Blue"
-msgstr ""
+msgstr "آبی"
 
 msgid "Browse ICS Files"
-msgstr ""
+msgstr "فایل های ICS را مرور کنید"
 
 msgid "CONTACTS WITH BIRTHDAYS TODAY:"
-msgstr ""
+msgstr "تماس با تولدهای امروز:"
 
 msgid "CSV format"
-msgstr ""
+msgstr "فرمت CSV"
 
 msgid "Calendar"
-msgstr ""
+msgstr "تقویم"
 
 msgid "Calendar Planner"
-msgstr ""
+msgstr "برنامه ریز تقویم"
 
 msgid "Calendar Planner | Ready"
-msgstr ""
+msgstr "برنامه ریز تقویم | آماده است"
 
 msgid "Calendar Settings"
-msgstr ""
+msgstr "تنظیمات تقویم"
 
 msgid "Calendar with events and notifications"
-msgstr ""
+msgstr "تقویم با رویدادها و اعلان ها"
 
 msgid "Cancel"
-msgstr ""
+msgstr "لغو کنید"
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "در حال لغو..."
 
 msgid "Cannot delete: Contact has no ID"
-msgstr ""
+msgstr "نمی توان حذف کرد: مخاطب هیچ شناسه ای ندارد"
 
 msgid "Cannot initialize event system: {0}"
-msgstr ""
+msgstr "نمی توان سیستم رویداد را راه اندازی کرد: {0}"
 
 msgid "Categories (comma separated)"
-msgstr ""
+msgstr "دسته ها (با کاما از هم جدا شده اند)"
 
 msgid "Check for Updates"
-msgstr ""
+msgstr "به روز رسانی ها را بررسی کنید"
 
 msgid "Checking for updates..."
-msgstr ""
+msgstr "در حال بررسی به‌روزرسانی‌ها..."
 
 msgid "Choose between legacy text files or standard vCard format"
-msgstr ""
+msgstr "بین فایل‌های متنی قدیمی یا فرمت کارت مجازی استاندارد انتخاب کنید"
 
 msgid "Choose where to save exported files"
-msgstr ""
+msgstr "محل ذخیره فایل های صادر شده را انتخاب کنید"
 
 msgid "Clean after days"
-msgstr ""
+msgstr "بعد از روزها تمیز شود"
 
 msgid "Clean old notifications"
-msgstr ""
+msgstr "اعلان های قدیمی را پاک کنید"
 
 msgid "Cleaned {0} duplicate events"
-msgstr ""
+msgstr "رویدادهای تکراری {0} را پاک کرد"
 
 msgid "Cleaned {0} old ICS files"
-msgstr ""
+msgstr "{0} فایل های ICS قدیمی را پاک کرد"
 
 msgid "Cleanup Old Files"
-msgstr ""
+msgstr "پاک کردن فایل های قدیمی"
 
 msgid "Cleanup duplicate events"
-msgstr ""
+msgstr "پاکسازی رویدادهای تکراری"
 
 msgid "Cleanup past events"
-msgstr ""
+msgstr "پاکسازی وقایع گذشته"
 
 msgid "Clear ALL holiday entries from all date files?"
-msgstr ""
+msgstr "همه ورودی های تعطیلات از همه فایل های تاریخ پاک شود؟"
 
 msgid "Clear All"
-msgstr ""
+msgstr "پاک کردن همه"
 
 msgid "Clear Holiday Database"
-msgstr ""
+msgstr "پاک کردن پایگاه داده تعطیلات"
 
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 msgid "Color days with holidays"
-msgstr ""
+msgstr "روزهای رنگی همراه با تعطیلات"
 
 msgid "Color for days with events"
-msgstr ""
+msgstr "برای روزها با رویدادها رنگ کنید"
 
 msgid "Color for holiday days"
-msgstr ""
+msgstr "رنگ برای روزهای تعطیل"
 
 msgid "Completed"
-msgstr ""
+msgstr "تکمیل شد"
 
 msgid "Contact"
-msgstr ""
+msgstr "تماس بگیرید"
 
 msgid "Contact '{0}' deleted successfully"
-msgstr ""
+msgstr "تماس \\\"{0}\\\" با موفقیت حذف شد"
 
 msgid "Contact:"
-msgstr ""
+msgstr "تماس:"
 
 msgid "Contacts directory not found"
-msgstr ""
+msgstr "فهرست مخاطبین یافت نشد"
 
 msgid "Contacts imported from ICS file!"
-msgstr ""
+msgstr "مخاطبین از فایل ICS وارد شدند!"
 
 msgid "Contacts: 0"
-msgstr ""
+msgstr "مخاطبین: 0"
 
 msgid "Contacts: {0}/{1}"
-msgstr ""
+msgstr "مخاطبین: {0}/{1}"
 
 msgid "Conversion error: {0}"
-msgstr ""
+msgstr "خطای تبدیل: {0}"
 
 msgid "Convert all existing data to vCard format?"
-msgstr ""
+msgstr "تمام داده های موجود به فرمت کارت مجازی تبدیل شود؟"
 
 msgid "Convert to ICS format"
-msgstr ""
+msgstr "تبدیل به فرمت ICS"
 
 msgid "Convert to legacy format"
-msgstr ""
+msgstr "تبدیل به فرمت قدیمی"
 
 msgid "Convert to vCard format"
-msgstr ""
+msgstr "تبدیل به فرمت کارت مجازی"
 
 msgid "Converted {0} events to {1}"
-msgstr ""
+msgstr "رویدادهای {0} را به {1} تبدیل کرد"
 
 msgid "Could not check for updates. Check internet connection."
-msgstr ""
+msgstr "نمی‌توان به‌روزرسانی‌ها را بررسی کرد. اتصال اینترنت را بررسی کنید"
 
 msgid "Could not check for updates: %s"
-msgstr ""
+msgstr "به‌روزرسانی‌ها بررسی نشد: %s"
 
 msgid "Could not read file"
-msgstr ""
+msgstr "فایل خوانده نشد"
 
 msgid "Cyan"
-msgstr ""
+msgstr "فیروزه ای"
 
 msgid "Database converted to vCard format"
-msgstr ""
+msgstr "پایگاه داده به فرمت کارت مجازی تبدیل شد"
 
 msgid "Database format"
-msgstr ""
+msgstr "فرمت پایگاه داده"
 
 msgid "Date"
-msgstr ""
+msgstr "تاریخ"
 
 msgid "Date (YYYY-MM-DD)"
-msgstr ""
+msgstr "تاریخ (YYYY-MM-DD)"
 
 msgid "Date range: {0} to {1}"
-msgstr ""
+msgstr "محدوده تاریخ: {0} تا {1}"
 
 msgid "Date:"
-msgstr ""
+msgstr "تاریخ:"
 
 msgid "Day +"
-msgstr ""
+msgstr "روز +"
 
 msgid "Day -"
-msgstr ""
+msgstr "روز -"
 
 msgid "Days to keep notifications in cache"
-msgstr ""
+msgstr "چند روز برای نگه داشتن اعلان ها در حافظه پنهان"
 
 msgid "December"
-msgstr ""
+msgstr "دسامبر"
 
 msgid "Default event time"
-msgstr ""
+msgstr "زمان پیش‌فرض رویداد"
 
 msgid "Default format for exported files"
-msgstr ""
+msgstr "فرمت پیش فرض برای فایل های صادر شده"
 
 msgid "Default minutes before event to show notification"
-msgstr ""
+msgstr "پیش‌فرض دقیقه قبل از رویداد برای نمایش اعلان"
 
 msgid "Default notification minutes"
-msgstr ""
+msgstr "دقیقه اعلان پیش فرض"
 
 msgid "Default time for new events (HH:MM format)"
-msgstr ""
+msgstr "زمان پیش‌فرض برای رویدادهای جدید (قالب HH:MM)"
 
 msgid "Delete"
-msgstr ""
+msgstr "حذف کنید"
 
 msgid "Delete ALL ICS events"
-msgstr ""
+msgstr "تمام رویدادهای ICS را حذف کنید"
 
 msgid "Delete ALL contacts"
-msgstr ""
+msgstr "تمام مخاطبین را حذف کنید"
 
 msgid "Delete ALL events"
-msgstr ""
+msgstr "حذف همه رویدادها"
 
 msgid "Delete File"
-msgstr ""
+msgstr "حذف فایل"
 
 msgid "Delete ICS files older than 30 days?"
-msgstr ""
+msgstr "فایل های ICS قدیمی تر از 30 روز حذف شوند؟"
 
 msgid "Delete file"
-msgstr ""
+msgstr "حذف فایل"
 
 msgid "Delete {0}?"
-msgstr ""
+msgstr "{0} حذف شود؟"
 
 msgid "Delete: {0}"
-msgstr ""
+msgstr "حذف: {0}"
 
 msgid "Deleted {0} ICS events"
-msgstr ""
+msgstr "رویدادهای {0} ICS حذف شد"
 
 msgid "Deleted {0} contacts from database"
-msgstr ""
+msgstr "مخاطب {0} را از پایگاه داده حذف کرد"
 
 msgid "Description"
-msgstr ""
+msgstr "توضیحات"
 
 msgid "Description:"
-msgstr ""
+msgstr "توضیحات:"
 
 msgid "Directory: {0}"
-msgstr ""
+msgstr "دایرکتوری: {0}"
 
 msgid "Disk"
-msgstr ""
+msgstr "دیسک"
 
 msgid "Duplicates cleaned: %d"
-msgstr ""
+msgstr "موارد تکراری پاک شده: %d"
 
 msgid "E:{0}"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "ویرایش کنید"
 
 msgid "Edit Contact"
-msgstr ""
+msgstr "ویرایش مخاطب"
 
 msgid "Edit Contact ({0}/{1})"
-msgstr ""
+msgstr "ویرایش مخاطب ({0}/{1})"
 
 msgid "Edit Date"
-msgstr ""
+msgstr "ویرایش تاریخ"
 
 msgid "Edit Description"
-msgstr ""
+msgstr "ویرایش توضیحات"
 
 msgid "Edit Event"
-msgstr ""
+msgstr "ویرایش رویداد"
 
 msgid "Edit Event ({0}/{1})"
-msgstr ""
+msgstr "ویرایش رویداد ({0}/{1})"
 
 msgid "Edit Event ({0}/{1}) - Today"
-msgstr ""
+msgstr "ویرایش رویداد ({0}/{1}) - امروز"
 
 msgid "Edit Holiday"
-msgstr ""
+msgstr "تعطیلات را ویرایش کنید"
 
 msgid "Edit ICS Event"
-msgstr ""
+msgstr "رویداد ICS را ویرایش کنید"
 
 msgid "Edit Note"
-msgstr ""
+msgstr "ویرایش یادداشت"
 
 msgid "Edit Sign"
-msgstr ""
+msgstr "ویرایش علامت"
 
 msgid "Edit: {0}"
-msgstr ""
+msgstr "ویرایش: {0}"
 
 msgid "Email"
-msgstr ""
+msgstr "ایمیل"
 
 msgid "Enable autostart"
-msgstr ""
+msgstr "شروع خودکار را فعال کنید"
 
 msgid "Enable debug mode"
-msgstr ""
+msgstr "حالت اشکال زدایی را فعال کنید"
 
 msgid "Enable event management with date/time"
-msgstr ""
+msgstr "مدیریت رویداد را با تاریخ/زمان فعال کنید"
 
 msgid "Enable event system"
-msgstr ""
+msgstr "فعال کردن سیستم رویداد"
 
 msgid "Enable holiday coloring"
-msgstr ""
+msgstr "رنگ آمیزی تعطیلات را فعال کنید"
 
 msgid "Enable notifications"
-msgstr ""
+msgstr "اعلان ها را فعال کنید"
 
 msgid "Enter"
-msgstr ""
+msgstr "وارد کنید"
 
 msgid "Error deleting contact"
-msgstr ""
+msgstr "خطا در حذف مخاطب"
 
 msgid "Error deleting contact '{0}'"
-msgstr ""
+msgstr "خطا در حذف مخاطب \\\"{0}\\\""
 
 msgid "Error deleting database: {0}"
-msgstr ""
+msgstr "خطا در حذف پایگاه داده: {0}"
 
 msgid "Error getting ICS statistics"
-msgstr ""
+msgstr "خطا در دریافت آمار ICS"
 
 msgid "Error opening ICS browser: %s"
-msgstr ""
+msgstr "خطا در باز کردن مرورگر ICS: %s"
 
 msgid "Error opening ICS importer: {0}"
-msgstr ""
+msgstr "خطا در باز کردن واردکننده ICS: {0}"
 
 msgid "Error opening event dialog"
-msgstr ""
+msgstr "خطا در باز کردن گفتگوی رویداد"
 
 msgid "Error saving ICS data"
-msgstr ""
+msgstr "خطا در ذخیره داده های ICS"
 
 msgid "Error saving contact"
-msgstr ""
+msgstr "خطا در ذخیره مخاطب"
 
 msgid "Error saving data"
-msgstr ""
+msgstr "خطا در ذخیره داده ها"
 
 msgid "Error saving event"
-msgstr ""
+msgstr "خطا در ذخیره رویداد"
 
 msgid "Error: {0}"
-msgstr ""
+msgstr "خطا: {0}"
 
 msgid "Errors: %d"
-msgstr ""
+msgstr "خطاها: %d"
 
 msgid "Errors: {0}"
-msgstr ""
+msgstr "خطاها: {0}"
 
 msgid "Event"
-msgstr ""
+msgstr "رویداد"
 
 msgid "Event '{0}' deleted successfully"
-msgstr ""
+msgstr "رویداد \\\"{0}\\\" با موفقیت حذف شد"
 
 msgid "Event '{0}' saved successfully"
-msgstr ""
+msgstr "رویداد \\\"{0}\\\" با موفقیت ذخیره شد"
 
 msgid "Event check interval"
-msgstr ""
+msgstr "فاصله بررسی رویداد"
 
 msgid "Event color"
-msgstr ""
+msgstr "رنگ رویداد"
 
 msgid "Event manager not available"
-msgstr ""
+msgstr "مدیر رویداد در دسترس نیست"
 
 msgid "Event manager not initialized"
-msgstr ""
+msgstr "مدیر رویداد راه اندازی نشده است"
 
 msgid "Event system is disabled. Enable it in settings first."
-msgstr ""
+msgstr "سیستم رویداد غیرفعال است. ابتدا آن را در تنظیمات فعال کنید."
 
 msgid "Event system is disabled. Enable it in settings."
-msgstr ""
+msgstr "سیستم رویداد غیرفعال است. آن را در تنظیمات فعال کنید."
 
 msgid "Event system is not enabled"
-msgstr ""
+msgstr "سیستم رویداد فعال نیست"
 
 msgid "Events found: {0}"
-msgstr ""
+msgstr "رویدادهای یافت شده: {0}"
 
 msgid "Events imported successfully"
-msgstr ""
+msgstr "رویدادها با موفقیت وارد شدند"
 
 msgid "Export All to ICS File"
-msgstr ""
+msgstr "همه را به فایل ICS صادر کنید"
 
 msgid "Export error: {0}"
-msgstr ""
+msgstr "خطای صادرات: {0}"
 
 msgid "Export failed or no contacts to export"
-msgstr ""
+msgstr "صادرات انجام نشد یا مخاطبی برای صادرات وجود نداشت"
 
 msgid "Export format"
-msgstr ""
+msgstr "فرمت صادراتی"
 
 msgid "Export location"
-msgstr ""
+msgstr "محل صادرات"
 
 msgid "Export subdirectory"
-msgstr ""
+msgstr "دایرکتوری فرعی صادرات"
 
 msgid "Export vCard File"
-msgstr ""
+msgstr "صادر کردن فایل کارت مجازی"
 
 msgid "Exporting contacts..."
-msgstr ""
+msgstr "در حال صادر کردن مخاطبین..."
 
 msgid "Failed to create backup. Update cancelled."
-msgstr ""
+msgstr "پشتیبان ایجاد نشد. به روز رسانی لغو شد."
 
 msgid "Failed to start import"
-msgstr ""
+msgstr "وارد کردن شروع نشد"
 
 msgid "February"
-msgstr ""
+msgstr "فوریه"
 
 msgid "Field {0}/{1}: {2}"
-msgstr ""
+msgstr "فیلد {0}/{1}: {2}"
 
 msgid "File deleted"
-msgstr ""
+msgstr "فایل حذف شد"
 
 msgid "File not found!"
-msgstr ""
+msgstr "فایل پیدا نشد!"
 
 msgid "File re-imported successfully"
-msgstr ""
+msgstr "فایل با موفقیت دوباره وارد شد"
 
 msgid "File re-imported. Found {0} potential duplicates."
-msgstr ""
+msgstr "فایل دوباره وارد شد. {0} موارد تکراری بالقوه پیدا شد."
 
 msgid "File: {0}"
-msgstr ""
+msgstr "فایل: {0}"
 
 msgid "Files is Empty..."
-msgstr ""
+msgstr "فایل ها خالی است..."
 
 msgid "Found {0} ICS files"
-msgstr ""
+msgstr "فایل های {0} ICS پیدا شد"
 
 msgid "Fri"
-msgstr ""
+msgstr "جمعه"
 
 msgid "Green"
-msgstr ""
+msgstr "سبز"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "هارد دیسک"
 
 msgid "Hard Disk (/media/hdd)"
-msgstr ""
+msgstr "هارد دیسک (/media/hdd)"
 
 msgid "Holiday"
-msgstr ""
+msgstr "تعطیلات"
 
 msgid "Holiday color"
-msgstr ""
+msgstr "رنگ تعطیلات"
 
 msgid "Holiday:"
-msgstr ""
+msgstr "تعطیلات:"
 
 msgid "Holidays imported"
-msgstr ""
+msgstr "تعطیلات وارداتی"
 
 msgid "I:{0}"
-msgstr ""
+msgstr "من:{0}"
 
 msgid "ICS Events: 0"
-msgstr ""
+msgstr "رویدادهای ICS: 0"
 
 msgid "ICS Events: {0}/{1}"
-msgstr ""
+msgstr "رویدادهای ICS: {0}/{1}"
 
 msgid "ICS format"
-msgstr ""
+msgstr "فرمت ICS"
 
 msgid "ICS format (google calendar)"
-msgstr ""
+msgstr "فرمت ICS (تقویم گوگل)"
 
 msgid "ICS import feature not yet available: {0}"
-msgstr ""
+msgstr "ویژگی واردات ICS هنوز در دسترس نیست: {0}"
 
 msgid "Import"
-msgstr ""
+msgstr "واردات"
 
 msgid "Import All"
-msgstr ""
+msgstr "واردات همه"
 
 msgid "Import Google Calendar (.ics)"
-msgstr ""
+msgstr "وارد کردن Google Calendar (.ics)"
 
 msgid "Import Holidays"
-msgstr ""
+msgstr "تعطیلات واردات"
 
 msgid "Import ICS Contacts Google Calendar (.ics)"
-msgstr ""
+msgstr "وارد کردن ICS Contacts Google Calendar (.ics)"
 
 msgid "Import completed"
-msgstr ""
+msgstr "واردات انجام شد"
 
 msgid "Import completed - Sorting contacts..."
-msgstr ""
+msgstr "واردات انجام شد - مرتب سازی مخاطبین..."
 
 msgid "Import completed!"
-msgstr ""
+msgstr "واردات انجام شد!"
 
 msgid "Import completed. Ready."
-msgstr ""
+msgstr "واردات انجام شد. آماده است."
 
 msgid "Import error: {0}"
-msgstr ""
+msgstr "خطای وارد کردن: {0}"
 
 msgid "Import events to calendar"
-msgstr ""
+msgstr "وارد کردن رویدادها به تقویم"
 
 msgid "Import vCard File"
-msgstr ""
+msgstr "وارد کردن فایل کارت مجازی"
 
 msgid "Imported ICS Files"
-msgstr ""
+msgstr "فایل های ICS وارد شده"
 
 msgid "Imported: %d"
-msgstr ""
+msgstr "وارد شده: %d"
 
 msgid "Imported: {0}"
-msgstr ""
+msgstr "وارد شده: {0}"
 
 msgid "Imported: {0} contacts"
-msgstr ""
+msgstr "وارد شده: {0} مخاطبین"
 
 msgid "Importing iCalendar File"
-msgstr ""
+msgstr "وارد کردن فایل iCalendar"
 
 msgid "Importing vCard File"
-msgstr ""
+msgstr "وارد کردن فایل کارت مجازی"
 
 msgid "Initializing..."
-msgstr ""
+msgstr "در حال شروع..."
 
 msgid "Invalid birthday format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "قالب تولد نامعتبر است. از YYYY-MM-DD استفاده کنید"
 
 msgid "Invalid date format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "قالب تاریخ نامعتبر است. از YYYY-MM-DD استفاده کنید"
 
 msgid "Invalid time format! Use HH:MM (00:00 to 23:59)"
-msgstr ""
+msgstr "قالب زمان نامعتبر است! استفاده از HH:MM (00:00 تا 23:59)"
 
 msgid "Invalid time format. Use HH:MM"
-msgstr ""
+msgstr "قالب زمان نامعتبر است. از HH:MM استفاده کنید"
 
 msgid "January"
-msgstr ""
+msgstr "ژانویه"
 
 msgid "July"
-msgstr ""
+msgstr "جولای"
 
 msgid "June"
-msgstr ""
+msgstr "ژوئن"
 
 msgid "Labels (comma separated)"
-msgstr ""
+msgstr "برچسب ها (با کاما از هم جدا شده اند)"
 
 msgid "Legacy format (text files)"
-msgstr ""
+msgstr "فرمت قدیمی (فایل های متنی)"
 
 msgid "Manage Contacts"
-msgstr ""
+msgstr "مدیریت مخاطبین"
 
 msgid "Manage Event"
-msgstr ""
+msgstr "مدیریت رویداد"
 
 msgid "Manage ICS Events"
-msgstr ""
+msgstr "رویدادهای ICS را مدیریت کنید"
 
 msgid "Manage ICS Files"
-msgstr ""
+msgstr "مدیریت فایل های ICS"
 
 msgid "March"
-msgstr ""
+msgstr "مارس"
 
 msgid "May"
-msgstr ""
+msgstr "می"
 
 msgid "Modified: {0}"
-msgstr ""
+msgstr "اصلاح شده: {0}"
 
 msgid "Mon"
-msgstr ""
+msgstr "دوشنبه"
 
 msgid "Month +"
-msgstr ""
+msgstr "ماه +"
 
 msgid "Month -"
-msgstr ""
+msgstr "ماه -"
 
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 msgid "Name is required"
-msgstr ""
+msgstr "نام الزامی است"
 
 msgid "Network Share"
-msgstr ""
+msgstr "اشتراک شبکه"
 
 msgid "New Date"
-msgstr ""
+msgstr "تاریخ جدید"
 
 msgid "Newest file: {0}"
-msgstr ""
+msgstr "جدیدترین فایل: {0}"
 
 msgid "Next Field"
-msgstr ""
+msgstr "فیلد بعدی"
 
 msgid "No ICS directory found"
-msgstr ""
+msgstr "هیچ دایرکتوری ICS یافت نشد"
 
 msgid "No ICS events found"
-msgstr ""
+msgstr "هیچ رویداد ICS یافت نشد"
 
 msgid "No ICS files found"
-msgstr ""
+msgstr "هیچ فایل ICS یافت نشد"
 
 msgid "No ICS files in archive"
-msgstr ""
+msgstr "هیچ فایل ICS در بایگانی وجود ندارد"
 
 msgid "No TV service currently playing"
-msgstr ""
+msgstr "هیچ سرویس تلویزیونی در حال حاضر پخش نمی شود"
 
 msgid "No contact files found"
-msgstr ""
+msgstr "هیچ فایل تماسی پیدا نشد"
 
 msgid "No contact selected"
-msgstr ""
+msgstr "مخاطبی انتخاب نشده است"
 
 msgid "No contacts found in database"
-msgstr ""
+msgstr "هیچ مخاطبی در پایگاه داده یافت نشد"
 
 msgid "No data found to convert"
-msgstr ""
+msgstr "هیچ داده ای برای تبدیل یافت نشد"
 
 msgid "No data to export"
-msgstr ""
+msgstr "داده ای برای صادرات وجود ندارد"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "تکراری یافت نشد"
 
 msgid "No event selected"
-msgstr ""
+msgstr "هیچ رویدادی انتخاب نشده است"
 
 msgid "No events database found"
-msgstr ""
+msgstr "پایگاه داده رویدادی یافت نشد"
 
 msgid "No events for today"
-msgstr ""
+msgstr "هیچ رویدادی برای امروز وجود ندارد"
 
 msgid "No events to convert"
-msgstr ""
+msgstr "هیچ رویدادی برای تبدیل وجود ندارد"
 
 msgid "No file in database..."
-msgstr ""
+msgstr "فایلی در پایگاه داده وجود ندارد..."
 
 msgid "No file selected"
-msgstr ""
+msgstr "هیچ فایلی انتخاب نشده است"
 
 msgid "No past events to remove"
-msgstr ""
+msgstr "هیچ رویداد گذشته برای حذف وجود ندارد"
 
 msgid "No sorting (original order)"
-msgstr ""
+msgstr "بدون مرتب سازی (سفارش اصلی)"
 
 msgid "No sound"
-msgstr ""
+msgstr "صدا نداره"
 
 msgid "Note"
-msgstr ""
+msgstr "توجه داشته باشید"
 
 msgid "Note:"
-msgstr ""
+msgstr "توجه:"
 
 msgid "Notes"
-msgstr ""
+msgstr "یادداشت ها"
 
 msgid "Notification sound type"
-msgstr ""
+msgstr "نوع صدای اعلان"
 
 msgid "Notification tone"
-msgstr ""
+msgstr "لحن اعلان"
 
 msgid "Notify"
-msgstr ""
+msgstr "اطلاع دهید"
 
 msgid "Notify:"
-msgstr ""
+msgstr "اطلاع دهید:"
 
 msgid "November"
-msgstr ""
+msgstr "نوامبر"
 
 msgid "October"
-msgstr ""
+msgstr "اکتبر"
 
 msgid "Oldest file: {0}\\\\\\\\n"
-msgstr ""
+msgstr "قدیمی ترین فایل: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
-msgstr ""
+msgstr "نارنجی"
 
 msgid "P:{0}/{1}"
 msgstr ""
 
 msgid "Phone"
-msgstr ""
+msgstr "تلفن"
 
 msgid "Play a sound when event notification appears"
-msgstr ""
+msgstr "هنگامی که اعلان رویداد ظاهر می شود، صدایی پخش کنید"
 
 msgid "Play sound with notifications"
-msgstr ""
+msgstr "پخش صدا با اعلان ها"
 
 msgid "Please restart Enigma2 manually."
-msgstr ""
+msgstr "لطفا Enigma2 را به صورت دستی راه اندازی مجدد کنید."
 
 msgid "Plugin Directory"
-msgstr ""
+msgstr "فهرست پلاگین"
 
 msgid "Plugin is up to date"
-msgstr ""
+msgstr "افزونه به روز است"
 
 msgid "Press GREEN to import"
-msgstr ""
+msgstr "برای وارد کردن، سبز را فشار دهید"
 
 msgid "Press TEXT to search"
-msgstr ""
+msgstr "برای جستجو، TEXT را فشار دهید"
 
 msgid "Preview file content"
-msgstr ""
+msgstr "پیش نمایش محتوای فایل"
 
 msgid "Progress: {0}%"
-msgstr ""
+msgstr "پیشرفت: {0}%"
 
 msgid "Re-import"
-msgstr ""
+msgstr "واردات مجدد"
 
 msgid "Red"
-msgstr ""
+msgstr "قرمز"
 
 msgid "Refresh"
-msgstr ""
+msgstr "تازه کردن"
 
 msgid "Refreshed"
-msgstr ""
+msgstr "تازه شد"
 
 msgid "Remove"
-msgstr ""
+msgstr "حذف کنید"
 
 msgid "Remove Date"
-msgstr ""
+msgstr "تاریخ را حذف کنید"
 
 msgid "Removed {0} past events"
-msgstr ""
+msgstr "رویدادهای گذشته {0} حذف شد"
 
 msgid "Repeat"
-msgstr ""
+msgstr "تکرار کنید"
 
 msgid "Repeat (none/daily/weekly/monthly/yearly)"
-msgstr ""
+msgstr "تکرار (هیچ/روزانه/هفتگی/ماهانه/سالانه)"
 
 msgid "Repeat:"
-msgstr ""
+msgstr "تکرار کنید:"
 
 msgid "Repeat: {0}"
-msgstr ""
+msgstr "تکرار: {0}"
 
 msgid "Root Home (/home/root)"
 msgstr ""
@@ -865,52 +865,52 @@ msgid "S:{0}"
 msgstr ""
 
 msgid "SCHEDULED EVENTS:"
-msgstr ""
+msgstr "رویدادهای برنامه ریزی شده:"
 
 msgid "Sat"
-msgstr ""
+msgstr "نشست"
 
 msgid "Save"
-msgstr ""
+msgstr "ذخیره کنید"
 
 msgid "Search contacts"
-msgstr ""
+msgstr "جستجوی مخاطبین"
 
 msgid "Search events"
-msgstr ""
+msgstr "جستجوی رویدادها"
 
 msgid "Search:"
 msgstr ""
 
 msgid "Seconds between event checks (advanced)"
-msgstr ""
+msgstr "ثانیه بین بررسی رویداد (پیشرفته)"
 
 msgid "Seconds to wait after boot before starting notifications"
-msgstr ""
+msgstr "چند ثانیه منتظر ماندن پس از راه‌اندازی قبل از شروع اعلان‌ها"
 
 msgid "Select .ics file to import"
-msgstr ""
+msgstr "فایل ics. را برای وارد کردن انتخاب کنید"
 
 msgid "Select a file, not a folder"
-msgstr ""
+msgstr "یک فایل را انتخاب کنید نه یک پوشه"
 
 msgid "Select vCard file to import"
-msgstr ""
+msgstr "فایل کارت مجازی را برای وارد کردن انتخاب کنید"
 
 msgid "Selected: {0}"
-msgstr ""
+msgstr "انتخاب شده: {0}"
 
 msgid "September"
-msgstr ""
+msgstr "سپتامبر"
 
 msgid "Short beep"
-msgstr ""
+msgstr "بوق کوتاه"
 
 msgid "Show 'H' marker on holiday days"
-msgstr ""
+msgstr "نشانگر \\\"H\\\" را در روزهای تعطیل نشان دهید"
 
 msgid "Show Statistics"
-msgstr ""
+msgstr "نمایش آمار"
 
 msgid "Show Today's Holidays"
 msgstr ""
@@ -922,7 +922,7 @@ msgid "Show debug messages in console/log"
 msgstr ""
 
 msgid "Show event indicators"
-msgstr ""
+msgstr "نمایش نشانگرهای رویداد"
 
 msgid "Show event statistics"
 msgstr ""
@@ -931,10 +931,10 @@ msgid "Show holiday indicators"
 msgstr ""
 
 msgid "Show markers on days with events"
-msgstr ""
+msgstr "نشانگرها را در روزهای دارای رویداد نشان دهید"
 
 msgid "Show notifications for upcoming events"
-msgstr ""
+msgstr "نمایش اعلان‌ها برای رویدادهای آینده"
 
 msgid "Sign"
 msgstr ""
@@ -985,7 +985,7 @@ msgid "Sorted by title"
 msgstr ""
 
 msgid "Sorted by: Birthday"
-msgstr ""
+msgstr "مرتب شده بر اساس: تولد"
 
 msgid "Sorted by: Category"
 msgstr ""
@@ -1003,7 +1003,7 @@ msgid "Start event notifications in background (recommended)"
 msgstr ""
 
 msgid "Subdirectory name for exports (created automatically)"
-msgstr ""
+msgstr "نام دایرکتوری فرعی برای صادرات (به طور خودکار ایجاد می شود)"
 
 msgid "Successfully converted {0} entries to ICS format"
 msgstr ""
