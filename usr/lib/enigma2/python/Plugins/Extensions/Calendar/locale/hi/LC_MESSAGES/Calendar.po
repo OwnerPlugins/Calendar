@@ -10,1153 +10,1153 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "(Search: '{0}')"
-msgstr ""
+msgstr "(खोजें: '{0}')"
 
 msgid "(truncated)"
-msgstr ""
+msgstr "(काट दिया गया)"
 
 msgid "--- CONTACTS ---"
-msgstr ""
+msgstr "--- संपर्क ---"
 
 msgid "--- DATABASE ---"
-msgstr ""
+msgstr "--- डेटाबेस ---"
 
 msgid "--- EVENTS ---"
-msgstr ""
+msgstr "--- घटनाएँ ---"
 
 msgid "--- HOLIDAYS ---"
-msgstr ""
+msgstr "--- छुट्टियाँ ---"
 
 msgid "--- PERSONAL DATA ---"
-msgstr ""
+msgstr "--- व्यक्तिगत डेटा ---"
 
 msgid "--- SYSTEM ---"
-msgstr ""
+msgstr "--- प्रणाली ---"
 
 msgid "Active"
-msgstr ""
+msgstr "सक्रिय"
 
 msgid "Active:"
-msgstr ""
+msgstr "सक्रिय:"
 
 msgid "Add"
-msgstr ""
+msgstr "जोड़ना"
 
 msgid "Add Contact"
-msgstr ""
+msgstr "संपर्क जोड़ें"
 
 msgid "Add Event"
-msgstr ""
+msgstr "कार्यक्रम जोड़ें"
 
 msgid "Add date and time to exported filenames"
-msgstr ""
+msgstr "निर्यातित फ़ाइल नामों में दिनांक और समय जोड़ें"
 
 msgid "Add timestamp to filename"
-msgstr ""
+msgstr "फ़ाइल नाम में टाइमस्टैम्प जोड़ें"
 
 msgid "Alert sound"
-msgstr ""
+msgstr "चेतावनी ध्वनि"
 
 msgid "Already on today's event"
-msgstr ""
+msgstr "आज के आयोजन पर पहले से ही"
 
 msgid "April"
-msgstr ""
+msgstr "अप्रैल"
 
 msgid "August"
-msgstr ""
+msgstr "अगस्त"
 
 msgid "Automatically clean old notified events"
-msgstr ""
+msgstr "पुरानी अधिसूचित घटनाओं को स्वचालित रूप से साफ़ करें"
 
 msgid "Autostart delay"
-msgstr ""
+msgstr "स्वतः प्रारंभ विलंब"
 
 msgid "Back"
-msgstr ""
+msgstr "पीछे"
 
 msgid "Birthday (YYYY-MM-DD)"
-msgstr ""
+msgstr "जन्मदिन (YYYY-MM-DD)"
 
 msgid "Birthdays: {0}"
-msgstr ""
+msgstr "जन्मदिन: {0}"
 
 msgid "Blue"
-msgstr ""
+msgstr "नीला"
 
 msgid "Browse ICS Files"
-msgstr ""
+msgstr "आईसीएस फ़ाइलें ब्राउज़ करें"
 
 msgid "CONTACTS WITH BIRTHDAYS TODAY:"
-msgstr ""
+msgstr "आज जन्मदिन वाले लोगों से संपर्क:"
 
 msgid "CSV format"
-msgstr ""
+msgstr "सीएसवी प्रारूप"
 
 msgid "Calendar"
-msgstr ""
+msgstr "कैलेंडर"
 
 msgid "Calendar Planner"
-msgstr ""
+msgstr "कैलेंडर नियोजक"
 
 msgid "Calendar Planner | Ready"
-msgstr ""
+msgstr "कैलेंडर प्लानर | तैयार"
 
 msgid "Calendar Settings"
-msgstr ""
+msgstr "कैलेंडर सेटिंग"
 
 msgid "Calendar with events and notifications"
-msgstr ""
+msgstr "घटनाओं और सूचनाओं के साथ कैलेंडर"
 
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करना"
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "रद्द किया जा रहा है..."
 
 msgid "Cannot delete: Contact has no ID"
-msgstr ""
+msgstr "हटाया नहीं जा सकता: संपर्क की कोई आईडी नहीं है"
 
 msgid "Cannot initialize event system: {0}"
-msgstr ""
+msgstr "ईवेंट सिस्टम प्रारंभ नहीं किया जा सकता: {0}"
 
 msgid "Categories (comma separated)"
-msgstr ""
+msgstr "श्रेणियाँ (अल्पविराम से अलग)"
 
 msgid "Check for Updates"
-msgstr ""
+msgstr "अद्यतन के लिए जाँच"
 
 msgid "Checking for updates..."
-msgstr ""
+msgstr "अपडेट के लिए जांच कर रहा है..."
 
 msgid "Choose between legacy text files or standard vCard format"
-msgstr ""
+msgstr "लीगेसी टेक्स्ट फ़ाइलों या मानक vCard प्रारूप में से चुनें"
 
 msgid "Choose where to save exported files"
-msgstr ""
+msgstr "चुनें कि निर्यात की गई फ़ाइलों को कहाँ सहेजना है"
 
 msgid "Clean after days"
-msgstr ""
+msgstr "दिनों के बाद साफ़ करें"
 
 msgid "Clean old notifications"
-msgstr ""
+msgstr "पुरानी सूचनाएं साफ़ करें"
 
 msgid "Cleaned {0} duplicate events"
-msgstr ""
+msgstr "{0} डुप्लिकेट ईवेंट साफ़ किए गए"
 
 msgid "Cleaned {0} old ICS files"
-msgstr ""
+msgstr "{0} पुरानी ICS फ़ाइलें साफ़ की गईं"
 
 msgid "Cleanup Old Files"
-msgstr ""
+msgstr "पुरानी फ़ाइलें साफ़ करें"
 
 msgid "Cleanup duplicate events"
-msgstr ""
+msgstr "डुप्लिकेट इवेंट साफ़ करें"
 
 msgid "Cleanup past events"
-msgstr ""
+msgstr "पिछली घटनाओं को साफ़ करें"
 
 msgid "Clear ALL holiday entries from all date files?"
-msgstr ""
+msgstr "सभी दिनांक फ़ाइलों से सभी अवकाश प्रविष्टियाँ साफ़ करें?"
 
 msgid "Clear All"
-msgstr ""
+msgstr "सभी साफ करें"
 
 msgid "Clear Holiday Database"
-msgstr ""
+msgstr "अवकाश डेटाबेस साफ़ करें"
 
 msgid "Close"
-msgstr ""
+msgstr "बंद करना"
 
 msgid "Color days with holidays"
-msgstr ""
+msgstr "छुट्टियों के साथ दिन रंगीन करें"
 
 msgid "Color for days with events"
-msgstr ""
+msgstr "घटनाओं के साथ दिनों को रंगीन बनाएं"
 
 msgid "Color for holiday days"
-msgstr ""
+msgstr "छुट्टियों के दिनों के लिए रंग"
 
 msgid "Completed"
-msgstr ""
+msgstr "पुरा होना।"
 
 msgid "Contact"
-msgstr ""
+msgstr "संपर्क"
 
 msgid "Contact '{0}' deleted successfully"
-msgstr ""
+msgstr "संपर्क '{0}' सफलतापूर्वक हटा दिया गया"
 
 msgid "Contact:"
-msgstr ""
+msgstr "संपर्क करना:"
 
 msgid "Contacts directory not found"
-msgstr ""
+msgstr "संपर्क निर्देशिका नहीं मिली"
 
 msgid "Contacts imported from ICS file!"
-msgstr ""
+msgstr "संपर्क ICS फ़ाइल से आयातित!"
 
 msgid "Contacts: 0"
-msgstr ""
+msgstr "संपर्क: 0"
 
 msgid "Contacts: {0}/{1}"
-msgstr ""
+msgstr "संपर्क: {0}/{1}"
 
 msgid "Conversion error: {0}"
-msgstr ""
+msgstr "रूपांतरण त्रुटि: {0}"
 
 msgid "Convert all existing data to vCard format?"
-msgstr ""
+msgstr "सभी मौजूदा डेटा को vCard प्रारूप में बदलें?"
 
 msgid "Convert to ICS format"
-msgstr ""
+msgstr "आईसीएस प्रारूप में कनवर्ट करें"
 
 msgid "Convert to legacy format"
-msgstr ""
+msgstr "लीगेसी प्रारूप में कनवर्ट करें"
 
 msgid "Convert to vCard format"
-msgstr ""
+msgstr "vCard प्रारूप में कनवर्ट करें"
 
 msgid "Converted {0} events to {1}"
-msgstr ""
+msgstr "{0} इवेंट को {1} में परिवर्तित किया गया"
 
 msgid "Could not check for updates. Check internet connection."
-msgstr ""
+msgstr "अद्यतनों की जाँच नहीं की जा सकी. इंटरनेट कनेक्शन जांचें."
 
 msgid "Could not check for updates: %s"
-msgstr ""
+msgstr "अद्यतनों की जाँच नहीं की जा सकी: %s"
 
 msgid "Could not read file"
-msgstr ""
+msgstr "फ़ाइल नहीं पढ़ सका"
 
 msgid "Cyan"
-msgstr ""
+msgstr "सियान"
 
 msgid "Database converted to vCard format"
-msgstr ""
+msgstr "डेटाबेस को vCard प्रारूप में परिवर्तित किया गया"
 
 msgid "Database format"
-msgstr ""
+msgstr "डेटाबेस प्रारूप"
 
 msgid "Date"
-msgstr ""
+msgstr "तारीख"
 
 msgid "Date (YYYY-MM-DD)"
-msgstr ""
+msgstr "दिनांक (YYYY-MM-DD)"
 
 msgid "Date range: {0} to {1}"
-msgstr ""
+msgstr "दिनांक सीमा: {0} से {1}"
 
 msgid "Date:"
-msgstr ""
+msgstr "तारीख:"
 
 msgid "Day +"
-msgstr ""
+msgstr "दिन +"
 
 msgid "Day -"
-msgstr ""
+msgstr "दिन -"
 
 msgid "Days to keep notifications in cache"
-msgstr ""
+msgstr "सूचनाओं को कैश में रखने के लिए दिन"
 
 msgid "December"
-msgstr ""
+msgstr "दिसंबर"
 
 msgid "Default event time"
-msgstr ""
+msgstr "डिफ़ॉल्ट ईवेंट समय"
 
 msgid "Default format for exported files"
-msgstr ""
+msgstr "निर्यात की गई फ़ाइलों के लिए डिफ़ॉल्ट प्रारूप"
 
 msgid "Default minutes before event to show notification"
-msgstr ""
+msgstr "अधिसूचना दिखाने के लिए ईवेंट से पहले डिफ़ॉल्ट मिनट"
 
 msgid "Default notification minutes"
-msgstr ""
+msgstr "डिफ़ॉल्ट अधिसूचना मिनट"
 
 msgid "Default time for new events (HH:MM format)"
-msgstr ""
+msgstr "नई घटनाओं के लिए डिफ़ॉल्ट समय (HH:MM प्रारूप)"
 
 msgid "Delete"
-msgstr ""
+msgstr "मिटाना"
 
 msgid "Delete ALL ICS events"
-msgstr ""
+msgstr "सभी ICS इवेंट हटाएँ"
 
 msgid "Delete ALL contacts"
-msgstr ""
+msgstr "सभी संपर्क हटाएँ"
 
 msgid "Delete ALL events"
-msgstr ""
+msgstr "सभी ईवेंट हटाएँ"
 
 msgid "Delete File"
-msgstr ""
+msgstr "फ़ाइल नष्ट करें"
 
 msgid "Delete ICS files older than 30 days?"
-msgstr ""
+msgstr "30 दिन से अधिक पुरानी ICS फ़ाइलें हटाएँ?"
 
 msgid "Delete file"
-msgstr ""
+msgstr "फ़ाइल नष्ट करें"
 
 msgid "Delete {0}?"
-msgstr ""
+msgstr "{0} हटाएं?"
 
 msgid "Delete: {0}"
-msgstr ""
+msgstr "हटाएँ: {0}"
 
 msgid "Deleted {0} ICS events"
-msgstr ""
+msgstr "{0} ICS इवेंट हटा दिए गए"
 
 msgid "Deleted {0} contacts from database"
-msgstr ""
+msgstr "डेटाबेस से {0} संपर्क हटा दिए गए"
 
 msgid "Description"
-msgstr ""
+msgstr "विवरण"
 
 msgid "Description:"
-msgstr ""
+msgstr "विवरण:"
 
 msgid "Directory: {0}"
-msgstr ""
+msgstr "निर्देशिका: {0}"
 
 msgid "Disk"
-msgstr ""
+msgstr "डिस्क"
 
 msgid "Duplicates cleaned: %d"
-msgstr ""
+msgstr "डुप्लिकेट साफ़ किए गए: %d"
 
 msgid "E:{0}"
-msgstr ""
+msgstr "ई:__सीएसएच_0__"
 
 msgid "Edit"
-msgstr ""
+msgstr "संपादन करना"
 
 msgid "Edit Contact"
-msgstr ""
+msgstr "संपादित संपर्क"
 
 msgid "Edit Contact ({0}/{1})"
-msgstr ""
+msgstr "संपर्क संपादित करें ({0}/{1})"
 
 msgid "Edit Date"
-msgstr ""
+msgstr "संपादन की तारीख"
 
 msgid "Edit Description"
-msgstr ""
+msgstr "संपादित करें] वर्णन"
 
 msgid "Edit Event"
-msgstr ""
+msgstr "इवेंट संपादित करें"
 
 msgid "Edit Event ({0}/{1})"
-msgstr ""
+msgstr "इवेंट संपादित करें ({0}/{1})"
 
 msgid "Edit Event ({0}/{1}) - Today"
-msgstr ""
+msgstr "इवेंट संपादित करें ({0}/{1}) - आज"
 
 msgid "Edit Holiday"
-msgstr ""
+msgstr "छुट्टियाँ संपादित करें"
 
 msgid "Edit ICS Event"
-msgstr ""
+msgstr "आईसीएस इवेंट संपादित करें"
 
 msgid "Edit Note"
-msgstr ""
+msgstr "नोट संपादित करें"
 
 msgid "Edit Sign"
-msgstr ""
+msgstr "चिह्न संपादित करें"
 
 msgid "Edit: {0}"
-msgstr ""
+msgstr "संपादित करें: {0}"
 
 msgid "Email"
-msgstr ""
+msgstr "ईमेल"
 
 msgid "Enable autostart"
-msgstr ""
+msgstr "ऑटोस्टार्ट सक्षम करें"
 
 msgid "Enable debug mode"
-msgstr ""
+msgstr "डिबग मोड सक्षम करें"
 
 msgid "Enable event management with date/time"
-msgstr ""
+msgstr "दिनांक/समय के साथ इवेंट प्रबंधन सक्षम करें"
 
 msgid "Enable event system"
-msgstr ""
+msgstr "इवेंट सिस्टम सक्षम करें"
 
 msgid "Enable holiday coloring"
-msgstr ""
+msgstr "अवकाश रंग सक्षम करें"
 
 msgid "Enable notifications"
-msgstr ""
+msgstr "सूचनाएं सक्षम करें"
 
 msgid "Enter"
-msgstr ""
+msgstr "प्रवेश करना"
 
 msgid "Error deleting contact"
-msgstr ""
+msgstr "संपर्क हटाने में त्रुटि"
 
 msgid "Error deleting contact '{0}'"
-msgstr ""
+msgstr "संपर्क '{0}' को हटाने में त्रुटि"
 
 msgid "Error deleting database: {0}"
-msgstr ""
+msgstr "डेटाबेस हटाने में त्रुटि: {0}"
 
 msgid "Error getting ICS statistics"
-msgstr ""
+msgstr "आईसीएस आँकड़े प्राप्त करने में त्रुटि"
 
 msgid "Error opening ICS browser: %s"
-msgstr ""
+msgstr "ICS ब्राउज़र खोलने में त्रुटि: %s"
 
 msgid "Error opening ICS importer: {0}"
-msgstr ""
+msgstr "ICS आयातक खोलने में त्रुटि: {0}"
 
 msgid "Error opening event dialog"
-msgstr ""
+msgstr "ईवेंट संवाद खोलने में त्रुटि"
 
 msgid "Error saving ICS data"
-msgstr ""
+msgstr "आईसीएस डेटा सहेजने में त्रुटि"
 
 msgid "Error saving contact"
-msgstr ""
+msgstr "संपर्क सहेजने में त्रुटि"
 
 msgid "Error saving data"
-msgstr ""
+msgstr "डेटा सहेजने में त्रुटि"
 
 msgid "Error saving event"
-msgstr ""
+msgstr "ईवेंट सहेजने में त्रुटि"
 
 msgid "Error: {0}"
-msgstr ""
+msgstr "त्रुटि: {0}"
 
 msgid "Errors: %d"
-msgstr ""
+msgstr "त्रुटियाँ: %d"
 
 msgid "Errors: {0}"
-msgstr ""
+msgstr "त्रुटियाँ: {0}"
 
 msgid "Event"
-msgstr ""
+msgstr "आयोजन"
 
 msgid "Event '{0}' deleted successfully"
-msgstr ""
+msgstr "इवेंट '{0}' सफलतापूर्वक हटा दिया गया"
 
 msgid "Event '{0}' saved successfully"
-msgstr ""
+msgstr "इवेंट '{0}' सफलतापूर्वक सहेजा गया"
 
 msgid "Event check interval"
-msgstr ""
+msgstr "घटना जाँच अंतराल"
 
 msgid "Event color"
-msgstr ""
+msgstr "घटना का रंग"
 
 msgid "Event manager not available"
-msgstr ""
+msgstr "इवेंट मैनेजर उपलब्ध नहीं है"
 
 msgid "Event manager not initialized"
-msgstr ""
+msgstr "इवेंट मैनेजर प्रारंभ नहीं किया गया"
 
 msgid "Event system is disabled. Enable it in settings first."
-msgstr ""
+msgstr "इवेंट सिस्टम अक्षम है. इसे पहले सेटिंग्स में सक्षम करें।"
 
 msgid "Event system is disabled. Enable it in settings."
-msgstr ""
+msgstr "इवेंट सिस्टम अक्षम है. इसे सेटिंग्स में सक्षम करें।"
 
 msgid "Event system is not enabled"
-msgstr ""
+msgstr "इवेंट सिस्टम सक्षम नहीं है"
 
 msgid "Events found: {0}"
-msgstr ""
+msgstr "इवेंट मिले: {0}"
 
 msgid "Events imported successfully"
-msgstr ""
+msgstr "इवेंट सफलतापूर्वक आयात किए गए"
 
 msgid "Export All to ICS File"
-msgstr ""
+msgstr "सभी को आईसीएस फ़ाइल में निर्यात करें"
 
 msgid "Export error: {0}"
-msgstr ""
+msgstr "निर्यात त्रुटि: {0}"
 
 msgid "Export failed or no contacts to export"
-msgstr ""
+msgstr "निर्यात विफल रहा या निर्यात करने के लिए कोई संपर्क नहीं है"
 
 msgid "Export format"
-msgstr ""
+msgstr "निर्यात प्रारूप"
 
 msgid "Export location"
-msgstr ""
+msgstr "निर्यात स्थान"
 
 msgid "Export subdirectory"
-msgstr ""
+msgstr "उपनिर्देशिका निर्यात करें"
 
 msgid "Export vCard File"
-msgstr ""
+msgstr "vCard फ़ाइल निर्यात करें"
 
 msgid "Exporting contacts..."
-msgstr ""
+msgstr "संपर्क निर्यात कर रहा है..."
 
 msgid "Failed to create backup. Update cancelled."
-msgstr ""
+msgstr "बैकअप बनाने में विफल. अद्यतन रद्द किया गया."
 
 msgid "Failed to start import"
-msgstr ""
+msgstr "आयात प्रारंभ करने में विफल"
 
 msgid "February"
-msgstr ""
+msgstr "फ़रवरी"
 
 msgid "Field {0}/{1}: {2}"
-msgstr ""
+msgstr "फ़ील्ड {0}/{1}: {2}"
 
 msgid "File deleted"
-msgstr ""
+msgstr "फ़ाइल हटा दी गई"
 
 msgid "File not found!"
-msgstr ""
+msgstr "फ़ाइल प्राप्त नहीं हुई!"
 
 msgid "File re-imported successfully"
-msgstr ""
+msgstr "फ़ाइल सफलतापूर्वक पुनः आयात की गई"
 
 msgid "File re-imported. Found {0} potential duplicates."
-msgstr ""
+msgstr "फ़ाइल पुनः आयात की गई. {0} संभावित डुप्लिकेट मिले।"
 
 msgid "File: {0}"
-msgstr ""
+msgstr "फ़ाइल: {0}"
 
 msgid "Files is Empty..."
-msgstr ""
+msgstr "फ़ाइलें खाली हैं..."
 
 msgid "Found {0} ICS files"
-msgstr ""
+msgstr "{0} ICS फ़ाइलें मिलीं"
 
 msgid "Fri"
-msgstr ""
+msgstr "शुक्र"
 
 msgid "Green"
-msgstr ""
+msgstr "हरा"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "हार्ड डिस्क"
 
 msgid "Hard Disk (/media/hdd)"
-msgstr ""
+msgstr "हार्ड डिस्क (/मीडिया/एचडीडी)"
 
 msgid "Holiday"
-msgstr ""
+msgstr "छुट्टी"
 
 msgid "Holiday color"
-msgstr ""
+msgstr "छुट्टी का रंग"
 
 msgid "Holiday:"
-msgstr ""
+msgstr "छुट्टी:"
 
 msgid "Holidays imported"
-msgstr ""
+msgstr "छुट्टियाँ आयातित"
 
 msgid "I:{0}"
-msgstr ""
+msgstr "मैं:{0}"
 
 msgid "ICS Events: 0"
-msgstr ""
+msgstr "आईसीएस घटनाएँ: 0"
 
 msgid "ICS Events: {0}/{1}"
-msgstr ""
+msgstr "आईसीएस इवेंट: {0}/{1}"
 
 msgid "ICS format"
-msgstr ""
+msgstr "आईसीएस प्रारूप"
 
 msgid "ICS format (google calendar)"
-msgstr ""
+msgstr "आईसीएस प्रारूप (गूगल कैलेंडर)"
 
 msgid "ICS import feature not yet available: {0}"
-msgstr ""
+msgstr "ICS आयात सुविधा अभी तक उपलब्ध नहीं है: {0}"
 
 msgid "Import"
-msgstr ""
+msgstr "आयात"
 
 msgid "Import All"
-msgstr ""
+msgstr "सभी आयात करें"
 
 msgid "Import Google Calendar (.ics)"
-msgstr ""
+msgstr "Google कैलेंडर आयात करें (.ics)"
 
 msgid "Import Holidays"
-msgstr ""
+msgstr "छुट्टियाँ आयात करें"
 
 msgid "Import ICS Contacts Google Calendar (.ics)"
-msgstr ""
+msgstr "ICS संपर्क Google कैलेंडर आयात करें (.ics)"
 
 msgid "Import completed"
-msgstr ""
+msgstr "आयात पूरा हुआ"
 
 msgid "Import completed - Sorting contacts..."
-msgstr ""
+msgstr "आयात पूरा हुआ - संपर्कों को क्रमित किया जा रहा है..."
 
 msgid "Import completed!"
-msgstr ""
+msgstr "आयात पूरा हुआ!"
 
 msgid "Import completed. Ready."
-msgstr ""
+msgstr "आयात पूरा हुआ. तैयार।"
 
 msgid "Import error: {0}"
-msgstr ""
+msgstr "आयात त्रुटि: {0}"
 
 msgid "Import events to calendar"
-msgstr ""
+msgstr "कैलेंडर में ईवेंट आयात करें"
 
 msgid "Import vCard File"
-msgstr ""
+msgstr "vCard फ़ाइल आयात करें"
 
 msgid "Imported ICS Files"
-msgstr ""
+msgstr "आयातित आईसीएस फ़ाइलें"
 
 msgid "Imported: %d"
-msgstr ""
+msgstr "आयातित: %d"
 
 msgid "Imported: {0}"
-msgstr ""
+msgstr "आयातित: {0}"
 
 msgid "Imported: {0} contacts"
-msgstr ""
+msgstr "आयातित: {0} संपर्क"
 
 msgid "Importing iCalendar File"
-msgstr ""
+msgstr "iCalendar फ़ाइल आयात करना"
 
 msgid "Importing vCard File"
-msgstr ""
+msgstr "vCard फ़ाइल आयात करना"
 
 msgid "Initializing..."
-msgstr ""
+msgstr "प्रारंभ किया जा रहा है..."
 
 msgid "Invalid birthday format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "अमान्य जन्मदिन प्रारूप. YYYY-MM-DD का प्रयोग करें"
 
 msgid "Invalid date format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "अमान्य दिनांक प्रारूप. YYYY-MM-DD का प्रयोग करें"
 
 msgid "Invalid time format! Use HH:MM (00:00 to 23:59)"
-msgstr ""
+msgstr "अमान्य समय प्रारूप! एचएच:एमएम का उपयोग करें (00:00 से 23:59)"
 
 msgid "Invalid time format. Use HH:MM"
-msgstr ""
+msgstr "अमान्य समय प्रारूप. एचएच:एमएम का प्रयोग करें"
 
 msgid "January"
-msgstr ""
+msgstr "जनवरी"
 
 msgid "July"
-msgstr ""
+msgstr "जुलाई"
 
 msgid "June"
-msgstr ""
+msgstr "जून"
 
 msgid "Labels (comma separated)"
-msgstr ""
+msgstr "लेबल (अल्पविराम से अलग)"
 
 msgid "Legacy format (text files)"
-msgstr ""
+msgstr "लीगेसी प्रारूप (पाठ फ़ाइलें)"
 
 msgid "Manage Contacts"
-msgstr ""
+msgstr "संपर्क प्रबंधित करें"
 
 msgid "Manage Event"
-msgstr ""
+msgstr "इवेंट प्रबंधित करें"
 
 msgid "Manage ICS Events"
-msgstr ""
+msgstr "आईसीएस इवेंट प्रबंधित करें"
 
 msgid "Manage ICS Files"
-msgstr ""
+msgstr "आईसीएस फ़ाइलें प्रबंधित करें"
 
 msgid "March"
-msgstr ""
+msgstr "मार्च"
 
 msgid "May"
-msgstr ""
+msgstr "मई"
 
 msgid "Modified: {0}"
-msgstr ""
+msgstr "संशोधित: {0}"
 
 msgid "Mon"
-msgstr ""
+msgstr "सोम"
 
 msgid "Month +"
-msgstr ""
+msgstr "महीना+"
 
 msgid "Month -"
-msgstr ""
+msgstr "महीना -"
 
 msgid "Name"
-msgstr ""
+msgstr "नाम"
 
 msgid "Name is required"
-msgstr ""
+msgstr "नाम आवश्यक है"
 
 msgid "Network Share"
-msgstr ""
+msgstr "नेटवर्क शेयर"
 
 msgid "New Date"
-msgstr ""
+msgstr "नई तारीख़"
 
 msgid "Newest file: {0}"
-msgstr ""
+msgstr "नवीनतम फ़ाइल: {0}"
 
 msgid "Next Field"
-msgstr ""
+msgstr "अगला फ़ील्ड"
 
 msgid "No ICS directory found"
-msgstr ""
+msgstr "कोई आईसीएस निर्देशिका नहीं मिली"
 
 msgid "No ICS events found"
-msgstr ""
+msgstr "कोई ICS इवेंट नहीं मिला"
 
 msgid "No ICS files found"
-msgstr ""
+msgstr "कोई ICS फ़ाइल नहीं मिली"
 
 msgid "No ICS files in archive"
-msgstr ""
+msgstr "संग्रह में कोई ICS फ़ाइल नहीं"
 
 msgid "No TV service currently playing"
-msgstr ""
+msgstr "फिलहाल कोई टीवी सेवा नहीं चल रही है"
 
 msgid "No contact files found"
-msgstr ""
+msgstr "कोई संपर्क फ़ाइल नहीं मिली"
 
 msgid "No contact selected"
-msgstr ""
+msgstr "कोई संपर्क चयनित नहीं"
 
 msgid "No contacts found in database"
-msgstr ""
+msgstr "डेटाबेस में कोई संपर्क नहीं मिला"
 
 msgid "No data found to convert"
-msgstr ""
+msgstr "कनवर्ट करने के लिए कोई डेटा नहीं मिला"
 
 msgid "No data to export"
-msgstr ""
+msgstr "निर्यात करने के लिए कोई डेटा नहीं"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "कोई डुप्लिकेट नहीं मिला"
 
 msgid "No event selected"
-msgstr ""
+msgstr "कोई ईवेंट चयनित नहीं"
 
 msgid "No events database found"
-msgstr ""
+msgstr "कोई ईवेंट डेटाबेस नहीं मिला"
 
 msgid "No events for today"
-msgstr ""
+msgstr "आज के लिए कोई कार्यक्रम नहीं"
 
 msgid "No events to convert"
-msgstr ""
+msgstr "परिवर्तित करने के लिए कोई ईवेंट नहीं"
 
 msgid "No file in database..."
-msgstr ""
+msgstr "डेटाबेस में कोई फ़ाइल नहीं..."
 
 msgid "No file selected"
-msgstr ""
+msgstr "कोई फ़ाइल चयनित नहीं"
 
 msgid "No past events to remove"
-msgstr ""
+msgstr "हटाने के लिए कोई पिछली घटना नहीं"
 
 msgid "No sorting (original order)"
-msgstr ""
+msgstr "कोई छँटाई नहीं (मूल आदेश)"
 
 msgid "No sound"
-msgstr ""
+msgstr "कोई आवाज नहीं"
 
 msgid "Note"
-msgstr ""
+msgstr "टिप्पणी"
 
 msgid "Note:"
-msgstr ""
+msgstr "टिप्पणी:"
 
 msgid "Notes"
-msgstr ""
+msgstr "टिप्पणियाँ"
 
 msgid "Notification sound type"
-msgstr ""
+msgstr "अधिसूचना ध्वनि प्रकार"
 
 msgid "Notification tone"
-msgstr ""
+msgstr "अधिसूचना टोन"
 
 msgid "Notify"
-msgstr ""
+msgstr "सूचित करें"
 
 msgid "Notify:"
-msgstr ""
+msgstr "सूचित करें:"
 
 msgid "November"
-msgstr ""
+msgstr "नवंबर"
 
 msgid "October"
-msgstr ""
+msgstr "अक्टूबर"
 
 msgid "Oldest file: {0}\\\\\\\\n"
-msgstr ""
+msgstr "सबसे पुरानी फ़ाइल: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
-msgstr ""
+msgstr "नारंगी"
 
 msgid "P:{0}/{1}"
-msgstr ""
+msgstr "पी:{0}/{1}"
 
 msgid "Phone"
-msgstr ""
+msgstr "फ़ोन"
 
 msgid "Play a sound when event notification appears"
-msgstr ""
+msgstr "ईवेंट अधिसूचना प्रकट होने पर ध्वनि बजाएं"
 
 msgid "Play sound with notifications"
-msgstr ""
+msgstr "सूचनाओं के साथ ध्वनि चलाएँ"
 
 msgid "Please restart Enigma2 manually."
-msgstr ""
+msgstr "कृपया Enigma2 को मैन्युअल रूप से पुनः आरंभ करें।"
 
 msgid "Plugin Directory"
-msgstr ""
+msgstr "प्लगइन निर्देशिका"
 
 msgid "Plugin is up to date"
-msgstr ""
+msgstr "प्लगइन अद्यतित है"
 
 msgid "Press GREEN to import"
-msgstr ""
+msgstr "आयात करने के लिए हरा दबाएँ"
 
 msgid "Press TEXT to search"
-msgstr ""
+msgstr "खोजने के लिए टेक्स्ट दबाएँ"
 
 msgid "Preview file content"
-msgstr ""
+msgstr "फ़ाइल सामग्री का पूर्वावलोकन करें"
 
 msgid "Progress: {0}%"
-msgstr ""
+msgstr "प्रगति: {0}%"
 
 msgid "Re-import"
-msgstr ""
+msgstr "पुन: आयात"
 
 msgid "Red"
-msgstr ""
+msgstr "लाल"
 
 msgid "Refresh"
-msgstr ""
+msgstr "ताज़ा करना"
 
 msgid "Refreshed"
-msgstr ""
+msgstr "ताज़ा किया"
 
 msgid "Remove"
-msgstr ""
+msgstr "निकालना"
 
 msgid "Remove Date"
-msgstr ""
+msgstr "दिनांक हटाएँ"
 
 msgid "Removed {0} past events"
-msgstr ""
+msgstr "{0} पिछली घटनाओं को हटा दिया गया"
 
 msgid "Repeat"
-msgstr ""
+msgstr "दोहराना"
 
 msgid "Repeat (none/daily/weekly/monthly/yearly)"
-msgstr ""
+msgstr "दोहराएँ (कोई नहीं/दैनिक/साप्ताहिक/मासिक/वार्षिक)"
 
 msgid "Repeat:"
-msgstr ""
+msgstr "दोहराना:"
 
 msgid "Repeat: {0}"
-msgstr ""
+msgstr "दोहराएँ: {0}"
 
 msgid "Root Home (/home/root)"
-msgstr ""
+msgstr "रूट होम (/होम/रूट)"
 
 msgid "S:{0}"
-msgstr ""
+msgstr "एस:__सीएसएच_0__"
 
 msgid "SCHEDULED EVENTS:"
-msgstr ""
+msgstr "निर्धारित कार्यक्रम:"
 
 msgid "Sat"
-msgstr ""
+msgstr "बैठा"
 
 msgid "Save"
-msgstr ""
+msgstr "बचाना"
 
 msgid "Search contacts"
-msgstr ""
+msgstr "संपर्क खोजें"
 
 msgid "Search events"
-msgstr ""
+msgstr "घटनाएँ खोजें"
 
 msgid "Search:"
-msgstr ""
+msgstr "खोज:"
 
 msgid "Seconds between event checks (advanced)"
-msgstr ""
+msgstr "घटना जाँच के बीच के सेकंड (उन्नत)"
 
 msgid "Seconds to wait after boot before starting notifications"
-msgstr ""
+msgstr "सूचनाएं प्रारंभ करने से पहले बूट के बाद प्रतीक्षा करने के लिए सेकंड"
 
 msgid "Select .ics file to import"
-msgstr ""
+msgstr "आयात करने के लिए .ics फ़ाइल चुनें"
 
 msgid "Select a file, not a folder"
-msgstr ""
+msgstr "फ़ाइल चुनें, फ़ोल्डर नहीं"
 
 msgid "Select vCard file to import"
-msgstr ""
+msgstr "आयात करने के लिए vCard फ़ाइल चुनें"
 
 msgid "Selected: {0}"
-msgstr ""
+msgstr "चयनित: {0}"
 
 msgid "September"
-msgstr ""
+msgstr "सितम्बर"
 
 msgid "Short beep"
-msgstr ""
+msgstr "लघु बीप"
 
 msgid "Show 'H' marker on holiday days"
-msgstr ""
+msgstr "छुट्टियों के दिनों में 'H' मार्कर दिखाएँ"
 
 msgid "Show Statistics"
-msgstr ""
+msgstr "आंकड़े दिखाएं"
 
 msgid "Show Today's Holidays"
-msgstr ""
+msgstr "आज की छुट्टियाँ दिखाएँ"
 
 msgid "Show Upcoming Holidays"
-msgstr ""
+msgstr "आगामी छुट्टियाँ दिखाएँ"
 
 msgid "Show debug messages in console/log"
-msgstr ""
+msgstr "कंसोल/लॉग में डिबग संदेश दिखाएं"
 
 msgid "Show event indicators"
-msgstr ""
+msgstr "घटना संकेतक दिखाएँ"
 
 msgid "Show event statistics"
-msgstr ""
+msgstr "घटना आँकड़े दिखाएँ"
 
 msgid "Show holiday indicators"
-msgstr ""
+msgstr "अवकाश संकेतक दिखाएँ"
 
 msgid "Show markers on days with events"
-msgstr ""
+msgstr "घटनाओं वाले दिनों पर मार्कर दिखाएँ"
 
 msgid "Show notifications for upcoming events"
-msgstr ""
+msgstr "आगामी ईवेंट के लिए सूचनाएं दिखाएं"
 
 msgid "Sign"
-msgstr ""
+msgstr "संकेत"
 
 msgid "Sign:"
-msgstr ""
+msgstr "संकेत:"
 
 msgid "Size: {0:.1f} KB"
-msgstr ""
+msgstr "आकार: {0:.1f} KB"
 
 msgid "Size: {0:.1f} MB"
-msgstr ""
+msgstr "आकार: {0:.1f} MB"
 
 msgid "Skipped: %d"
-msgstr ""
+msgstr "छोड़ा गया: %d"
 
 msgid "Skipped: {0}"
-msgstr ""
+msgstr "छोड़ा गया: {0}"
 
 msgid "Skipped: {0} (duplicates)"
-msgstr ""
+msgstr "छोड़ा गया: {0} (डुप्लिकेट)"
 
 msgid "Sort"
-msgstr ""
+msgstr "क्रम से लगाना"
 
 msgid "Sort by birthday (month/day)"
-msgstr ""
+msgstr "जन्मदिन के अनुसार क्रमबद्ध करें (माह/दिन)"
 
 msgid "Sort by category"
-msgstr ""
+msgstr "श्रेणी के अनुसार क्रमबद्ध करें"
 
 msgid "Sort by name (alphabetical)"
-msgstr ""
+msgstr "नाम के अनुसार क्रमबद्ध करें (वर्णमाला के अनुसार)"
 
 msgid "Sorted by birthday"
-msgstr ""
+msgstr "जन्मदिन के अनुसार क्रमबद्ध"
 
 msgid "Sorted by category"
-msgstr ""
+msgstr "श्रेणी के अनुसार क्रमबद्ध"
 
 msgid "Sorted by date"
-msgstr ""
+msgstr "दिनांक के अनुसार क्रमबद्ध"
 
 msgid "Sorted by name"
-msgstr ""
+msgstr "नाम के अनुसार क्रमबद्ध"
 
 msgid "Sorted by title"
-msgstr ""
+msgstr "शीर्षक के अनुसार क्रमबद्ध"
 
 msgid "Sorted by: Birthday"
-msgstr ""
+msgstr "क्रमबद्ध: जन्मदिन"
 
 msgid "Sorted by: Category"
-msgstr ""
+msgstr "क्रमबद्ध: श्रेणी"
 
 msgid "Sorted by: Date"
-msgstr ""
+msgstr "क्रमबद्ध: दिनांक"
 
 msgid "Sorted by: Name"
-msgstr ""
+msgstr "क्रमबद्ध: नाम"
 
 msgid "Sorted by: Title"
-msgstr ""
+msgstr "क्रमबद्ध: शीर्षक"
 
 msgid "Start event notifications in background (recommended)"
-msgstr ""
+msgstr "पृष्ठभूमि में ईवेंट सूचनाएं प्रारंभ करें (अनुशंसित)"
 
 msgid "Subdirectory name for exports (created automatically)"
-msgstr ""
+msgstr "निर्यात के लिए उपनिर्देशिका नाम (स्वचालित रूप से बनाया गया)"
 
 msgid "Successfully converted {0} entries to ICS format"
-msgstr ""
+msgstr "{0} प्रविष्टियों को ICS प्रारूप में सफलतापूर्वक परिवर्तित किया गया"
 
 msgid "Sun"
-msgstr ""
+msgstr "सूरज"
 
 msgid "Tags: {0}"
-msgstr ""
+msgstr "टैग: {0}"
 
 msgid "Temporary Storage (/tmp)"
-msgstr ""
+msgstr "अस्थायी भंडारण (/tmp)"
 
 msgid "Test error: %s"
-msgstr ""
+msgstr "परीक्षण त्रुटि: %s"
 
 msgid "Text format"
-msgstr ""
+msgstr "पाठ प्रारूप"
 
 msgid "Thu"
-msgstr ""
+msgstr "गुरु"
 
 msgid "Time"
-msgstr ""
+msgstr "समय"
 
 msgid "Time (HH:MM)"
-msgstr ""
+msgstr "समय (HH:MM)"
 
 msgid "Time:"
-msgstr ""
+msgstr "समय:"
 
 msgid "Title"
-msgstr ""
+msgstr "शीर्षक"
 
 msgid "Title and date are required!"
-msgstr ""
+msgstr "शीर्षक और दिनांक आवश्यक है!"
 
 msgid "Title is required"
-msgstr ""
+msgstr "शीर्षक आवश्यक है"
 
 msgid "Title:"
-msgstr ""
+msgstr "शीर्षक:"
 
 msgid "Today"
-msgstr ""
+msgstr "आज"
 
 msgid "Total events: {0}"
-msgstr ""
+msgstr "कुल घटनाएँ: {0}"
 
 msgid "Total files: {0}\\\\\\\\n"
-msgstr ""
+msgstr "कुल फ़ाइलें: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Total size: {0:.1f} KB\\\\\\\\n"
-msgstr ""
+msgstr "कुल आकार: {0:.1f} KB\\\\\\\\\\\\\\\\n"
 
 msgid "Total: %d"
-msgstr ""
+msgstr "कुल: %d"
 
 msgid "Total: {0}"
-msgstr ""
+msgstr "कुल: {0}"
 
 msgid "Tue"
-msgstr ""
+msgstr "मंगल"
 
 msgid "Type of sound to play with notifications"
-msgstr ""
+msgstr "सूचनाओं के साथ चलाने के लिए ध्वनि का प्रकार"
 
 msgid "U:{0}"
-msgstr ""
+msgstr "यू:__सीएसएच_0__"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "यूएसबी ड्राइव"
 
 msgid "USB Drive (/media/usb)"
-msgstr ""
+msgstr "यूएसबी ड्राइव (/मीडिया/यूएसबी)"
 
 msgid "Unable to play test sound"
-msgstr ""
+msgstr "परीक्षण ध्वनि चलाने में असमर्थ"
 
 msgid "Update available!"
-msgstr ""
+msgstr "उपलब्ध अद्यतन!"
 
 msgid "Update cancelled"
-msgstr ""
+msgstr "अद्यतन रद्द किया गया"
 
 msgid "Update check error"
-msgstr ""
+msgstr "जाँच त्रुटि अद्यतन करें"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "अद्यतन जांच विफल रही"
 
 msgid "Update completed successfully!"
-msgstr ""
+msgstr "अपडेट सफलतापूर्वक पूरा हुआ!"
 
 msgid "Update error: %s"
-msgstr ""
+msgstr "अद्यतन त्रुटि: %s"
 
 msgid "Update failed"
-msgstr ""
+msgstr "भार बढ़ाना विफल हुवा"
 
 msgid "Update failed and backup restore also failed!"
-msgstr ""
+msgstr "अद्यतन विफल रहा और बैकअप पुनर्स्थापना भी विफल रही!"
 
 msgid "Update failed. Restored from backup."
-msgstr ""
+msgstr "भार बढ़ाना विफल हुवा। बैकअप से पुनर्स्थापित किया गया."
 
 msgid "Update successful!"
-msgstr ""
+msgstr "सफलतापूर्वक नवीनीकरण!"
 
 msgid "Updated: {0}"
-msgstr ""
+msgstr "अपडेट किया गया: {0}"
 
 msgid "Updating plugin... Please wait"
-msgstr ""
+msgstr "प्लगइन अपडेट हो रहा है... कृपया प्रतीक्षा करें"
 
 msgid "Using legacy database format"
-msgstr ""
+msgstr "लीगेसी डेटाबेस प्रारूप का उपयोग करना"
 
 msgid "View"
-msgstr ""
+msgstr "देखना"
 
 msgid "Waiting for thread to stop..."
-msgstr ""
+msgstr "थ्रेड रुकने का इंतज़ार किया जा रहा है..."
 
 msgid "Wed"
-msgstr ""
+msgstr "बुध"
 
 msgid "White"
-msgstr ""
+msgstr "सफ़ेद"
 
 msgid "Yellow"
-msgstr ""
+msgstr "पीला"
 
 msgid "You have the latest version of Calendar."
-msgstr ""
+msgstr "आपके पास कैलेंडर का नवीनतम संस्करण है."
 
 msgid "not sorted"
-msgstr ""
+msgstr "क्रमबद्ध नहीं"
 
 msgid "sorted by birthday"
-msgstr ""
+msgstr "जन्मदिन के अनुसार क्रमबद्ध"
 
 msgid "sorted by category"
-msgstr ""
+msgstr "श्रेणी के अनुसार क्रमबद्ध"
 
 msgid "sorted by name"
-msgstr ""
+msgstr "नाम के अनुसार क्रमबद्ध"
 
 msgid "vCard format"
-msgstr ""
+msgstr "वीकार्ड प्रारूप"
 
 msgid "vCard format (standard)"
-msgstr ""
+msgstr "वीकार्ड प्रारूप (मानक)"
 
 msgid "vCard import feature not available: {0}"
-msgstr ""
+msgstr "vCard आयात सुविधा उपलब्ध नहीं है: {0}"

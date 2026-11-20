@@ -11,1153 +11,1153 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "(Search: '{0}')"
-msgstr ""
+msgstr "(검색어: '{0}')"
 
 msgid "(truncated)"
-msgstr ""
+msgstr "(잘림)"
 
 msgid "--- CONTACTS ---"
-msgstr ""
+msgstr "--- 연락처 ---"
 
 msgid "--- DATABASE ---"
-msgstr ""
+msgstr "--- 데이터베이스 ---"
 
 msgid "--- EVENTS ---"
-msgstr ""
+msgstr "--- 이벤트 ---"
 
 msgid "--- HOLIDAYS ---"
-msgstr ""
+msgstr "--- 휴일 ---"
 
 msgid "--- PERSONAL DATA ---"
-msgstr ""
+msgstr "--- 개인 데이터 ---"
 
 msgid "--- SYSTEM ---"
-msgstr ""
+msgstr "--- 시스템 ---"
 
 msgid "Active"
-msgstr ""
+msgstr "활동적인"
 
 msgid "Active:"
-msgstr ""
+msgstr "활동적인:"
 
 msgid "Add"
-msgstr ""
+msgstr "추가하다"
 
 msgid "Add Contact"
-msgstr ""
+msgstr "연락처 추가"
 
 msgid "Add Event"
-msgstr ""
+msgstr "이벤트 추가"
 
 msgid "Add date and time to exported filenames"
-msgstr ""
+msgstr "내보낸 파일 이름에 날짜 및 시간 추가"
 
 msgid "Add timestamp to filename"
-msgstr ""
+msgstr "파일 이름에 타임스탬프 추가"
 
 msgid "Alert sound"
-msgstr ""
+msgstr "경고음"
 
 msgid "Already on today's event"
-msgstr ""
+msgstr "오늘 이벤트에 이미 참여 중입니다."
 
 msgid "April"
-msgstr ""
+msgstr "4월"
 
 msgid "August"
-msgstr ""
+msgstr "팔월"
 
 msgid "Automatically clean old notified events"
-msgstr ""
+msgstr "오래된 알림 이벤트 자동 정리"
 
 msgid "Autostart delay"
-msgstr ""
+msgstr "자동 시작 지연"
 
 msgid "Back"
-msgstr ""
+msgstr "뒤쪽에"
 
 msgid "Birthday (YYYY-MM-DD)"
-msgstr ""
+msgstr "생일(YYYY-MM-DD)"
 
 msgid "Birthdays: {0}"
-msgstr ""
+msgstr "생일: {0}"
 
 msgid "Blue"
-msgstr ""
+msgstr "파란색"
 
 msgid "Browse ICS Files"
-msgstr ""
+msgstr "ICS 파일 찾아보기"
 
 msgid "CONTACTS WITH BIRTHDAYS TODAY:"
-msgstr ""
+msgstr "오늘 생일에 연락처:"
 
 msgid "CSV format"
-msgstr ""
+msgstr "CSV 형식"
 
 msgid "Calendar"
-msgstr ""
+msgstr "달력"
 
 msgid "Calendar Planner"
-msgstr ""
+msgstr "캘린더 플래너"
 
 msgid "Calendar Planner | Ready"
-msgstr ""
+msgstr "캘린더 플래너 | 준비가 된"
 
 msgid "Calendar Settings"
-msgstr ""
+msgstr "캘린더 설정"
 
 msgid "Calendar with events and notifications"
-msgstr ""
+msgstr "이벤트 및 알림이 포함된 캘린더"
 
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "취소 중..."
 
 msgid "Cannot delete: Contact has no ID"
-msgstr ""
+msgstr "삭제할 수 없음: 연락처에 ID가 없습니다."
 
 msgid "Cannot initialize event system: {0}"
-msgstr ""
+msgstr "이벤트 시스템을 초기화할 수 없습니다: {0}"
 
 msgid "Categories (comma separated)"
-msgstr ""
+msgstr "카테고리(쉼표로 구분)"
 
 msgid "Check for Updates"
-msgstr ""
+msgstr "업데이트 확인"
 
 msgid "Checking for updates..."
-msgstr ""
+msgstr "업데이트 확인 중..."
 
 msgid "Choose between legacy text files or standard vCard format"
-msgstr ""
+msgstr "기존 텍스트 파일 또는 표준 vCard 형식 중에서 선택하세요."
 
 msgid "Choose where to save exported files"
-msgstr ""
+msgstr "내보낸 파일을 저장할 위치 선택"
 
 msgid "Clean after days"
-msgstr ""
+msgstr "며칠 후 청소"
 
 msgid "Clean old notifications"
-msgstr ""
+msgstr "오래된 알림 정리"
 
 msgid "Cleaned {0} duplicate events"
-msgstr ""
+msgstr "{0} 중복 이벤트를 정리했습니다."
 
 msgid "Cleaned {0} old ICS files"
-msgstr ""
+msgstr "{0} 이전 ICS 파일을 정리했습니다."
 
 msgid "Cleanup Old Files"
-msgstr ""
+msgstr "오래된 파일 정리"
 
 msgid "Cleanup duplicate events"
-msgstr ""
+msgstr "중복 이벤트 정리"
 
 msgid "Cleanup past events"
-msgstr ""
+msgstr "지난 이벤트 정리"
 
 msgid "Clear ALL holiday entries from all date files?"
-msgstr ""
+msgstr "모든 날짜 파일에서 모든 공휴일 항목을 삭제하시겠습니까?"
 
 msgid "Clear All"
-msgstr ""
+msgstr "모두 지우기"
 
 msgid "Clear Holiday Database"
-msgstr ""
+msgstr "휴일 데이터베이스 지우기"
 
 msgid "Close"
-msgstr ""
+msgstr "닫다"
 
 msgid "Color days with holidays"
-msgstr ""
+msgstr "휴일이 있는 색상일"
 
 msgid "Color for days with events"
-msgstr ""
+msgstr "이벤트가 있는 날의 색상"
 
 msgid "Color for holiday days"
-msgstr ""
+msgstr "휴일에 어울리는 색상"
 
 msgid "Completed"
-msgstr ""
+msgstr "완전한"
 
 msgid "Contact"
-msgstr ""
+msgstr "연락하다"
 
 msgid "Contact '{0}' deleted successfully"
-msgstr ""
+msgstr "연락처 '{0}'이(가) 성공적으로 삭제되었습니다."
 
 msgid "Contact:"
-msgstr ""
+msgstr "연락하다:"
 
 msgid "Contacts directory not found"
-msgstr ""
+msgstr "연락처 디렉토리를 찾을 수 없습니다"
 
 msgid "Contacts imported from ICS file!"
-msgstr ""
+msgstr "ICS 파일에서 연락처를 가져왔습니다!"
 
 msgid "Contacts: 0"
-msgstr ""
+msgstr "연락처: 0"
 
 msgid "Contacts: {0}/{1}"
-msgstr ""
+msgstr "연락처: {0}/{1}"
 
 msgid "Conversion error: {0}"
-msgstr ""
+msgstr "변환 오류: {0}"
 
 msgid "Convert all existing data to vCard format?"
-msgstr ""
+msgstr "모든 기존 데이터를 vCard 형식으로 변환하시겠습니까?"
 
 msgid "Convert to ICS format"
-msgstr ""
+msgstr "ICS 형식으로 변환"
 
 msgid "Convert to legacy format"
-msgstr ""
+msgstr "레거시 형식으로 변환"
 
 msgid "Convert to vCard format"
-msgstr ""
+msgstr "vCard 형식으로 변환"
 
 msgid "Converted {0} events to {1}"
-msgstr ""
+msgstr "{0} 이벤트를 {1}로 변환했습니다."
 
 msgid "Could not check for updates. Check internet connection."
-msgstr ""
+msgstr "업데이트를 확인할 수 없습니다. 인터넷 연결을 확인하세요."
 
 msgid "Could not check for updates: %s"
-msgstr ""
+msgstr "업데이트를 확인할 수 없습니다: %s"
 
 msgid "Could not read file"
-msgstr ""
+msgstr "파일을 읽을 수 없습니다."
 
 msgid "Cyan"
-msgstr ""
+msgstr "청록색"
 
 msgid "Database converted to vCard format"
-msgstr ""
+msgstr "vCard 형식으로 변환된 데이터베이스"
 
 msgid "Database format"
-msgstr ""
+msgstr "데이터베이스 형식"
 
 msgid "Date"
-msgstr ""
+msgstr "날짜"
 
 msgid "Date (YYYY-MM-DD)"
-msgstr ""
+msgstr "날짜(YYYY-MM-DD)"
 
 msgid "Date range: {0} to {1}"
-msgstr ""
+msgstr "기간: {0}~{1}"
 
 msgid "Date:"
-msgstr ""
+msgstr "날짜:"
 
 msgid "Day +"
-msgstr ""
+msgstr "요일 +"
 
 msgid "Day -"
-msgstr ""
+msgstr "낮 -"
 
 msgid "Days to keep notifications in cache"
-msgstr ""
+msgstr "알림을 캐시에 보관하는 일수"
 
 msgid "December"
-msgstr ""
+msgstr "12월"
 
 msgid "Default event time"
-msgstr ""
+msgstr "기본 이벤트 시간"
 
 msgid "Default format for exported files"
-msgstr ""
+msgstr "내보낸 파일의 기본 형식"
 
 msgid "Default minutes before event to show notification"
-msgstr ""
+msgstr "알림을 표시하는 이벤트 전 기본 시간(분)"
 
 msgid "Default notification minutes"
-msgstr ""
+msgstr "기본 알림 시간(분)"
 
 msgid "Default time for new events (HH:MM format)"
-msgstr ""
+msgstr "새 이벤트의 기본 시간(HH:MM 형식)"
 
 msgid "Delete"
-msgstr ""
+msgstr "삭제"
 
 msgid "Delete ALL ICS events"
-msgstr ""
+msgstr "모든 ICS 이벤트 삭제"
 
 msgid "Delete ALL contacts"
-msgstr ""
+msgstr "모든 연락처 삭제"
 
 msgid "Delete ALL events"
-msgstr ""
+msgstr "모든 이벤트 삭제"
 
 msgid "Delete File"
-msgstr ""
+msgstr "파일 삭제"
 
 msgid "Delete ICS files older than 30 days?"
-msgstr ""
+msgstr "30일이 지난 ICS 파일을 삭제하시겠습니까?"
 
 msgid "Delete file"
-msgstr ""
+msgstr "파일 삭제"
 
 msgid "Delete {0}?"
-msgstr ""
+msgstr "{0}을 삭제하시겠습니까?"
 
 msgid "Delete: {0}"
-msgstr ""
+msgstr "삭제: {0}"
 
 msgid "Deleted {0} ICS events"
-msgstr ""
+msgstr "{0} ICS 이벤트를 삭제했습니다."
 
 msgid "Deleted {0} contacts from database"
-msgstr ""
+msgstr "데이터베이스에서 {0} 연락처를 삭제했습니다."
 
 msgid "Description"
-msgstr ""
+msgstr "설명"
 
 msgid "Description:"
-msgstr ""
+msgstr "설명:"
 
 msgid "Directory: {0}"
-msgstr ""
+msgstr "디렉터리: {0}"
 
 msgid "Disk"
-msgstr ""
+msgstr "디스크"
 
 msgid "Duplicates cleaned: %d"
-msgstr ""
+msgstr "중복 항목이 제거되었습니다: %d"
 
 msgid "E:{0}"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "편집하다"
 
 msgid "Edit Contact"
-msgstr ""
+msgstr "연락처 편집"
 
 msgid "Edit Contact ({0}/{1})"
-msgstr ""
+msgstr "연락처 편집({0}/{1})"
 
 msgid "Edit Date"
-msgstr ""
+msgstr "날짜 편집"
 
 msgid "Edit Description"
-msgstr ""
+msgstr "설명 편집"
 
 msgid "Edit Event"
-msgstr ""
+msgstr "이벤트 편집"
 
 msgid "Edit Event ({0}/{1})"
-msgstr ""
+msgstr "이벤트 편집({0}/{1})"
 
 msgid "Edit Event ({0}/{1}) - Today"
-msgstr ""
+msgstr "이벤트 편집({0}/{1}) - 오늘"
 
 msgid "Edit Holiday"
-msgstr ""
+msgstr "공휴일 수정"
 
 msgid "Edit ICS Event"
-msgstr ""
+msgstr "ICS 이벤트 수정"
 
 msgid "Edit Note"
-msgstr ""
+msgstr "메모 편집"
 
 msgid "Edit Sign"
-msgstr ""
+msgstr "표지판 편집"
 
 msgid "Edit: {0}"
-msgstr ""
+msgstr "편집: {0}"
 
 msgid "Email"
-msgstr ""
+msgstr "이메일"
 
 msgid "Enable autostart"
-msgstr ""
+msgstr "자동 시작 활성화"
 
 msgid "Enable debug mode"
-msgstr ""
+msgstr "디버그 모드 활성화"
 
 msgid "Enable event management with date/time"
-msgstr ""
+msgstr "날짜/시간으로 이벤트 관리 활성화"
 
 msgid "Enable event system"
-msgstr ""
+msgstr "이벤트 시스템 활성화"
 
 msgid "Enable holiday coloring"
-msgstr ""
+msgstr "휴일 색상 활성화"
 
 msgid "Enable notifications"
-msgstr ""
+msgstr "알림 활성화"
 
 msgid "Enter"
-msgstr ""
+msgstr "입력하다"
 
 msgid "Error deleting contact"
-msgstr ""
+msgstr "연락처 삭제 오류"
 
 msgid "Error deleting contact '{0}'"
-msgstr ""
+msgstr "연락처 '{0}' 삭제 오류"
 
 msgid "Error deleting database: {0}"
-msgstr ""
+msgstr "데이터베이스 삭제 오류: {0}"
 
 msgid "Error getting ICS statistics"
-msgstr ""
+msgstr "ICS 통계를 가져오는 중에 오류가 발생했습니다."
 
 msgid "Error opening ICS browser: %s"
-msgstr ""
+msgstr "ICS 브라우저를 여는 중 오류 발생: %s"
 
 msgid "Error opening ICS importer: {0}"
-msgstr ""
+msgstr "ICS 가져오기 도구를 여는 중 오류 발생: {0}"
 
 msgid "Error opening event dialog"
-msgstr ""
+msgstr "이벤트 대화상자를 여는 중 오류가 발생했습니다."
 
 msgid "Error saving ICS data"
-msgstr ""
+msgstr "ICS 데이터를 저장하는 중에 오류가 발생했습니다."
 
 msgid "Error saving contact"
-msgstr ""
+msgstr "연락처를 저장하는 중에 오류가 발생했습니다."
 
 msgid "Error saving data"
-msgstr ""
+msgstr "데이터를 저장하는 중에 오류가 발생했습니다."
 
 msgid "Error saving event"
-msgstr ""
+msgstr "이벤트를 저장하는 중에 오류가 발생했습니다."
 
 msgid "Error: {0}"
-msgstr ""
+msgstr "오류: {0}"
 
 msgid "Errors: %d"
-msgstr ""
+msgstr "오류: %d"
 
 msgid "Errors: {0}"
-msgstr ""
+msgstr "오류: {0}"
 
 msgid "Event"
-msgstr ""
+msgstr "이벤트"
 
 msgid "Event '{0}' deleted successfully"
-msgstr ""
+msgstr "이벤트 '{0}'이(가) 성공적으로 삭제되었습니다."
 
 msgid "Event '{0}' saved successfully"
-msgstr ""
+msgstr "이벤트 '{0}'이(가) 성공적으로 저장되었습니다."
 
 msgid "Event check interval"
-msgstr ""
+msgstr "이벤트 확인 간격"
 
 msgid "Event color"
-msgstr ""
+msgstr "이벤트 색상"
 
 msgid "Event manager not available"
-msgstr ""
+msgstr "이벤트 관리자를 사용할 수 없습니다."
 
 msgid "Event manager not initialized"
-msgstr ""
+msgstr "이벤트 관리자가 초기화되지 않았습니다."
 
 msgid "Event system is disabled. Enable it in settings first."
-msgstr ""
+msgstr "이벤트 시스템이 비활성화되었습니다. 먼저 설정에서 활성화하세요."
 
 msgid "Event system is disabled. Enable it in settings."
-msgstr ""
+msgstr "이벤트 시스템이 비활성화되었습니다. 설정에서 활성화하세요."
 
 msgid "Event system is not enabled"
-msgstr ""
+msgstr "이벤트 시스템이 활성화되지 않았습니다"
 
 msgid "Events found: {0}"
-msgstr ""
+msgstr "발견된 이벤트: {0}"
 
 msgid "Events imported successfully"
-msgstr ""
+msgstr "이벤트를 성공적으로 가져왔습니다."
 
 msgid "Export All to ICS File"
-msgstr ""
+msgstr "ICS 파일로 모두 내보내기"
 
 msgid "Export error: {0}"
-msgstr ""
+msgstr "내보내기 오류: {0}"
 
 msgid "Export failed or no contacts to export"
-msgstr ""
+msgstr "내보내기에 실패했거나 내보낼 연락처가 없습니다."
 
 msgid "Export format"
-msgstr ""
+msgstr "내보내기 형식"
 
 msgid "Export location"
-msgstr ""
+msgstr "내보내기 위치"
 
 msgid "Export subdirectory"
-msgstr ""
+msgstr "하위 디렉터리 내보내기"
 
 msgid "Export vCard File"
-msgstr ""
+msgstr "vCard 파일 내보내기"
 
 msgid "Exporting contacts..."
-msgstr ""
+msgstr "연락처를 내보내는 중..."
 
 msgid "Failed to create backup. Update cancelled."
-msgstr ""
+msgstr "백업을 생성하지 못했습니다. 업데이트가 취소되었습니다."
 
 msgid "Failed to start import"
-msgstr ""
+msgstr "가져오기를 시작하지 못했습니다."
 
 msgid "February"
-msgstr ""
+msgstr "2월"
 
 msgid "Field {0}/{1}: {2}"
-msgstr ""
+msgstr "필드 {0}/{1}: {2}"
 
 msgid "File deleted"
-msgstr ""
+msgstr "파일이 삭제되었습니다."
 
 msgid "File not found!"
-msgstr ""
+msgstr "파일을 찾을 수 없습니다!"
 
 msgid "File re-imported successfully"
-msgstr ""
+msgstr "파일을 다시 가져왔습니다."
 
 msgid "File re-imported. Found {0} potential duplicates."
-msgstr ""
+msgstr "파일을 다시 가져왔습니다. {0} 잠재적인 중복 항목을 찾았습니다."
 
 msgid "File: {0}"
-msgstr ""
+msgstr "파일: {0}"
 
 msgid "Files is Empty..."
-msgstr ""
+msgstr "파일이 비어 있습니다..."
 
 msgid "Found {0} ICS files"
-msgstr ""
+msgstr "{0} ICS 파일을 찾았습니다."
 
 msgid "Fri"
-msgstr ""
+msgstr "금"
 
 msgid "Green"
-msgstr ""
+msgstr "녹색"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "하드디스크"
 
 msgid "Hard Disk (/media/hdd)"
-msgstr ""
+msgstr "하드 디스크(/미디어/hdd)"
 
 msgid "Holiday"
-msgstr ""
+msgstr "휴일"
 
 msgid "Holiday color"
-msgstr ""
+msgstr "휴일 색상"
 
 msgid "Holiday:"
-msgstr ""
+msgstr "휴일:"
 
 msgid "Holidays imported"
-msgstr ""
+msgstr "공휴일을 가져왔습니다."
 
 msgid "I:{0}"
-msgstr ""
+msgstr "나:{0}"
 
 msgid "ICS Events: 0"
-msgstr ""
+msgstr "ICS 이벤트: 0"
 
 msgid "ICS Events: {0}/{1}"
-msgstr ""
+msgstr "ICS 이벤트: {0}/{1}"
 
 msgid "ICS format"
-msgstr ""
+msgstr "ICS 형식"
 
 msgid "ICS format (google calendar)"
-msgstr ""
+msgstr "ICS 형식(Google 캘린더)"
 
 msgid "ICS import feature not yet available: {0}"
-msgstr ""
+msgstr "ICS 가져오기 기능은 아직 사용할 수 없습니다: {0}"
 
 msgid "Import"
-msgstr ""
+msgstr "수입"
 
 msgid "Import All"
-msgstr ""
+msgstr "모두 가져오기"
 
 msgid "Import Google Calendar (.ics)"
-msgstr ""
+msgstr "Google 캘린더(.ics) 가져오기"
 
 msgid "Import Holidays"
-msgstr ""
+msgstr "수입휴일"
 
 msgid "Import ICS Contacts Google Calendar (.ics)"
-msgstr ""
+msgstr "ICS 연락처 Google 캘린더(.ics) 가져오기"
 
 msgid "Import completed"
-msgstr ""
+msgstr "가져오기 완료"
 
 msgid "Import completed - Sorting contacts..."
-msgstr ""
+msgstr "가져오기 완료 - 연락처 정렬 중..."
 
 msgid "Import completed!"
-msgstr ""
+msgstr "가져오기가 완료되었습니다!"
 
 msgid "Import completed. Ready."
-msgstr ""
+msgstr "가져오기가 완료되었습니다. 준비가 된."
 
 msgid "Import error: {0}"
-msgstr ""
+msgstr "가져오기 오류: {0}"
 
 msgid "Import events to calendar"
-msgstr ""
+msgstr "캘린더로 이벤트 가져오기"
 
 msgid "Import vCard File"
-msgstr ""
+msgstr "vCard 파일 가져오기"
 
 msgid "Imported ICS Files"
-msgstr ""
+msgstr "가져온 ICS 파일"
 
 msgid "Imported: %d"
-msgstr ""
+msgstr "가져옴: %d"
 
 msgid "Imported: {0}"
-msgstr ""
+msgstr "가져온 항목: {0}"
 
 msgid "Imported: {0} contacts"
-msgstr ""
+msgstr "가져옴: {0} 연락처"
 
 msgid "Importing iCalendar File"
-msgstr ""
+msgstr "iCalendar 파일 가져오기"
 
 msgid "Importing vCard File"
-msgstr ""
+msgstr "vCard 파일 가져오기"
 
 msgid "Initializing..."
-msgstr ""
+msgstr "초기화 중..."
 
 msgid "Invalid birthday format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "생일 형식이 잘못되었습니다. YYYY-MM-DD를 사용하세요."
 
 msgid "Invalid date format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "날짜 형식이 잘못되었습니다. YYYY-MM-DD를 사용하세요."
 
 msgid "Invalid time format! Use HH:MM (00:00 to 23:59)"
-msgstr ""
+msgstr "시간 형식이 잘못되었습니다! HH:MM 사용(00:00~23:59)"
 
 msgid "Invalid time format. Use HH:MM"
-msgstr ""
+msgstr "시간 형식이 잘못되었습니다. HH:MM 사용"
 
 msgid "January"
-msgstr ""
+msgstr "1월"
 
 msgid "July"
-msgstr ""
+msgstr "칠월"
 
 msgid "June"
-msgstr ""
+msgstr "6월"
 
 msgid "Labels (comma separated)"
-msgstr ""
+msgstr "라벨(쉼표로 구분)"
 
 msgid "Legacy format (text files)"
-msgstr ""
+msgstr "레거시 형식(텍스트 파일)"
 
 msgid "Manage Contacts"
-msgstr ""
+msgstr "연락처 관리"
 
 msgid "Manage Event"
-msgstr ""
+msgstr "이벤트 관리"
 
 msgid "Manage ICS Events"
-msgstr ""
+msgstr "ICS 이벤트 관리"
 
 msgid "Manage ICS Files"
-msgstr ""
+msgstr "ICS 파일 관리"
 
 msgid "March"
-msgstr ""
+msgstr "3월"
 
 msgid "May"
-msgstr ""
+msgstr "5월"
 
 msgid "Modified: {0}"
-msgstr ""
+msgstr "수정됨: {0}"
 
 msgid "Mon"
-msgstr ""
+msgstr "월"
 
 msgid "Month +"
-msgstr ""
+msgstr "월 +"
 
 msgid "Month -"
-msgstr ""
+msgstr "월 -"
 
 msgid "Name"
-msgstr ""
+msgstr "이름"
 
 msgid "Name is required"
-msgstr ""
+msgstr "이름은 필수입니다"
 
 msgid "Network Share"
-msgstr ""
+msgstr "네트워크 공유"
 
 msgid "New Date"
-msgstr ""
+msgstr "새 날짜"
 
 msgid "Newest file: {0}"
-msgstr ""
+msgstr "최신 파일: {0}"
 
 msgid "Next Field"
-msgstr ""
+msgstr "다음 필드"
 
 msgid "No ICS directory found"
-msgstr ""
+msgstr "ICS 디렉터리를 찾을 수 없습니다."
 
 msgid "No ICS events found"
-msgstr ""
+msgstr "ICS 이벤트를 찾을 수 없습니다."
 
 msgid "No ICS files found"
-msgstr ""
+msgstr "ICS 파일을 찾을 수 없습니다."
 
 msgid "No ICS files in archive"
-msgstr ""
+msgstr "아카이브에 ICS 파일이 없습니다."
 
 msgid "No TV service currently playing"
-msgstr ""
+msgstr "현재 재생 중인 TV 서비스가 없습니다."
 
 msgid "No contact files found"
-msgstr ""
+msgstr "연락처 파일을 찾을 수 없습니다."
 
 msgid "No contact selected"
-msgstr ""
+msgstr "선택한 연락처가 없습니다."
 
 msgid "No contacts found in database"
-msgstr ""
+msgstr "데이터베이스에서 연락처를 찾을 수 없습니다."
 
 msgid "No data found to convert"
-msgstr ""
+msgstr "변환할 데이터가 없습니다."
 
 msgid "No data to export"
-msgstr ""
+msgstr "내보낼 데이터가 없습니다."
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "중복된 항목이 없습니다."
 
 msgid "No event selected"
-msgstr ""
+msgstr "선택한 이벤트가 없습니다."
 
 msgid "No events database found"
-msgstr ""
+msgstr "이벤트 데이터베이스를 찾을 수 없습니다."
 
 msgid "No events for today"
-msgstr ""
+msgstr "오늘은 이벤트가 없습니다"
 
 msgid "No events to convert"
-msgstr ""
+msgstr "변환할 이벤트가 없습니다."
 
 msgid "No file in database..."
-msgstr ""
+msgstr "데이터베이스에 파일이 없습니다..."
 
 msgid "No file selected"
-msgstr ""
+msgstr "선택한 파일이 없습니다."
 
 msgid "No past events to remove"
-msgstr ""
+msgstr "삭제할 과거 일정이 없습니다."
 
 msgid "No sorting (original order)"
-msgstr ""
+msgstr "정렬 없음(원래 순서)"
 
 msgid "No sound"
-msgstr ""
+msgstr "소리가 나지 않음"
 
 msgid "Note"
-msgstr ""
+msgstr "메모"
 
 msgid "Note:"
-msgstr ""
+msgstr "메모:"
 
 msgid "Notes"
-msgstr ""
+msgstr "메모"
 
 msgid "Notification sound type"
-msgstr ""
+msgstr "알림음 종류"
 
 msgid "Notification tone"
-msgstr ""
+msgstr "알림음"
 
 msgid "Notify"
-msgstr ""
+msgstr "알림"
 
 msgid "Notify:"
-msgstr ""
+msgstr "알림:"
 
 msgid "November"
-msgstr ""
+msgstr "십일월"
 
 msgid "October"
-msgstr ""
+msgstr "십월"
 
 msgid "Oldest file: {0}\\\\\\\\n"
-msgstr ""
+msgstr "가장 오래된 파일: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
-msgstr ""
+msgstr "주황색"
 
 msgid "P:{0}/{1}"
 msgstr ""
 
 msgid "Phone"
-msgstr ""
+msgstr "핸드폰"
 
 msgid "Play a sound when event notification appears"
-msgstr ""
+msgstr "이벤트 알림이 나타날 때 소리 재생"
 
 msgid "Play sound with notifications"
-msgstr ""
+msgstr "알림과 함께 소리 재생"
 
 msgid "Please restart Enigma2 manually."
-msgstr ""
+msgstr "Enigma2를 수동으로 다시 시작하십시오."
 
 msgid "Plugin Directory"
-msgstr ""
+msgstr "플러그인 디렉토리"
 
 msgid "Plugin is up to date"
-msgstr ""
+msgstr "플러그인이 최신 상태입니다."
 
 msgid "Press GREEN to import"
-msgstr ""
+msgstr "가져오려면 녹색을 누르세요."
 
 msgid "Press TEXT to search"
-msgstr ""
+msgstr "검색하려면 TEXT를 누르세요."
 
 msgid "Preview file content"
-msgstr ""
+msgstr "파일 내용 미리보기"
 
 msgid "Progress: {0}%"
-msgstr ""
+msgstr "진행률: {0}%"
 
 msgid "Re-import"
-msgstr ""
+msgstr "다시 가져오기"
 
 msgid "Red"
-msgstr ""
+msgstr "빨간색"
 
 msgid "Refresh"
-msgstr ""
+msgstr "새로 고치다"
 
 msgid "Refreshed"
-msgstr ""
+msgstr "새로 고침"
 
 msgid "Remove"
-msgstr ""
+msgstr "제거하다"
 
 msgid "Remove Date"
-msgstr ""
+msgstr "날짜 삭제"
 
 msgid "Removed {0} past events"
-msgstr ""
+msgstr "{0} 지난 이벤트를 삭제했습니다."
 
 msgid "Repeat"
-msgstr ""
+msgstr "반복하다"
 
 msgid "Repeat (none/daily/weekly/monthly/yearly)"
-msgstr ""
+msgstr "반복(없음/매일/매주/매월/연간)"
 
 msgid "Repeat:"
-msgstr ""
+msgstr "반복하다:"
 
 msgid "Repeat: {0}"
-msgstr ""
+msgstr "반복: {0}"
 
 msgid "Root Home (/home/root)"
-msgstr ""
+msgstr "루트 홈(/home/root)"
 
 msgid "S:{0}"
-msgstr ""
+msgstr "에스:{0}"
 
 msgid "SCHEDULED EVENTS:"
-msgstr ""
+msgstr "예정된 이벤트:"
 
 msgid "Sat"
-msgstr ""
+msgstr "앉았다"
 
 msgid "Save"
-msgstr ""
+msgstr "구하다"
 
 msgid "Search contacts"
-msgstr ""
+msgstr "연락처 검색"
 
 msgid "Search events"
-msgstr ""
+msgstr "이벤트 검색"
 
 msgid "Search:"
-msgstr ""
+msgstr "찾다:"
 
 msgid "Seconds between event checks (advanced)"
-msgstr ""
+msgstr "이벤트 확인 간격(고급)"
 
 msgid "Seconds to wait after boot before starting notifications"
-msgstr ""
+msgstr "알림을 시작하기 전에 부팅 후 기다려야 하는 시간(초)"
 
 msgid "Select .ics file to import"
-msgstr ""
+msgstr "가져올 .ics 파일을 선택하세요."
 
 msgid "Select a file, not a folder"
-msgstr ""
+msgstr "폴더가 아닌 파일을 선택하세요"
 
 msgid "Select vCard file to import"
-msgstr ""
+msgstr "가져올 vCard 파일 선택"
 
 msgid "Selected: {0}"
-msgstr ""
+msgstr "선택됨: {0}"
 
 msgid "September"
-msgstr ""
+msgstr "구월"
 
 msgid "Short beep"
-msgstr ""
+msgstr "짧은 신호음"
 
 msgid "Show 'H' marker on holiday days"
-msgstr ""
+msgstr "휴일에는 'H' 마커 표시"
 
 msgid "Show Statistics"
-msgstr ""
+msgstr "통계 표시"
 
 msgid "Show Today's Holidays"
-msgstr ""
+msgstr "오늘의 휴일 표시"
 
 msgid "Show Upcoming Holidays"
-msgstr ""
+msgstr "다가오는 공휴일 표시"
 
 msgid "Show debug messages in console/log"
-msgstr ""
+msgstr "콘솔/로그에 디버그 메시지 표시"
 
 msgid "Show event indicators"
-msgstr ""
+msgstr "이벤트 표시기 표시"
 
 msgid "Show event statistics"
-msgstr ""
+msgstr "이벤트 통계 표시"
 
 msgid "Show holiday indicators"
-msgstr ""
+msgstr "휴일 표시 표시"
 
 msgid "Show markers on days with events"
-msgstr ""
+msgstr "이벤트가 있는 날에 마커 표시"
 
 msgid "Show notifications for upcoming events"
-msgstr ""
+msgstr "다가오는 이벤트에 대한 알림 표시"
 
 msgid "Sign"
-msgstr ""
+msgstr "징후"
 
 msgid "Sign:"
-msgstr ""
+msgstr "징후:"
 
 msgid "Size: {0:.1f} KB"
-msgstr ""
+msgstr "크기: {0:.1f}KB"
 
 msgid "Size: {0:.1f} MB"
-msgstr ""
+msgstr "크기: {0:.1f}MB"
 
 msgid "Skipped: %d"
-msgstr ""
+msgstr "건너뛰었습니다: %d"
 
 msgid "Skipped: {0}"
-msgstr ""
+msgstr "건너뛴 항목: {0}"
 
 msgid "Skipped: {0} (duplicates)"
-msgstr ""
+msgstr "건너뛴 항목: {0}(중복)"
 
 msgid "Sort"
-msgstr ""
+msgstr "종류"
 
 msgid "Sort by birthday (month/day)"
-msgstr ""
+msgstr "생일(월/일)순으로 정렬"
 
 msgid "Sort by category"
-msgstr ""
+msgstr "카테고리별로 정렬"
 
 msgid "Sort by name (alphabetical)"
-msgstr ""
+msgstr "이름별 정렬(알파벳순)"
 
 msgid "Sorted by birthday"
-msgstr ""
+msgstr "생일순으로 정렬"
 
 msgid "Sorted by category"
-msgstr ""
+msgstr "카테고리별로 정렬"
 
 msgid "Sorted by date"
-msgstr ""
+msgstr "날짜별로 정렬"
 
 msgid "Sorted by name"
-msgstr ""
+msgstr "이름순으로 정렬"
 
 msgid "Sorted by title"
-msgstr ""
+msgstr "제목별로 정렬"
 
 msgid "Sorted by: Birthday"
-msgstr ""
+msgstr "정렬 기준: 생일"
 
 msgid "Sorted by: Category"
-msgstr ""
+msgstr "정렬 기준: 카테고리"
 
 msgid "Sorted by: Date"
-msgstr ""
+msgstr "정렬 기준: 날짜"
 
 msgid "Sorted by: Name"
-msgstr ""
+msgstr "정렬 기준: 이름"
 
 msgid "Sorted by: Title"
-msgstr ""
+msgstr "정렬 기준: 제목"
 
 msgid "Start event notifications in background (recommended)"
-msgstr ""
+msgstr "백그라운드에서 이벤트 알림 시작(권장)"
 
 msgid "Subdirectory name for exports (created automatically)"
-msgstr ""
+msgstr "내보내기를 위한 하위 디렉터리 이름(자동으로 생성됨)"
 
 msgid "Successfully converted {0} entries to ICS format"
-msgstr ""
+msgstr "{0} 항목을 ICS 형식으로 변환했습니다."
 
 msgid "Sun"
-msgstr ""
+msgstr "해"
 
 msgid "Tags: {0}"
-msgstr ""
+msgstr "태그: {0}"
 
 msgid "Temporary Storage (/tmp)"
-msgstr ""
+msgstr "임시 저장소(/tmp)"
 
 msgid "Test error: %s"
-msgstr ""
+msgstr "테스트 오류: %s"
 
 msgid "Text format"
-msgstr ""
+msgstr "텍스트 형식"
 
 msgid "Thu"
-msgstr ""
+msgstr "목"
 
 msgid "Time"
-msgstr ""
+msgstr "시간"
 
 msgid "Time (HH:MM)"
-msgstr ""
+msgstr "시간(HH:MM)"
 
 msgid "Time:"
-msgstr ""
+msgstr "시간:"
 
 msgid "Title"
-msgstr ""
+msgstr "제목"
 
 msgid "Title and date are required!"
-msgstr ""
+msgstr "제목과 날짜는 필수입니다!"
 
 msgid "Title is required"
-msgstr ""
+msgstr "제목은 필수 항목입니다."
 
 msgid "Title:"
-msgstr ""
+msgstr "제목:"
 
 msgid "Today"
-msgstr ""
+msgstr "오늘"
 
 msgid "Total events: {0}"
-msgstr ""
+msgstr "총 이벤트: {0}"
 
 msgid "Total files: {0}\\\\\\\\n"
-msgstr ""
+msgstr "총 파일: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Total size: {0:.1f} KB\\\\\\\\n"
-msgstr ""
+msgstr "총 크기: {0:.1f}KB\\\\\\\\\\\\\\\\n"
 
 msgid "Total: %d"
-msgstr ""
+msgstr "전체: %d"
 
 msgid "Total: {0}"
-msgstr ""
+msgstr "합계: {0}"
 
 msgid "Tue"
-msgstr ""
+msgstr "화요일"
 
 msgid "Type of sound to play with notifications"
-msgstr ""
+msgstr "알림과 함께 재생할 소리 유형"
 
 msgid "U:{0}"
-msgstr ""
+msgstr "당신:{0}"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB 드라이브"
 
 msgid "USB Drive (/media/usb)"
-msgstr ""
+msgstr "USB 드라이브(/미디어/usb)"
 
 msgid "Unable to play test sound"
-msgstr ""
+msgstr "테스트 사운드를 재생할 수 없습니다"
 
 msgid "Update available!"
-msgstr ""
+msgstr "업데이트 가능!"
 
 msgid "Update cancelled"
-msgstr ""
+msgstr "업데이트가 취소되었습니다."
 
 msgid "Update check error"
-msgstr ""
+msgstr "업데이트 확인 오류"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "업데이트 확인 실패"
 
 msgid "Update completed successfully!"
-msgstr ""
+msgstr "업데이트가 성공적으로 완료되었습니다!"
 
 msgid "Update error: %s"
-msgstr ""
+msgstr "업데이트 오류: %s"
 
 msgid "Update failed"
-msgstr ""
+msgstr "업데이트 실패"
 
 msgid "Update failed and backup restore also failed!"
-msgstr ""
+msgstr "업데이트 실패, 백업 복원도 실패!"
 
 msgid "Update failed. Restored from backup."
-msgstr ""
+msgstr "업데이트에 실패했습니다. 백업에서 복원되었습니다."
 
 msgid "Update successful!"
-msgstr ""
+msgstr "업데이트가 완료되었습니다."
 
 msgid "Updated: {0}"
-msgstr ""
+msgstr "업데이트됨: {0}"
 
 msgid "Updating plugin... Please wait"
-msgstr ""
+msgstr "플러그인 업데이트 중... 잠시 기다려 주세요."
 
 msgid "Using legacy database format"
-msgstr ""
+msgstr "레거시 데이터베이스 형식 사용"
 
 msgid "View"
-msgstr ""
+msgstr "보다"
 
 msgid "Waiting for thread to stop..."
-msgstr ""
+msgstr "스레드가 중지되기를 기다리는 중..."
 
 msgid "Wed"
-msgstr ""
+msgstr "수요일"
 
 msgid "White"
-msgstr ""
+msgstr "하얀색"
 
 msgid "Yellow"
-msgstr ""
+msgstr "노란색"
 
 msgid "You have the latest version of Calendar."
-msgstr ""
+msgstr "최신 버전의 캘린더를 사용하고 있습니다."
 
 msgid "not sorted"
-msgstr ""
+msgstr "정렬되지 않음"
 
 msgid "sorted by birthday"
-msgstr ""
+msgstr "생일순으로 정렬"
 
 msgid "sorted by category"
-msgstr ""
+msgstr "카테고리별로 정렬"
 
 msgid "sorted by name"
-msgstr ""
+msgstr "이름순으로 정렬"
 
 msgid "vCard format"
-msgstr ""
+msgstr "vCard 형식"
 
 msgid "vCard format (standard)"
-msgstr ""
+msgstr "vCard 형식(표준)"
 
 msgid "vCard import feature not available: {0}"
-msgstr ""
+msgstr "vCard 가져오기 기능을 사용할 수 없습니다: {0}"

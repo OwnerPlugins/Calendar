@@ -184,7 +184,7 @@ msgid "Contact"
 msgstr "تماس بگیرید"
 
 msgid "Contact '{0}' deleted successfully"
-msgstr "تماس \\\"{0}\\\" با موفقیت حذف شد"
+msgstr "تماس \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"{0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" با موفقیت حذف شد"
 
 msgid "Contact:"
 msgstr "تماس:"
@@ -394,7 +394,7 @@ msgid "Error deleting contact"
 msgstr "خطا در حذف مخاطب"
 
 msgid "Error deleting contact '{0}'"
-msgstr "خطا در حذف مخاطب \\\"{0}\\\""
+msgstr "خطا در حذف مخاطب \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"{0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\""
 
 msgid "Error deleting database: {0}"
 msgstr "خطا در حذف پایگاه داده: {0}"
@@ -436,10 +436,10 @@ msgid "Event"
 msgstr "رویداد"
 
 msgid "Event '{0}' deleted successfully"
-msgstr "رویداد \\\"{0}\\\" با موفقیت حذف شد"
+msgstr "رویداد \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"{0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" با موفقیت حذف شد"
 
 msgid "Event '{0}' saved successfully"
-msgstr "رویداد \\\"{0}\\\" با موفقیت ذخیره شد"
+msgstr "رویداد \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"{0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" با موفقیت ذخیره شد"
 
 msgid "Event check interval"
 msgstr "فاصله بررسی رویداد"
@@ -786,8 +786,8 @@ msgstr "نوامبر"
 msgid "October"
 msgstr "اکتبر"
 
-msgid "Oldest file: {0}\\\\\\\\n"
-msgstr "قدیمی ترین فایل: {0}\\\\\\\\\\\\\\\\n"
+msgid "Oldest file: {0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "قدیمی ترین فایل: {0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
 msgstr "نارنجی"
@@ -907,7 +907,7 @@ msgid "Short beep"
 msgstr "بوق کوتاه"
 
 msgid "Show 'H' marker on holiday days"
-msgstr "نشانگر \\\"H\\\" را در روزهای تعطیل نشان دهید"
+msgstr "نشانگر \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"H\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" را در روزهای تعطیل نشان دهید"
 
 msgid "Show Statistics"
 msgstr "نمایش آمار"
@@ -1053,10 +1053,10 @@ msgstr ""
 msgid "Total events: {0}"
 msgstr ""
 
-msgid "Total files: {0}\\\\\\\\n"
+msgid "Total files: {0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 msgstr ""
 
-msgid "Total size: {0:.1f} KB\\\\\\\\n"
+msgid "Total size: {0:.1f} KB\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 msgstr ""
 
 msgid "Total: %d"

@@ -11,1153 +11,1153 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "(Search: '{0}')"
-msgstr ""
+msgstr "(検索:「{0}」)"
 
 msgid "(truncated)"
-msgstr ""
+msgstr "(切り捨てられました)"
 
 msgid "--- CONTACTS ---"
-msgstr ""
+msgstr "--- 連絡先 ---"
 
 msgid "--- DATABASE ---"
-msgstr ""
+msgstr "--- データベース ---"
 
 msgid "--- EVENTS ---"
-msgstr ""
+msgstr "--- イベント ---"
 
 msgid "--- HOLIDAYS ---"
-msgstr ""
+msgstr "--- 休日 ---"
 
 msgid "--- PERSONAL DATA ---"
-msgstr ""
+msgstr "--- 個人データ ---"
 
 msgid "--- SYSTEM ---"
-msgstr ""
+msgstr "- - システム - -"
 
 msgid "Active"
-msgstr ""
+msgstr "アクティブ"
 
 msgid "Active:"
-msgstr ""
+msgstr "アクティブ："
 
 msgid "Add"
-msgstr ""
+msgstr "追加"
 
 msgid "Add Contact"
-msgstr ""
+msgstr "連絡先を追加"
 
 msgid "Add Event"
-msgstr ""
+msgstr "イベントの追加"
 
 msgid "Add date and time to exported filenames"
-msgstr ""
+msgstr "エクスポートされたファイル名に日付と時刻を追加する"
 
 msgid "Add timestamp to filename"
-msgstr ""
+msgstr "ファイル名にタイムスタンプを追加する"
 
 msgid "Alert sound"
-msgstr ""
+msgstr "警報音"
 
 msgid "Already on today's event"
-msgstr ""
+msgstr "すでに今日のイベントに参加中"
 
 msgid "April"
-msgstr ""
+msgstr "4月"
 
 msgid "August"
-msgstr ""
+msgstr "8月"
 
 msgid "Automatically clean old notified events"
-msgstr ""
+msgstr "古い通知済みイベントを自動的に削除する"
 
 msgid "Autostart delay"
-msgstr ""
+msgstr "自動開始の遅延"
 
 msgid "Back"
-msgstr ""
+msgstr "戻る"
 
 msgid "Birthday (YYYY-MM-DD)"
-msgstr ""
+msgstr "誕生日 (YYYY-MM-DD)"
 
 msgid "Birthdays: {0}"
-msgstr ""
+msgstr "誕生日: {0}"
 
 msgid "Blue"
-msgstr ""
+msgstr "青"
 
 msgid "Browse ICS Files"
-msgstr ""
+msgstr "ICS ファイルを参照する"
 
 msgid "CONTACTS WITH BIRTHDAYS TODAY:"
-msgstr ""
+msgstr "今日誕生日の連絡先:"
 
 msgid "CSV format"
-msgstr ""
+msgstr "CSV形式"
 
 msgid "Calendar"
-msgstr ""
+msgstr "カレンダー"
 
 msgid "Calendar Planner"
-msgstr ""
+msgstr "カレンダープランナー"
 
 msgid "Calendar Planner | Ready"
-msgstr ""
+msgstr "カレンダープランナー |準備ができて"
 
 msgid "Calendar Settings"
-msgstr ""
+msgstr "カレンダー設定"
 
 msgid "Calendar with events and notifications"
-msgstr ""
+msgstr "イベントと通知が含まれるカレンダー"
 
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "キャンセル中..."
 
 msgid "Cannot delete: Contact has no ID"
-msgstr ""
+msgstr "削除できません: 連絡先に ID がありません"
 
 msgid "Cannot initialize event system: {0}"
-msgstr ""
+msgstr "イベント システムを初期化できません: {0}"
 
 msgid "Categories (comma separated)"
-msgstr ""
+msgstr "カテゴリ (カンマ区切り)"
 
 msgid "Check for Updates"
-msgstr ""
+msgstr "アップデートをチェックする"
 
 msgid "Checking for updates..."
-msgstr ""
+msgstr "アップデートをチェックしています..."
 
 msgid "Choose between legacy text files or standard vCard format"
-msgstr ""
+msgstr "従来のテキスト ファイルまたは標準の vCard 形式を選択します"
 
 msgid "Choose where to save exported files"
-msgstr ""
+msgstr "エクスポートしたファイルの保存場所を選択します"
 
 msgid "Clean after days"
-msgstr ""
+msgstr "数日後にきれいになる"
 
 msgid "Clean old notifications"
-msgstr ""
+msgstr "古い通知をクリーンアップする"
 
 msgid "Cleaned {0} duplicate events"
-msgstr ""
+msgstr "{0} 重複イベントを削除しました"
 
 msgid "Cleaned {0} old ICS files"
-msgstr ""
+msgstr "古い {0} ファイルをクリーンアップしました"
 
 msgid "Cleanup Old Files"
-msgstr ""
+msgstr "古いファイルのクリーンアップ"
 
 msgid "Cleanup duplicate events"
-msgstr ""
+msgstr "重複したイベントをクリーンアップする"
 
 msgid "Cleanup past events"
-msgstr ""
+msgstr "過去のイベントをクリーンアップする"
 
 msgid "Clear ALL holiday entries from all date files?"
-msgstr ""
+msgstr "すべての日付ファイルからすべての休日エントリをクリアしますか?"
 
 msgid "Clear All"
-msgstr ""
+msgstr "すべてクリア"
 
 msgid "Clear Holiday Database"
-msgstr ""
+msgstr "休日データベースをクリアする"
 
 msgid "Close"
-msgstr ""
+msgstr "近い"
 
 msgid "Color days with holidays"
-msgstr ""
+msgstr "休日を色で彩る"
 
 msgid "Color for days with events"
-msgstr ""
+msgstr "イベントのある日を彩る"
 
 msgid "Color for holiday days"
-msgstr ""
+msgstr "休日の色"
 
 msgid "Completed"
-msgstr ""
+msgstr "完了"
 
 msgid "Contact"
-msgstr ""
+msgstr "接触"
 
 msgid "Contact '{0}' deleted successfully"
-msgstr ""
+msgstr "連絡先「{0}」が正常に削除されました"
 
 msgid "Contact:"
-msgstr ""
+msgstr "接触："
 
 msgid "Contacts directory not found"
-msgstr ""
+msgstr "連絡先ディレクトリが見つかりません"
 
 msgid "Contacts imported from ICS file!"
-msgstr ""
+msgstr "ICS ファイルから連絡先をインポートしました!"
 
 msgid "Contacts: 0"
-msgstr ""
+msgstr "連絡先: 0"
 
 msgid "Contacts: {0}/{1}"
-msgstr ""
+msgstr "連絡先: {0}/{1}"
 
 msgid "Conversion error: {0}"
-msgstr ""
+msgstr "変換エラー: {0}"
 
 msgid "Convert all existing data to vCard format?"
-msgstr ""
+msgstr "既存のデータをすべて vCard 形式に変換しますか?"
 
 msgid "Convert to ICS format"
-msgstr ""
+msgstr "ICS形式に変換"
 
 msgid "Convert to legacy format"
-msgstr ""
+msgstr "レガシー形式に変換する"
 
 msgid "Convert to vCard format"
-msgstr ""
+msgstr "vCard 形式に変換する"
 
 msgid "Converted {0} events to {1}"
-msgstr ""
+msgstr "{0} イベントを {1} に変換しました"
 
 msgid "Could not check for updates. Check internet connection."
-msgstr ""
+msgstr "アップデートを確認できませんでした。インターネット接続を確認してください。"
 
 msgid "Could not check for updates: %s"
-msgstr ""
+msgstr "アップデートをチェックできませんでした: %s"
 
 msgid "Could not read file"
-msgstr ""
+msgstr "ファイルを読み取れませんでした"
 
 msgid "Cyan"
-msgstr ""
+msgstr "シアン"
 
 msgid "Database converted to vCard format"
-msgstr ""
+msgstr "vCard 形式に変換されたデータベース"
 
 msgid "Database format"
-msgstr ""
+msgstr "データベース形式"
 
 msgid "Date"
-msgstr ""
+msgstr "日付"
 
 msgid "Date (YYYY-MM-DD)"
-msgstr ""
+msgstr "日付 (YYYY-MM-DD)"
 
 msgid "Date range: {0} to {1}"
-msgstr ""
+msgstr "日付範囲: {0} から {1}"
 
 msgid "Date:"
-msgstr ""
+msgstr "日付："
 
 msgid "Day +"
-msgstr ""
+msgstr "日+"
 
 msgid "Day -"
-msgstr ""
+msgstr "日 -"
 
 msgid "Days to keep notifications in cache"
-msgstr ""
+msgstr "通知をキャッシュに保存する日数"
 
 msgid "December"
-msgstr ""
+msgstr "12月"
 
 msgid "Default event time"
-msgstr ""
+msgstr "デフォルトのイベント時間"
 
 msgid "Default format for exported files"
-msgstr ""
+msgstr "エクスポートされるファイルのデフォルト形式"
 
 msgid "Default minutes before event to show notification"
-msgstr ""
+msgstr "イベントのデフォルトの分前に通知を表示します"
 
 msgid "Default notification minutes"
-msgstr ""
+msgstr "デフォルトの通知時間（分）"
 
 msgid "Default time for new events (HH:MM format)"
-msgstr ""
+msgstr "新しいイベントのデフォルト時刻 (HH:MM 形式)"
 
 msgid "Delete"
-msgstr ""
+msgstr "消去"
 
 msgid "Delete ALL ICS events"
-msgstr ""
+msgstr "すべての ICS イベントを削除する"
 
 msgid "Delete ALL contacts"
-msgstr ""
+msgstr "すべての連絡先を削除"
 
 msgid "Delete ALL events"
-msgstr ""
+msgstr "すべてのイベントを削除"
 
 msgid "Delete File"
-msgstr ""
+msgstr "ファイルの削除"
 
 msgid "Delete ICS files older than 30 days?"
-msgstr ""
+msgstr "30 日以上経過した ICS ファイルを削除しますか?"
 
 msgid "Delete file"
-msgstr ""
+msgstr "ファイルの削除"
 
 msgid "Delete {0}?"
-msgstr ""
+msgstr "{0} を削除しますか?"
 
 msgid "Delete: {0}"
-msgstr ""
+msgstr "削除: {0}"
 
 msgid "Deleted {0} ICS events"
-msgstr ""
+msgstr "削除された {0} ICS イベント"
 
 msgid "Deleted {0} contacts from database"
-msgstr ""
+msgstr "{0} 件の連絡先をデータベースから削除しました"
 
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 msgid "Description:"
-msgstr ""
+msgstr "説明："
 
 msgid "Directory: {0}"
-msgstr ""
+msgstr "ディレクトリ: {0}"
 
 msgid "Disk"
-msgstr ""
+msgstr "ディスク"
 
 msgid "Duplicates cleaned: %d"
-msgstr ""
+msgstr "削除された重複: %d"
 
 msgid "E:{0}"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 msgid "Edit Contact"
-msgstr ""
+msgstr "連絡先の編集"
 
 msgid "Edit Contact ({0}/{1})"
-msgstr ""
+msgstr "連絡先の編集 ({0}/{1})"
 
 msgid "Edit Date"
-msgstr ""
+msgstr "日付の編集"
 
 msgid "Edit Description"
-msgstr ""
+msgstr "説明の編集"
 
 msgid "Edit Event"
-msgstr ""
+msgstr "イベントの編集"
 
 msgid "Edit Event ({0}/{1})"
-msgstr ""
+msgstr "イベントの編集 ({0}/{1})"
 
 msgid "Edit Event ({0}/{1}) - Today"
-msgstr ""
+msgstr "イベントの編集 ({0}/{1}) - 今日"
 
 msgid "Edit Holiday"
-msgstr ""
+msgstr "休日の編集"
 
 msgid "Edit ICS Event"
-msgstr ""
+msgstr "ICSイベントの編集"
 
 msgid "Edit Note"
-msgstr ""
+msgstr "メモの編集"
 
 msgid "Edit Sign"
-msgstr ""
+msgstr "記号の編集"
 
 msgid "Edit: {0}"
-msgstr ""
+msgstr "編集: {0}"
 
 msgid "Email"
-msgstr ""
+msgstr "電子メール"
 
 msgid "Enable autostart"
-msgstr ""
+msgstr "自動起動を有効にする"
 
 msgid "Enable debug mode"
-msgstr ""
+msgstr "デバッグモードを有効にする"
 
 msgid "Enable event management with date/time"
-msgstr ""
+msgstr "日付/時刻によるイベント管理を有効にする"
 
 msgid "Enable event system"
-msgstr ""
+msgstr "イベントシステムを有効にする"
 
 msgid "Enable holiday coloring"
-msgstr ""
+msgstr "ホリデーカラーリングを有効にする"
 
 msgid "Enable notifications"
-msgstr ""
+msgstr "通知を有効にする"
 
 msgid "Enter"
-msgstr ""
+msgstr "入力"
 
 msgid "Error deleting contact"
-msgstr ""
+msgstr "連絡先の削除エラー"
 
 msgid "Error deleting contact '{0}'"
-msgstr ""
+msgstr "連絡先「{0}」の削除中にエラーが発生しました"
 
 msgid "Error deleting database: {0}"
-msgstr ""
+msgstr "データベース削除エラー: {0}"
 
 msgid "Error getting ICS statistics"
-msgstr ""
+msgstr "ICS 統計の取得中にエラーが発生しました"
 
 msgid "Error opening ICS browser: %s"
-msgstr ""
+msgstr "ICS ブラウザを開くときにエラーが発生しました: %s"
 
 msgid "Error opening ICS importer: {0}"
-msgstr ""
+msgstr "ICS インポーターを開くときにエラーが発生しました: {0}"
 
 msgid "Error opening event dialog"
-msgstr ""
+msgstr "イベントダイアログを開くときにエラーが発生しました"
 
 msgid "Error saving ICS data"
-msgstr ""
+msgstr "ICS データの保存中にエラーが発生しました"
 
 msgid "Error saving contact"
-msgstr ""
+msgstr "連絡先の保存中にエラーが発生しました"
 
 msgid "Error saving data"
-msgstr ""
+msgstr "データ保存エラー"
 
 msgid "Error saving event"
-msgstr ""
+msgstr "イベント保存エラー"
 
 msgid "Error: {0}"
-msgstr ""
+msgstr "エラー: {0}"
 
 msgid "Errors: %d"
-msgstr ""
+msgstr "エラー: %d"
 
 msgid "Errors: {0}"
-msgstr ""
+msgstr "エラー: {0}"
 
 msgid "Event"
-msgstr ""
+msgstr "イベント"
 
 msgid "Event '{0}' deleted successfully"
-msgstr ""
+msgstr "イベント「{0}」は正常に削除されました"
 
 msgid "Event '{0}' saved successfully"
-msgstr ""
+msgstr "イベント「{0}」が正常に保存されました"
 
 msgid "Event check interval"
-msgstr ""
+msgstr "イベントチェック間隔"
 
 msgid "Event color"
-msgstr ""
+msgstr "イベントカラー"
 
 msgid "Event manager not available"
-msgstr ""
+msgstr "イベントマネージャーは利用できません"
 
 msgid "Event manager not initialized"
-msgstr ""
+msgstr "イベントマネージャーが初期化されていません"
 
 msgid "Event system is disabled. Enable it in settings first."
-msgstr ""
+msgstr "イベントシステムは無効になっています。まず設定で有効にしてください。"
 
 msgid "Event system is disabled. Enable it in settings."
-msgstr ""
+msgstr "イベントシステムは無効になっています。設定で有効にしてください。"
 
 msgid "Event system is not enabled"
-msgstr ""
+msgstr "イベントシステムが有効になっていません"
 
 msgid "Events found: {0}"
-msgstr ""
+msgstr "見つかったイベント: {0}"
 
 msgid "Events imported successfully"
-msgstr ""
+msgstr "イベントは正常にインポートされました"
 
 msgid "Export All to ICS File"
-msgstr ""
+msgstr "すべてをICSファイルにエクスポート"
 
 msgid "Export error: {0}"
-msgstr ""
+msgstr "エクスポート エラー: {0}"
 
 msgid "Export failed or no contacts to export"
-msgstr ""
+msgstr "エクスポートに失敗したか、エクスポートする連絡先がありません"
 
 msgid "Export format"
-msgstr ""
+msgstr "エクスポート形式"
 
 msgid "Export location"
-msgstr ""
+msgstr "エクスポート場所"
 
 msgid "Export subdirectory"
-msgstr ""
+msgstr "エクスポートサブディレクトリ"
 
 msgid "Export vCard File"
-msgstr ""
+msgstr "vCard ファイルのエクスポート"
 
 msgid "Exporting contacts..."
-msgstr ""
+msgstr "連絡先をエクスポートしています..."
 
 msgid "Failed to create backup. Update cancelled."
-msgstr ""
+msgstr "バックアップの作成に失敗しました。更新がキャンセルされました。"
 
 msgid "Failed to start import"
-msgstr ""
+msgstr "インポートの開始に失敗しました"
 
 msgid "February"
-msgstr ""
+msgstr "2月"
 
 msgid "Field {0}/{1}: {2}"
-msgstr ""
+msgstr "フィールド {0}/{1}: {2}"
 
 msgid "File deleted"
-msgstr ""
+msgstr "ファイルが削除されました"
 
 msgid "File not found!"
-msgstr ""
+msgstr "ファイルが見つかりません！"
 
 msgid "File re-imported successfully"
-msgstr ""
+msgstr "ファイルが正常に再インポートされました"
 
 msgid "File re-imported. Found {0} potential duplicates."
-msgstr ""
+msgstr "ファイルが再インポートされました。 {0} 個の潜在的な重複が見つかりました。"
 
 msgid "File: {0}"
-msgstr ""
+msgstr "ファイル: {0}"
 
 msgid "Files is Empty..."
-msgstr ""
+msgstr "ファイルが空です..."
 
 msgid "Found {0} ICS files"
-msgstr ""
+msgstr "{0} ICS ファイルが見つかりました"
 
 msgid "Fri"
-msgstr ""
+msgstr "金"
 
 msgid "Green"
-msgstr ""
+msgstr "緑"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "ハードディスク"
 
 msgid "Hard Disk (/media/hdd)"
-msgstr ""
+msgstr "ハードディスク (/media/hdd)"
 
 msgid "Holiday"
-msgstr ""
+msgstr "休日"
 
 msgid "Holiday color"
-msgstr ""
+msgstr "ホリデーカラー"
 
 msgid "Holiday:"
-msgstr ""
+msgstr "休日："
 
 msgid "Holidays imported"
-msgstr ""
+msgstr "インポートされた祝日"
 
 msgid "I:{0}"
-msgstr ""
+msgstr "私:{0}"
 
 msgid "ICS Events: 0"
-msgstr ""
+msgstr "ICS イベント: 0"
 
 msgid "ICS Events: {0}/{1}"
-msgstr ""
+msgstr "ICS イベント: {0}/{1}"
 
 msgid "ICS format"
-msgstr ""
+msgstr "ICSフォーマット"
 
 msgid "ICS format (google calendar)"
-msgstr ""
+msgstr "ICS形式（Googleカレンダー）"
 
 msgid "ICS import feature not yet available: {0}"
-msgstr ""
+msgstr "ICS インポート機能はまだ利用できません: {0}"
 
 msgid "Import"
-msgstr ""
+msgstr "輸入"
 
 msgid "Import All"
-msgstr ""
+msgstr "すべてインポート"
 
 msgid "Import Google Calendar (.ics)"
-msgstr ""
+msgstr "Google カレンダー (.ics) をインポートする"
 
 msgid "Import Holidays"
-msgstr ""
+msgstr "輸入休日"
 
 msgid "Import ICS Contacts Google Calendar (.ics)"
-msgstr ""
+msgstr "ICS 連絡先 Google カレンダー (.ics) のインポート"
 
 msgid "Import completed"
-msgstr ""
+msgstr "インポートが完了しました"
 
 msgid "Import completed - Sorting contacts..."
-msgstr ""
+msgstr "インポートが完了しました - 連絡先を並べ替えています..."
 
 msgid "Import completed!"
-msgstr ""
+msgstr "インポート完了！"
 
 msgid "Import completed. Ready."
-msgstr ""
+msgstr "インポートが完了しました。準備ができて。"
 
 msgid "Import error: {0}"
-msgstr ""
+msgstr "インポート エラー: {0}"
 
 msgid "Import events to calendar"
-msgstr ""
+msgstr "イベントをカレンダーにインポートする"
 
 msgid "Import vCard File"
-msgstr ""
+msgstr "vCard ファイルのインポート"
 
 msgid "Imported ICS Files"
-msgstr ""
+msgstr "インポートされた ICS ファイル"
 
 msgid "Imported: %d"
-msgstr ""
+msgstr "インポートされました: %d"
 
 msgid "Imported: {0}"
-msgstr ""
+msgstr "インポート済み: {0}"
 
 msgid "Imported: {0} contacts"
-msgstr ""
+msgstr "インポート済み: {0} 件の連絡先"
 
 msgid "Importing iCalendar File"
-msgstr ""
+msgstr "iCalendar ファイルのインポート"
 
 msgid "Importing vCard File"
-msgstr ""
+msgstr "vCard ファイルのインポート"
 
 msgid "Initializing..."
-msgstr ""
+msgstr "初期化中..."
 
 msgid "Invalid birthday format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "誕生日の形式が無効です。 YYYY-MM-DDを使用してください"
 
 msgid "Invalid date format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "無効な日付形式です。 YYYY-MM-DDを使用してください"
 
 msgid "Invalid time format! Use HH:MM (00:00 to 23:59)"
-msgstr ""
+msgstr "時刻形式が無効です! HH:MM (00:00 ～ 23:59) を使用します。"
 
 msgid "Invalid time format. Use HH:MM"
-msgstr ""
+msgstr "無効な時刻形式です。 HH:MMを使用"
 
 msgid "January"
-msgstr ""
+msgstr "1月"
 
 msgid "July"
-msgstr ""
+msgstr "7月"
 
 msgid "June"
-msgstr ""
+msgstr "6月"
 
 msgid "Labels (comma separated)"
-msgstr ""
+msgstr "ラベル (カンマ区切り)"
 
 msgid "Legacy format (text files)"
-msgstr ""
+msgstr "従来の形式 (テキスト ファイル)"
 
 msgid "Manage Contacts"
-msgstr ""
+msgstr "連絡先の管理"
 
 msgid "Manage Event"
-msgstr ""
+msgstr "イベントの管理"
 
 msgid "Manage ICS Events"
-msgstr ""
+msgstr "ICSイベントの管理"
 
 msgid "Manage ICS Files"
-msgstr ""
+msgstr "ICS ファイルの管理"
 
 msgid "March"
-msgstr ""
+msgstr "行進"
 
 msgid "May"
-msgstr ""
+msgstr "5月"
 
 msgid "Modified: {0}"
-msgstr ""
+msgstr "変更済み: {0}"
 
 msgid "Mon"
-msgstr ""
+msgstr "月"
 
 msgid "Month +"
-msgstr ""
+msgstr "月+"
 
 msgid "Month -"
-msgstr ""
+msgstr "月 -"
 
 msgid "Name"
-msgstr ""
+msgstr "名前"
 
 msgid "Name is required"
-msgstr ""
+msgstr "名前は必須です"
 
 msgid "Network Share"
-msgstr ""
+msgstr "ネットワーク共有"
 
 msgid "New Date"
-msgstr ""
+msgstr "新しい日付"
 
 msgid "Newest file: {0}"
-msgstr ""
+msgstr "最新のファイル: {0}"
 
 msgid "Next Field"
-msgstr ""
+msgstr "次のフィールド"
 
 msgid "No ICS directory found"
-msgstr ""
+msgstr "ICS ディレクトリが見つかりません"
 
 msgid "No ICS events found"
-msgstr ""
+msgstr "ICS イベントが見つかりませんでした"
 
 msgid "No ICS files found"
-msgstr ""
+msgstr "ICS ファイルが見つかりません"
 
 msgid "No ICS files in archive"
-msgstr ""
+msgstr "アーカイブに ICS ファイルがありません"
 
 msgid "No TV service currently playing"
-msgstr ""
+msgstr "現在再生中のテレビサービスはありません"
 
 msgid "No contact files found"
-msgstr ""
+msgstr "連絡先ファイルが見つかりません"
 
 msgid "No contact selected"
-msgstr ""
+msgstr "連絡先が選択されていません"
 
 msgid "No contacts found in database"
-msgstr ""
+msgstr "データベースに連絡先が見つかりません"
 
 msgid "No data found to convert"
-msgstr ""
+msgstr "変換するデータが見つかりません"
 
 msgid "No data to export"
-msgstr ""
+msgstr "エクスポートするデータがありません"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "重複は見つかりませんでした"
 
 msgid "No event selected"
-msgstr ""
+msgstr "イベントが選択されていません"
 
 msgid "No events database found"
-msgstr ""
+msgstr "イベントデータベースが見つかりません"
 
 msgid "No events for today"
-msgstr ""
+msgstr "今日のイベントはありません"
 
 msgid "No events to convert"
-msgstr ""
+msgstr "変換するイベントがありません"
 
 msgid "No file in database..."
-msgstr ""
+msgstr "データベースにファイルがありません..."
 
 msgid "No file selected"
-msgstr ""
+msgstr "ファイルが選択されていません"
 
 msgid "No past events to remove"
-msgstr ""
+msgstr "削除する過去のイベントはありません"
 
 msgid "No sorting (original order)"
-msgstr ""
+msgstr "ソートなし（元の順序）"
 
 msgid "No sound"
-msgstr ""
+msgstr "音が出ない"
 
 msgid "Note"
-msgstr ""
+msgstr "注記"
 
 msgid "Note:"
-msgstr ""
+msgstr "注記："
 
 msgid "Notes"
-msgstr ""
+msgstr "注意事項"
 
 msgid "Notification sound type"
-msgstr ""
+msgstr "通知音の種類"
 
 msgid "Notification tone"
-msgstr ""
+msgstr "通知音"
 
 msgid "Notify"
-msgstr ""
+msgstr "通知する"
 
 msgid "Notify:"
-msgstr ""
+msgstr "通知:"
 
 msgid "November"
-msgstr ""
+msgstr "11月"
 
 msgid "October"
-msgstr ""
+msgstr "10月"
 
 msgid "Oldest file: {0}\\\\\\\\n"
-msgstr ""
+msgstr "最も古いファイル: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
-msgstr ""
+msgstr "オレンジ"
 
 msgid "P:{0}/{1}"
 msgstr ""
 
 msgid "Phone"
-msgstr ""
+msgstr "電話"
 
 msgid "Play a sound when event notification appears"
-msgstr ""
+msgstr "イベント通知が表示されたときに音を鳴らす"
 
 msgid "Play sound with notifications"
-msgstr ""
+msgstr "通知とともにサウンドを再生する"
 
 msgid "Please restart Enigma2 manually."
-msgstr ""
+msgstr "Enigma2 を手動で再起動してください。"
 
 msgid "Plugin Directory"
-msgstr ""
+msgstr "プラグインディレクトリ"
 
 msgid "Plugin is up to date"
-msgstr ""
+msgstr "プラグインは最新です"
 
 msgid "Press GREEN to import"
-msgstr ""
+msgstr "緑色を押してインポートします"
 
 msgid "Press TEXT to search"
-msgstr ""
+msgstr "テキストを押して検索します"
 
 msgid "Preview file content"
-msgstr ""
+msgstr "ファイルの内容をプレビューする"
 
 msgid "Progress: {0}%"
-msgstr ""
+msgstr "進捗状況: {0}%"
 
 msgid "Re-import"
-msgstr ""
+msgstr "逆輸入"
 
 msgid "Red"
-msgstr ""
+msgstr "赤"
 
 msgid "Refresh"
-msgstr ""
+msgstr "リフレッシュ"
 
 msgid "Refreshed"
-msgstr ""
+msgstr "リフレッシュされた"
 
 msgid "Remove"
-msgstr ""
+msgstr "取り除く"
 
 msgid "Remove Date"
-msgstr ""
+msgstr "日付の削除"
 
 msgid "Removed {0} past events"
-msgstr ""
+msgstr "{0} 件の過去のイベントを削除しました"
 
 msgid "Repeat"
-msgstr ""
+msgstr "繰り返す"
 
 msgid "Repeat (none/daily/weekly/monthly/yearly)"
-msgstr ""
+msgstr "繰り返し (なし/毎日/毎週/毎月/毎年)"
 
 msgid "Repeat:"
-msgstr ""
+msgstr "繰り返す："
 
 msgid "Repeat: {0}"
-msgstr ""
+msgstr "繰り返し: {0}"
 
 msgid "Root Home (/home/root)"
-msgstr ""
+msgstr "ルートホーム (/home/root)"
 
 msgid "S:{0}"
 msgstr ""
 
 msgid "SCHEDULED EVENTS:"
-msgstr ""
+msgstr "予定されているイベント:"
 
 msgid "Sat"
-msgstr ""
+msgstr "土"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "Search contacts"
-msgstr ""
+msgstr "連絡先の検索"
 
 msgid "Search events"
-msgstr ""
+msgstr "イベントの検索"
 
 msgid "Search:"
-msgstr ""
+msgstr "検索："
 
 msgid "Seconds between event checks (advanced)"
-msgstr ""
+msgstr "イベントチェック間の秒数 (上級)"
 
 msgid "Seconds to wait after boot before starting notifications"
-msgstr ""
+msgstr "起動後、通知を開始するまで待機する秒数"
 
 msgid "Select .ics file to import"
-msgstr ""
+msgstr "インポートする .ics ファイルを選択してください"
 
 msgid "Select a file, not a folder"
-msgstr ""
+msgstr "フォルダーではなくファイルを選択してください"
 
 msgid "Select vCard file to import"
-msgstr ""
+msgstr "インポートする vCard ファイルを選択してください"
 
 msgid "Selected: {0}"
-msgstr ""
+msgstr "選択済み: {0}"
 
 msgid "September"
-msgstr ""
+msgstr "9月"
 
 msgid "Short beep"
-msgstr ""
+msgstr "短いビープ音"
 
 msgid "Show 'H' marker on holiday days"
-msgstr ""
+msgstr "休日には「H」マーカーを表示"
 
 msgid "Show Statistics"
-msgstr ""
+msgstr "統計を表示する"
 
 msgid "Show Today's Holidays"
-msgstr ""
+msgstr "今日の休日を表示"
 
 msgid "Show Upcoming Holidays"
-msgstr ""
+msgstr "今後の休日を表示"
 
 msgid "Show debug messages in console/log"
-msgstr ""
+msgstr "コンソール/ログにデバッグ メッセージを表示する"
 
 msgid "Show event indicators"
-msgstr ""
+msgstr "イベントインジケーターを表示する"
 
 msgid "Show event statistics"
-msgstr ""
+msgstr "イベント統計を表示する"
 
 msgid "Show holiday indicators"
-msgstr ""
+msgstr "休日インジケーターを表示する"
 
 msgid "Show markers on days with events"
-msgstr ""
+msgstr "イベントのある日にマーカーを表示する"
 
 msgid "Show notifications for upcoming events"
-msgstr ""
+msgstr "今後のイベントの通知を表示する"
 
 msgid "Sign"
-msgstr ""
+msgstr "サイン"
 
 msgid "Sign:"
-msgstr ""
+msgstr "サイン："
 
 msgid "Size: {0:.1f} KB"
-msgstr ""
+msgstr "サイズ: {0:.1f} KB"
 
 msgid "Size: {0:.1f} MB"
-msgstr ""
+msgstr "サイズ: {0:.1f} MB"
 
 msgid "Skipped: %d"
-msgstr ""
+msgstr "スキップされました: %d"
 
 msgid "Skipped: {0}"
-msgstr ""
+msgstr "スキップされました: {0}"
 
 msgid "Skipped: {0} (duplicates)"
-msgstr ""
+msgstr "スキップされました: {0} (重複)"
 
 msgid "Sort"
-msgstr ""
+msgstr "選別"
 
 msgid "Sort by birthday (month/day)"
-msgstr ""
+msgstr "誕生日（月/日）で並べ替えます"
 
 msgid "Sort by category"
-msgstr ""
+msgstr "カテゴリ別に並べ替える"
 
 msgid "Sort by name (alphabetical)"
-msgstr ""
+msgstr "名前順（アルファベット順）"
 
 msgid "Sorted by birthday"
-msgstr ""
+msgstr "誕生日順に並べる"
 
 msgid "Sorted by category"
-msgstr ""
+msgstr "カテゴリ別に並べ替え"
 
 msgid "Sorted by date"
-msgstr ""
+msgstr "日付順に並べ替え"
 
 msgid "Sorted by name"
-msgstr ""
+msgstr "名前順に並べ替え"
 
 msgid "Sorted by title"
-msgstr ""
+msgstr "タイトル順に並べる"
 
 msgid "Sorted by: Birthday"
-msgstr ""
+msgstr "並べ替え: 誕生日"
 
 msgid "Sorted by: Category"
-msgstr ""
+msgstr "並べ替え: カテゴリ"
 
 msgid "Sorted by: Date"
-msgstr ""
+msgstr "並べ替え順: 日付"
 
 msgid "Sorted by: Name"
-msgstr ""
+msgstr "並べ替え順: 名前"
 
 msgid "Sorted by: Title"
-msgstr ""
+msgstr "並べ替え: タイトル"
 
 msgid "Start event notifications in background (recommended)"
-msgstr ""
+msgstr "イベント通知をバックグラウンドで開始する (推奨)"
 
 msgid "Subdirectory name for exports (created automatically)"
-msgstr ""
+msgstr "エクスポート用のサブディレクトリ名 (自動的に作成されます)"
 
 msgid "Successfully converted {0} entries to ICS format"
-msgstr ""
+msgstr "{0} エントリを ICS 形式に正常に変換しました"
 
 msgid "Sun"
-msgstr ""
+msgstr "太陽"
 
 msgid "Tags: {0}"
-msgstr ""
+msgstr "タグ: {0}"
 
 msgid "Temporary Storage (/tmp)"
-msgstr ""
+msgstr "一時ストレージ (/tmp)"
 
 msgid "Test error: %s"
-msgstr ""
+msgstr "テストエラー: %s"
 
 msgid "Text format"
-msgstr ""
+msgstr "テキスト形式"
 
 msgid "Thu"
-msgstr ""
+msgstr "木"
 
 msgid "Time"
-msgstr ""
+msgstr "時間"
 
 msgid "Time (HH:MM)"
-msgstr ""
+msgstr "時間 (HH:MM)"
 
 msgid "Time:"
-msgstr ""
+msgstr "時間："
 
 msgid "Title"
-msgstr ""
+msgstr "タイトル"
 
 msgid "Title and date are required!"
-msgstr ""
+msgstr "タイトルと日付は必須です。"
 
 msgid "Title is required"
-msgstr ""
+msgstr "タイトルは必須です"
 
 msgid "Title:"
-msgstr ""
+msgstr "タイトル："
 
 msgid "Today"
-msgstr ""
+msgstr "今日"
 
 msgid "Total events: {0}"
-msgstr ""
+msgstr "イベント総数: {0}"
 
 msgid "Total files: {0}\\\\\\\\n"
-msgstr ""
+msgstr "合計ファイル数: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Total size: {0:.1f} KB\\\\\\\\n"
-msgstr ""
+msgstr "合計サイズ: {0:.1f} KB\\\\\\\\\\\\\\\\n"
 
 msgid "Total: %d"
-msgstr ""
+msgstr "合計: %d"
 
 msgid "Total: {0}"
-msgstr ""
+msgstr "合計: {0}"
 
 msgid "Tue"
-msgstr ""
+msgstr "火"
 
 msgid "Type of sound to play with notifications"
-msgstr ""
+msgstr "通知時に再生するサウンドの種類"
 
 msgid "U:{0}"
 msgstr ""
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USBドライブ"
 
 msgid "USB Drive (/media/usb)"
-msgstr ""
+msgstr "USB ドライブ (/media/usb)"
 
 msgid "Unable to play test sound"
-msgstr ""
+msgstr "テストサウンドを再生できません"
 
 msgid "Update available!"
-msgstr ""
+msgstr "アップデートが利用可能です!"
 
 msgid "Update cancelled"
-msgstr ""
+msgstr "アップデートがキャンセルされました"
 
 msgid "Update check error"
-msgstr ""
+msgstr "アップデートチェックエラー"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "更新チェックに失敗しました"
 
 msgid "Update completed successfully!"
-msgstr ""
+msgstr "アップデートが無事完了しました！"
 
 msgid "Update error: %s"
-msgstr ""
+msgstr "更新エラー: %s"
 
 msgid "Update failed"
-msgstr ""
+msgstr "アップデートに失敗しました"
 
 msgid "Update failed and backup restore also failed!"
-msgstr ""
+msgstr "アップデートが失敗し、バックアップの復元も失敗しました。"
 
 msgid "Update failed. Restored from backup."
-msgstr ""
+msgstr "アップデートに失敗しました。バックアップから復元しました。"
 
 msgid "Update successful!"
-msgstr ""
+msgstr "アップデートが成功しました！"
 
 msgid "Updated: {0}"
-msgstr ""
+msgstr "更新日: {0}"
 
 msgid "Updating plugin... Please wait"
-msgstr ""
+msgstr "プラグインを更新しています...お待ちください"
 
 msgid "Using legacy database format"
 msgstr ""
 
 msgid "View"
-msgstr ""
+msgstr "ビュー"
 
 msgid "Waiting for thread to stop..."
-msgstr ""
+msgstr "スレッドが停止するのを待っています..."
 
 msgid "Wed"
-msgstr ""
+msgstr "水"
 
 msgid "White"
-msgstr ""
+msgstr "白"
 
 msgid "Yellow"
-msgstr ""
+msgstr "黄色"
 
 msgid "You have the latest version of Calendar."
-msgstr ""
+msgstr "最新バージョンのカレンダーを使用しています。"
 
 msgid "not sorted"
-msgstr ""
+msgstr "ソートされていない"
 
 msgid "sorted by birthday"
-msgstr ""
+msgstr "誕生日順に並べ替える"
 
 msgid "sorted by category"
-msgstr ""
+msgstr "カテゴリ別に並べ替え"
 
 msgid "sorted by name"
-msgstr ""
+msgstr "名前順に並べ替える"
 
 msgid "vCard format"
-msgstr ""
+msgstr "vCard 形式"
 
 msgid "vCard format (standard)"
-msgstr ""
+msgstr "vCard フォーマット (標準)"
 
 msgid "vCard import feature not available: {0}"
-msgstr ""
+msgstr "vCard インポート機能は使用できません: {0}"

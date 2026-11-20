@@ -10,556 +10,556 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "(Search: '{0}')"
-msgstr ""
+msgstr "(ค้นหา: '{0}')"
 
 msgid "(truncated)"
-msgstr ""
+msgstr "(ถูกตัดทอน)"
 
 msgid "--- CONTACTS ---"
-msgstr ""
+msgstr "--- ติดต่อ ---"
 
 msgid "--- DATABASE ---"
-msgstr ""
+msgstr "--- ฐานข้อมูล ---"
 
 msgid "--- EVENTS ---"
-msgstr ""
+msgstr "--- กิจกรรม ---"
 
 msgid "--- HOLIDAYS ---"
-msgstr ""
+msgstr "--- วันหยุด ---"
 
 msgid "--- PERSONAL DATA ---"
-msgstr ""
+msgstr "--- ข้อมูลส่วนบุคคล ---"
 
 msgid "--- SYSTEM ---"
-msgstr ""
+msgstr "--- ระบบ ---"
 
 msgid "Active"
-msgstr ""
+msgstr "คล่องแคล่ว"
 
 msgid "Active:"
-msgstr ""
+msgstr "คล่องแคล่ว:"
 
 msgid "Add"
-msgstr ""
+msgstr "เพิ่ม"
 
 msgid "Add Contact"
-msgstr ""
+msgstr "เพิ่มผู้ติดต่อ"
 
 msgid "Add Event"
-msgstr ""
+msgstr "เพิ่มเหตุการณ์"
 
 msgid "Add date and time to exported filenames"
-msgstr ""
+msgstr "เพิ่มวันที่และเวลาให้กับชื่อไฟล์ที่ส่งออก"
 
 msgid "Add timestamp to filename"
-msgstr ""
+msgstr "เพิ่มการประทับเวลาให้กับชื่อไฟล์"
 
 msgid "Alert sound"
-msgstr ""
+msgstr "เสียงเตือน"
 
 msgid "Already on today's event"
-msgstr ""
+msgstr "อยู่แล้วในงานวันนี้"
 
 msgid "April"
-msgstr ""
+msgstr "เมษายน"
 
 msgid "August"
-msgstr ""
+msgstr "สิงหาคม"
 
 msgid "Automatically clean old notified events"
-msgstr ""
+msgstr "ทำความสะอาดกิจกรรมที่ได้รับการแจ้งเตือนเก่าโดยอัตโนมัติ"
 
 msgid "Autostart delay"
-msgstr ""
+msgstr "ความล่าช้าในการเริ่มอัตโนมัติ"
 
 msgid "Back"
-msgstr ""
+msgstr "กลับ"
 
 msgid "Birthday (YYYY-MM-DD)"
-msgstr ""
+msgstr "วันเกิด (ปปปป-ดด-วว)"
 
 msgid "Birthdays: {0}"
-msgstr ""
+msgstr "วันเกิด: {0}"
 
 msgid "Blue"
-msgstr ""
+msgstr "สีฟ้า"
 
 msgid "Browse ICS Files"
-msgstr ""
+msgstr "เรียกดูไฟล์ ICS"
 
 msgid "CONTACTS WITH BIRTHDAYS TODAY:"
-msgstr ""
+msgstr "ติดต่อกับวันเกิดวันนี้:"
 
 msgid "CSV format"
-msgstr ""
+msgstr "รูปแบบ CSV"
 
 msgid "Calendar"
-msgstr ""
+msgstr "ปฏิทิน"
 
 msgid "Calendar Planner"
-msgstr ""
+msgstr "ผู้วางแผนปฏิทิน"
 
 msgid "Calendar Planner | Ready"
-msgstr ""
+msgstr "วางแผนปฏิทิน | พร้อม"
 
 msgid "Calendar Settings"
-msgstr ""
+msgstr "การตั้งค่าปฏิทิน"
 
 msgid "Calendar with events and notifications"
-msgstr ""
+msgstr "ปฏิทินพร้อมกิจกรรมและการแจ้งเตือน"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ยกเลิก"
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "กำลังยกเลิก..."
 
 msgid "Cannot delete: Contact has no ID"
-msgstr ""
+msgstr "ลบไม่ได้: ผู้ติดต่อไม่มี ID"
 
 msgid "Cannot initialize event system: {0}"
-msgstr ""
+msgstr "ไม่สามารถเริ่มต้นระบบเหตุการณ์ได้: {0}"
 
 msgid "Categories (comma separated)"
-msgstr ""
+msgstr "หมวดหมู่ (คั่นด้วยเครื่องหมายจุลภาค)"
 
 msgid "Check for Updates"
-msgstr ""
+msgstr "ตรวจสอบการอัปเดต"
 
 msgid "Checking for updates..."
-msgstr ""
+msgstr "กำลังตรวจสอบการอัปเดต..."
 
 msgid "Choose between legacy text files or standard vCard format"
-msgstr ""
+msgstr "เลือกระหว่างไฟล์ข้อความแบบเดิมหรือรูปแบบ vCard มาตรฐาน"
 
 msgid "Choose where to save exported files"
-msgstr ""
+msgstr "เลือกตำแหน่งที่จะบันทึกไฟล์ที่ส่งออก"
 
 msgid "Clean after days"
-msgstr ""
+msgstr "ทำความสะอาดหลังจากผ่านไปหลายวัน"
 
 msgid "Clean old notifications"
-msgstr ""
+msgstr "ทำความสะอาดการแจ้งเตือนเก่า"
 
 msgid "Cleaned {0} duplicate events"
-msgstr ""
+msgstr "ทำความสะอาด {0} กิจกรรมที่ซ้ำกัน"
 
 msgid "Cleaned {0} old ICS files"
-msgstr ""
+msgstr "ทำความสะอาดไฟล์ ICS เก่า {0} แล้ว"
 
 msgid "Cleanup Old Files"
-msgstr ""
+msgstr "การล้างข้อมูลไฟล์เก่า"
 
 msgid "Cleanup duplicate events"
-msgstr ""
+msgstr "การล้างเหตุการณ์ที่ซ้ำกัน"
 
 msgid "Cleanup past events"
-msgstr ""
+msgstr "การทำความสะอาดเหตุการณ์ที่ผ่านมา"
 
 msgid "Clear ALL holiday entries from all date files?"
-msgstr ""
+msgstr "ล้างรายการวันหยุดทั้งหมดจากไฟล์วันที่ทั้งหมดหรือไม่"
 
 msgid "Clear All"
-msgstr ""
+msgstr "ล้างทั้งหมด"
 
 msgid "Clear Holiday Database"
-msgstr ""
+msgstr "ล้างฐานข้อมูลวันหยุด"
 
 msgid "Close"
-msgstr ""
+msgstr "ปิด"
 
 msgid "Color days with holidays"
-msgstr ""
+msgstr "วันสีกับวันหยุด"
 
 msgid "Color for days with events"
-msgstr ""
+msgstr "สีสันสำหรับวันสำคัญต่างๆ"
 
 msgid "Color for holiday days"
-msgstr ""
+msgstr "สีสันสำหรับวันหยุด"
 
 msgid "Completed"
-msgstr ""
+msgstr "สมบูรณ์"
 
 msgid "Contact"
-msgstr ""
+msgstr "ติดต่อ"
 
 msgid "Contact '{0}' deleted successfully"
-msgstr ""
+msgstr "ลบผู้ติดต่อ '{0}' สำเร็จแล้ว"
 
 msgid "Contact:"
-msgstr ""
+msgstr "ติดต่อ:"
 
 msgid "Contacts directory not found"
-msgstr ""
+msgstr "ไม่พบไดเรกทอรีผู้ติดต่อ"
 
 msgid "Contacts imported from ICS file!"
-msgstr ""
+msgstr "ผู้ติดต่อที่นำเข้าจากไฟล์ ICS!"
 
 msgid "Contacts: 0"
-msgstr ""
+msgstr "รายชื่อผู้ติดต่อ: 0"
 
 msgid "Contacts: {0}/{1}"
-msgstr ""
+msgstr "ผู้ติดต่อ: {0}/{1}"
 
 msgid "Conversion error: {0}"
-msgstr ""
+msgstr "ข้อผิดพลาดในการแปลง: {0}"
 
 msgid "Convert all existing data to vCard format?"
-msgstr ""
+msgstr "แปลงข้อมูลที่มีอยู่ทั้งหมดเป็นรูปแบบ vCard หรือไม่"
 
 msgid "Convert to ICS format"
-msgstr ""
+msgstr "แปลงเป็นรูปแบบ ICS"
 
 msgid "Convert to legacy format"
-msgstr ""
+msgstr "แปลงเป็นรูปแบบเดิม"
 
 msgid "Convert to vCard format"
-msgstr ""
+msgstr "แปลงเป็นรูปแบบ vCard"
 
 msgid "Converted {0} events to {1}"
-msgstr ""
+msgstr "แปลงเหตุการณ์ {0} เป็น {1}"
 
 msgid "Could not check for updates. Check internet connection."
-msgstr ""
+msgstr "ไม่สามารถตรวจสอบการอัปเดตได้ ตรวจสอบการเชื่อมต่ออินเทอร์เน็ต"
 
 msgid "Could not check for updates: %s"
-msgstr ""
+msgstr "ไม่สามารถตรวจสอบการอัปเดต: %s"
 
 msgid "Could not read file"
-msgstr ""
+msgstr "ไม่สามารถอ่านไฟล์ได้"
 
 msgid "Cyan"
-msgstr ""
+msgstr "สีฟ้า"
 
 msgid "Database converted to vCard format"
-msgstr ""
+msgstr "ฐานข้อมูลแปลงเป็นรูปแบบ vCard"
 
 msgid "Database format"
-msgstr ""
+msgstr "รูปแบบฐานข้อมูล"
 
 msgid "Date"
-msgstr ""
+msgstr "วันที่"
 
 msgid "Date (YYYY-MM-DD)"
-msgstr ""
+msgstr "วันที่ (ปปปป-ดด-วว)"
 
 msgid "Date range: {0} to {1}"
-msgstr ""
+msgstr "ช่วงวันที่: {0} ถึง {1}"
 
 msgid "Date:"
-msgstr ""
+msgstr "วันที่:"
 
 msgid "Day +"
-msgstr ""
+msgstr "วัน +"
 
 msgid "Day -"
-msgstr ""
+msgstr "วัน -"
 
 msgid "Days to keep notifications in cache"
-msgstr ""
+msgstr "จำนวนวันในการเก็บการแจ้งเตือนไว้ในแคช"
 
 msgid "December"
-msgstr ""
+msgstr "ธันวาคม"
 
 msgid "Default event time"
-msgstr ""
+msgstr "เวลาเหตุการณ์เริ่มต้น"
 
 msgid "Default format for exported files"
-msgstr ""
+msgstr "รูปแบบเริ่มต้นสำหรับไฟล์ที่ส่งออก"
 
 msgid "Default minutes before event to show notification"
-msgstr ""
+msgstr "นาทีเริ่มต้นก่อนเหตุการณ์ที่จะแสดงการแจ้งเตือน"
 
 msgid "Default notification minutes"
-msgstr ""
+msgstr "นาทีการแจ้งเตือนเริ่มต้น"
 
 msgid "Default time for new events (HH:MM format)"
-msgstr ""
+msgstr "เวลาเริ่มต้นสำหรับกิจกรรมใหม่ (รูปแบบ HH:MM)"
 
 msgid "Delete"
-msgstr ""
+msgstr "ลบ"
 
 msgid "Delete ALL ICS events"
-msgstr ""
+msgstr "ลบเหตุการณ์ ICS ทั้งหมด"
 
 msgid "Delete ALL contacts"
-msgstr ""
+msgstr "ลบผู้ติดต่อทั้งหมด"
 
 msgid "Delete ALL events"
-msgstr ""
+msgstr "ลบกิจกรรมทั้งหมด"
 
 msgid "Delete File"
-msgstr ""
+msgstr "ลบไฟล์"
 
 msgid "Delete ICS files older than 30 days?"
-msgstr ""
+msgstr "ลบไฟล์ ICS ที่เก่ากว่า 30 วันหรือไม่"
 
 msgid "Delete file"
-msgstr ""
+msgstr "ลบไฟล์"
 
 msgid "Delete {0}?"
-msgstr ""
+msgstr "ลบ {0}?"
 
 msgid "Delete: {0}"
-msgstr ""
+msgstr "ลบ: {0}"
 
 msgid "Deleted {0} ICS events"
-msgstr ""
+msgstr "ลบกิจกรรม {0} ICS แล้ว"
 
 msgid "Deleted {0} contacts from database"
-msgstr ""
+msgstr "ลบผู้ติดต่อ {0} ออกจากฐานข้อมูล"
 
 msgid "Description"
-msgstr ""
+msgstr "คำอธิบาย"
 
 msgid "Description:"
-msgstr ""
+msgstr "คำอธิบาย:"
 
 msgid "Directory: {0}"
-msgstr ""
+msgstr "ไดเรกทอรี: {0}"
 
 msgid "Disk"
-msgstr ""
+msgstr "ดิสก์"
 
 msgid "Duplicates cleaned: %d"
-msgstr ""
+msgstr "รายการที่ซ้ำกันถูกล้างแล้ว: %d"
 
 msgid "E:{0}"
-msgstr ""
+msgstr "อี:__คช_0__"
 
 msgid "Edit"
-msgstr ""
+msgstr "แก้ไข"
 
 msgid "Edit Contact"
-msgstr ""
+msgstr "แก้ไขการติดต่อ"
 
 msgid "Edit Contact ({0}/{1})"
-msgstr ""
+msgstr "แก้ไขผู้ติดต่อ ({0}/{1})"
 
 msgid "Edit Date"
-msgstr ""
+msgstr "แก้ไขวันที่"
 
 msgid "Edit Description"
-msgstr ""
+msgstr "แก้ไขคำอธิบาย"
 
 msgid "Edit Event"
-msgstr ""
+msgstr "แก้ไขกิจกรรม"
 
 msgid "Edit Event ({0}/{1})"
-msgstr ""
+msgstr "แก้ไขกิจกรรม ({0}/{1})"
 
 msgid "Edit Event ({0}/{1}) - Today"
-msgstr ""
+msgstr "แก้ไขกิจกรรม ({0}/{1}) - วันนี้"
 
 msgid "Edit Holiday"
-msgstr ""
+msgstr "แก้ไขวันหยุด"
 
 msgid "Edit ICS Event"
-msgstr ""
+msgstr "แก้ไขกิจกรรม ICS"
 
 msgid "Edit Note"
-msgstr ""
+msgstr "แก้ไขหมายเหตุ"
 
 msgid "Edit Sign"
-msgstr ""
+msgstr "แก้ไขเครื่องหมาย"
 
 msgid "Edit: {0}"
-msgstr ""
+msgstr "แก้ไข: {0}"
 
 msgid "Email"
-msgstr ""
+msgstr "อีเมล"
 
 msgid "Enable autostart"
-msgstr ""
+msgstr "เปิดใช้งานการเริ่มต้นอัตโนมัติ"
 
 msgid "Enable debug mode"
-msgstr ""
+msgstr "เปิดใช้งานโหมดแก้ไขข้อบกพร่อง"
 
 msgid "Enable event management with date/time"
-msgstr ""
+msgstr "เปิดใช้งานการจัดการเหตุการณ์ด้วยวันที่/เวลา"
 
 msgid "Enable event system"
-msgstr ""
+msgstr "เปิดใช้งานระบบเหตุการณ์"
 
 msgid "Enable holiday coloring"
-msgstr ""
+msgstr "เปิดใช้งานการระบายสีวันหยุด"
 
 msgid "Enable notifications"
 msgstr ""
 
 msgid "Enter"
-msgstr ""
+msgstr "เข้า"
 
 msgid "Error deleting contact"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการลบผู้ติดต่อ"
 
 msgid "Error deleting contact '{0}'"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการลบผู้ติดต่อ '{0}'"
 
 msgid "Error deleting database: {0}"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการลบฐานข้อมูล: {0}"
 
 msgid "Error getting ICS statistics"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการรับสถิติ ICS"
 
 msgid "Error opening ICS browser: %s"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการเปิดเบราว์เซอร์ ICS: %s"
 
 msgid "Error opening ICS importer: {0}"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการเปิดตัวนำเข้า ICS: {0}"
 
 msgid "Error opening event dialog"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการเปิดกล่องโต้ตอบเหตุการณ์"
 
 msgid "Error saving ICS data"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการบันทึกข้อมูล ICS"
 
 msgid "Error saving contact"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการบันทึกรายชื่อติดต่อ"
 
 msgid "Error saving data"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการบันทึกข้อมูล"
 
 msgid "Error saving event"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการบันทึกกิจกรรม"
 
 msgid "Error: {0}"
-msgstr ""
+msgstr "ข้อผิดพลาด: {0}"
 
 msgid "Errors: %d"
-msgstr ""
+msgstr "ข้อผิดพลาด: %d"
 
 msgid "Errors: {0}"
-msgstr ""
+msgstr "ข้อผิดพลาด: {0}"
 
 msgid "Event"
-msgstr ""
+msgstr "เหตุการณ์"
 
 msgid "Event '{0}' deleted successfully"
-msgstr ""
+msgstr "ลบกิจกรรม '{0}' เรียบร้อยแล้ว"
 
 msgid "Event '{0}' saved successfully"
-msgstr ""
+msgstr "บันทึกกิจกรรม '{0}' สำเร็จแล้ว"
 
 msgid "Event check interval"
-msgstr ""
+msgstr "ช่วงเวลาตรวจสอบเหตุการณ์"
 
 msgid "Event color"
-msgstr ""
+msgstr "สีกิจกรรม"
 
 msgid "Event manager not available"
-msgstr ""
+msgstr "ผู้จัดการกิจกรรมไม่พร้อมใช้งาน"
 
 msgid "Event manager not initialized"
-msgstr ""
+msgstr "ตัวจัดการเหตุการณ์ไม่ได้เตรียมใช้งาน"
 
 msgid "Event system is disabled. Enable it in settings first."
-msgstr ""
+msgstr "ระบบกิจกรรมถูกปิดใช้งาน เปิดใช้งานในการตั้งค่าก่อน"
 
 msgid "Event system is disabled. Enable it in settings."
-msgstr ""
+msgstr "ระบบกิจกรรมถูกปิดใช้งาน เปิดใช้งานได้ในการตั้งค่า"
 
 msgid "Event system is not enabled"
-msgstr ""
+msgstr "ไม่ได้เปิดใช้งานระบบกิจกรรม"
 
 msgid "Events found: {0}"
-msgstr ""
+msgstr "พบเหตุการณ์: {0}"
 
 msgid "Events imported successfully"
-msgstr ""
+msgstr "นำเข้ากิจกรรมเรียบร้อยแล้ว"
 
 msgid "Export All to ICS File"
-msgstr ""
+msgstr "ส่งออกทั้งหมดเป็นไฟล์ ICS"
 
 msgid "Export error: {0}"
-msgstr ""
+msgstr "ข้อผิดพลาดในการส่งออก: {0}"
 
 msgid "Export failed or no contacts to export"
-msgstr ""
+msgstr "การส่งออกล้มเหลวหรือไม่มีผู้ติดต่อที่จะส่งออก"
 
 msgid "Export format"
-msgstr ""
+msgstr "รูปแบบการส่งออก"
 
 msgid "Export location"
-msgstr ""
+msgstr "สถานที่ส่งออก"
 
 msgid "Export subdirectory"
-msgstr ""
+msgstr "ส่งออกไดเรกทอรีย่อย"
 
 msgid "Export vCard File"
-msgstr ""
+msgstr "ส่งออกไฟล์ vCard"
 
 msgid "Exporting contacts..."
-msgstr ""
+msgstr "กำลังส่งออกรายชื่อติดต่อ..."
 
 msgid "Failed to create backup. Update cancelled."
-msgstr ""
+msgstr "ไม่สามารถสร้างข้อมูลสำรองได้ การอัปเดตถูกยกเลิก"
 
 msgid "Failed to start import"
-msgstr ""
+msgstr "ไม่สามารถเริ่มการนำเข้าได้"
 
 msgid "February"
-msgstr ""
+msgstr "กุมภาพันธ์"
 
 msgid "Field {0}/{1}: {2}"
-msgstr ""
+msgstr "ฟิลด์ {0}/{1}: {2}"
 
 msgid "File deleted"
-msgstr ""
+msgstr "ลบไฟล์แล้ว"
 
 msgid "File not found!"
-msgstr ""
+msgstr "ไม่พบไฟล์!"
 
 msgid "File re-imported successfully"
-msgstr ""
+msgstr "นำเข้าไฟล์อีกครั้งสำเร็จแล้ว"
 
 msgid "File re-imported. Found {0} potential duplicates."
-msgstr ""
+msgstr "นำเข้าไฟล์อีกครั้ง พบ {0} รายการที่อาจซ้ำกัน"
 
 msgid "File: {0}"
-msgstr ""
+msgstr "ไฟล์: {0}"
 
 msgid "Files is Empty..."
-msgstr ""
+msgstr "ไฟล์ว่างเปล่า..."
 
 msgid "Found {0} ICS files"
-msgstr ""
+msgstr "พบไฟล์ {0} ICS"
 
 msgid "Fri"
-msgstr ""
+msgstr "ศุกร์"
 
 msgid "Green"
-msgstr ""
+msgstr "สีเขียว"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "ฮาร์ดดิสก์"
 
 msgid "Hard Disk (/media/hdd)"
-msgstr ""
+msgstr "ฮาร์ดดิสก์ (/สื่อ/hdd)"
 
 msgid "Holiday"
 msgstr ""
 
 msgid "Holiday color"
-msgstr ""
+msgstr "สีสันวันหยุด"
 
 msgid "Holiday:"
-msgstr ""
+msgstr "วันหยุด:"
 
 msgid "Holidays imported"
-msgstr ""
+msgstr "นำเข้าวันหยุด"
 
 msgid "I:{0}"
-msgstr ""
+msgstr "ฉัน:__คช_0__"
 
 msgid "ICS Events: 0"
-msgstr ""
+msgstr "เหตุการณ์ ICS: 0"
 
 msgid "ICS Events: {0}/{1}"
-msgstr ""
+msgstr "เหตุการณ์ ICS: {0}/{1}"
 
 msgid "ICS format"
-msgstr ""
+msgstr "รูปแบบ ICS"
 
 msgid "ICS format (google calendar)"
 msgstr ""
@@ -571,34 +571,34 @@ msgid "Import"
 msgstr ""
 
 msgid "Import All"
-msgstr ""
+msgstr "นำเข้าทั้งหมด"
 
 msgid "Import Google Calendar (.ics)"
-msgstr ""
+msgstr "นำเข้า Google ปฏิทิน (.ics)"
 
 msgid "Import Holidays"
-msgstr ""
+msgstr "วันหยุดนำเข้า"
 
 msgid "Import ICS Contacts Google Calendar (.ics)"
-msgstr ""
+msgstr "นำเข้าที่อยู่ติดต่อ ICS Google Calendar (.ics)"
 
 msgid "Import completed"
 msgstr ""
 
 msgid "Import completed - Sorting contacts..."
-msgstr ""
+msgstr "นำเข้าเสร็จสมบูรณ์ - กำลังเรียงลำดับผู้ติดต่อ..."
 
 msgid "Import completed!"
 msgstr ""
 
 msgid "Import completed. Ready."
-msgstr ""
+msgstr "การนำเข้าเสร็จสมบูรณ์ พร้อม."
 
 msgid "Import error: {0}"
 msgstr ""
 
 msgid "Import events to calendar"
-msgstr ""
+msgstr "นำเข้ากิจกรรมไปยังปฏิทิน"
 
 msgid "Import vCard File"
 msgstr ""
@@ -613,7 +613,7 @@ msgid "Imported: {0}"
 msgstr ""
 
 msgid "Imported: {0} contacts"
-msgstr ""
+msgstr "นำเข้า: {0} ผู้ติดต่อ"
 
 msgid "Importing iCalendar File"
 msgstr ""
@@ -625,16 +625,16 @@ msgid "Initializing..."
 msgstr ""
 
 msgid "Invalid birthday format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "รูปแบบวันเกิดไม่ถูกต้อง ใช้ ปปปป-ดด-วว"
 
 msgid "Invalid date format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "รูปแบบวันที่ไม่ถูกต้อง ใช้ ปปปป-ดด-วว"
 
 msgid "Invalid time format! Use HH:MM (00:00 to 23:59)"
 msgstr ""
 
 msgid "Invalid time format. Use HH:MM"
-msgstr ""
+msgstr "รูปแบบเวลาไม่ถูกต้อง ใช้ HH:MM"
 
 msgid "January"
 msgstr ""
@@ -667,10 +667,10 @@ msgid "March"
 msgstr ""
 
 msgid "May"
-msgstr ""
+msgstr "อาจ"
 
 msgid "Modified: {0}"
-msgstr ""
+msgstr "แก้ไข: {0}"
 
 msgid "Mon"
 msgstr ""

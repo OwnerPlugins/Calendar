@@ -17,28 +17,28 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 msgid "(Search: '{0}')"
-msgstr ""
+msgstr "(Поиск: '{0}')"
 
 msgid "(truncated)"
-msgstr ""
+msgstr "(усечено)"
 
 msgid "--- CONTACTS ---"
-msgstr ""
+msgstr "--- КОНТАКТЫ ---"
 
 msgid "--- DATABASE ---"
-msgstr ""
+msgstr "--- БАЗА ДАННЫХ ---"
 
 msgid "--- EVENTS ---"
-msgstr ""
+msgstr "--- СОБЫТИЯ ---"
 
 msgid "--- HOLIDAYS ---"
-msgstr ""
+msgstr "--- ПРАЗДНИКИ ---"
 
 msgid "--- PERSONAL DATA ---"
-msgstr ""
+msgstr "--- ПЕРСОНАЛЬНЫЕ ДАННЫЕ ---"
 
 msgid "--- SYSTEM ---"
-msgstr ""
+msgstr "--- СИСТЕМА ---"
 
 msgid "Active"
 msgstr "Активный"
@@ -50,22 +50,22 @@ msgid "Add"
 msgstr "Добавить"
 
 msgid "Add Contact"
-msgstr ""
+msgstr "Добавить контакт"
 
 msgid "Add Event"
 msgstr "Добавить событие"
 
 msgid "Add date and time to exported filenames"
-msgstr ""
+msgstr "Добавить дату и время к экспортированным именам файлов"
 
 msgid "Add timestamp to filename"
-msgstr ""
+msgstr "Добавить временную метку к имени файла"
 
 msgid "Alert sound"
 msgstr "Звуковой сигнал тревоги"
 
 msgid "Already on today's event"
-msgstr ""
+msgstr "Уже на сегодняшнем мероприятии"
 
 msgid "April"
 msgstr "Апрель"
@@ -74,34 +74,34 @@ msgid "August"
 msgstr "Август"
 
 msgid "Automatically clean old notified events"
-msgstr ""
+msgstr "Автоматически очищать старые уведомления о событиях"
 
 msgid "Autostart delay"
-msgstr ""
+msgstr "Задержка автозапуска"
 
 msgid "Back"
 msgstr "Назад"
 
 msgid "Birthday (YYYY-MM-DD)"
-msgstr ""
+msgstr "День рождения (ГГГГ-ММ-ДД)"
 
 msgid "Birthdays: {0}"
-msgstr ""
+msgstr "Дни рождения: {0}"
 
 msgid "Blue"
 msgstr "Синий"
 
 msgid "Browse ICS Files"
-msgstr ""
+msgstr "Просмотр файлов ICS"
 
 msgid "CONTACTS WITH BIRTHDAYS TODAY:"
-msgstr ""
+msgstr "КОНТАКТЫ С ДНЯМИ РОЖДЕНИЯ СЕГОДНЯ:"
 
 msgid "CSV format"
-msgstr ""
+msgstr "CSV-формат"
 
 msgid "Calendar"
-msgstr ""
+msgstr "Календарь"
 
 msgid "Calendar Planner"
 msgstr "Календарь-планер"
@@ -110,25 +110,25 @@ msgid "Calendar Planner | Ready"
 msgstr "Календарь-планер | Готов"
 
 msgid "Calendar Settings"
-msgstr ""
+msgstr "Настройки календаря"
 
 msgid "Calendar with events and notifications"
-msgstr ""
+msgstr "Календарь с событиями и уведомлениями"
 
 msgid "Cancel"
 msgstr "Отмена"
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "Отмена..."
 
 msgid "Cannot delete: Contact has no ID"
-msgstr ""
+msgstr "Невозможно удалить: у контакта нет идентификатора"
 
 msgid "Cannot initialize event system: {0}"
-msgstr ""
+msgstr "Невозможно инициализировать систему событий: {0}"
 
 msgid "Categories (comma separated)"
-msgstr ""
+msgstr "Категории (через запятую)"
 
 msgid "Check for Updates"
 msgstr "Проверить наличие обновлений"
@@ -137,28 +137,28 @@ msgid "Checking for updates..."
 msgstr "Проверка наличия обновлений..."
 
 msgid "Choose between legacy text files or standard vCard format"
-msgstr ""
+msgstr "Выбирайте между устаревшими текстовыми файлами или стандартным форматом vCard."
 
 msgid "Choose where to save exported files"
-msgstr ""
+msgstr "Выберите, где сохранить экспортированные файлы"
 
 msgid "Clean after days"
-msgstr ""
+msgstr "Чисто через несколько дней"
 
 msgid "Clean old notifications"
-msgstr ""
+msgstr "Очистить старые уведомления"
 
 msgid "Cleaned {0} duplicate events"
-msgstr ""
+msgstr "Убраны повторяющиеся события {0}."
 
 msgid "Cleaned {0} old ICS files"
-msgstr ""
+msgstr "Очищены {0} старые файлы ICS."
 
 msgid "Cleanup Old Files"
-msgstr ""
+msgstr "Очистка старых файлов"
 
 msgid "Cleanup duplicate events"
-msgstr ""
+msgstr "Очистка повторяющихся событий"
 
 msgid "Cleanup past events"
 msgstr "Уборка последствий прошлых событий"
@@ -167,7 +167,7 @@ msgid "Clear ALL holiday entries from all date files?"
 msgstr "Удалить ВСЕ записи о праздниках из всех файлов с датами?"
 
 msgid "Clear All"
-msgstr ""
+msgstr "Очистить все"
 
 msgid "Clear Holiday Database"
 msgstr "Прозрачная база данных праздников"
@@ -176,55 +176,55 @@ msgid "Close"
 msgstr "Закрыть"
 
 msgid "Color days with holidays"
-msgstr ""
+msgstr "Цветные дни с праздниками"
 
 msgid "Color for days with events"
-msgstr ""
+msgstr "Цвет для дней с событиями"
 
 msgid "Color for holiday days"
-msgstr ""
+msgstr "Цвет для праздничных дней"
 
 msgid "Completed"
-msgstr ""
+msgstr "Завершенный"
 
 msgid "Contact"
-msgstr ""
+msgstr "Контакт"
 
 msgid "Contact '{0}' deleted successfully"
-msgstr ""
+msgstr "Контакт «{0}» успешно удален."
 
 msgid "Contact:"
-msgstr ""
+msgstr "Контакт:"
 
 msgid "Contacts directory not found"
-msgstr ""
+msgstr "Каталог контактов не найден"
 
 msgid "Contacts imported from ICS file!"
-msgstr ""
+msgstr "Контакты импортированы из файла ICS!"
 
 msgid "Contacts: 0"
-msgstr ""
+msgstr "Контакты: 0"
 
 msgid "Contacts: {0}/{1}"
-msgstr ""
+msgstr "Контакты: {0}/{1}"
 
 msgid "Conversion error: {0}"
-msgstr ""
+msgstr "Ошибка преобразования: {0}"
 
 msgid "Convert all existing data to vCard format?"
-msgstr ""
+msgstr "Преобразовать все существующие данные в формат vCard?"
 
 msgid "Convert to ICS format"
-msgstr ""
+msgstr "Конвертировать в формат ICS"
 
 msgid "Convert to legacy format"
-msgstr ""
+msgstr "Преобразование в устаревший формат"
 
 msgid "Convert to vCard format"
-msgstr ""
+msgstr "Конвертировать в формат vCard"
 
 msgid "Converted {0} events to {1}"
-msgstr ""
+msgstr "События {0} преобразованы в {1}."
 
 msgid "Could not check for updates. Check internet connection."
 msgstr "Не удалось проверить наличие обновлений. Проверьте подключение к интернету."
@@ -233,25 +233,25 @@ msgid "Could not check for updates: %s"
 msgstr "Не удалось проверить наличие обновлений: %s"
 
 msgid "Could not read file"
-msgstr ""
+msgstr "Не удалось прочитать файл"
 
 msgid "Cyan"
 msgstr "Бирюзовый"
 
 msgid "Database converted to vCard format"
-msgstr ""
+msgstr "База данных конвертирована в формат vCard."
 
 msgid "Database format"
-msgstr ""
+msgstr "Формат базы данных"
 
 msgid "Date"
 msgstr "Дата"
 
 msgid "Date (YYYY-MM-DD)"
-msgstr ""
+msgstr "Дата (ГГГГ-ММ-ДД)"
 
 msgid "Date range: {0} to {1}"
-msgstr ""
+msgstr "Диапазон дат: с {0} по {1}."
 
 msgid "Date:"
 msgstr "Дата:"
@@ -263,58 +263,58 @@ msgid "Day -"
 msgstr "День -"
 
 msgid "Days to keep notifications in cache"
-msgstr ""
+msgstr "Дни хранения уведомлений в кеше"
 
 msgid "December"
 msgstr "Декабрь"
 
 msgid "Default event time"
-msgstr ""
+msgstr "Время события по умолчанию"
 
 msgid "Default format for exported files"
-msgstr ""
+msgstr "Формат по умолчанию для экспортируемых файлов"
 
 msgid "Default minutes before event to show notification"
-msgstr ""
+msgstr "Минуты по умолчанию до события для отображения уведомления"
 
 msgid "Default notification minutes"
-msgstr ""
+msgstr "Минуты уведомлений по умолчанию"
 
 msgid "Default time for new events (HH:MM format)"
-msgstr ""
+msgstr "Время по умолчанию для новых событий (формат ЧЧ:ММ)"
 
 msgid "Delete"
 msgstr "Удалить"
 
 msgid "Delete ALL ICS events"
-msgstr ""
+msgstr "Удалить ВСЕ события ICS"
 
 msgid "Delete ALL contacts"
-msgstr ""
+msgstr "Удалить ВСЕ контакты"
 
 msgid "Delete ALL events"
-msgstr ""
+msgstr "Удалить ВСЕ мероприятия"
 
 msgid "Delete File"
 msgstr "Удалить файл"
 
 msgid "Delete ICS files older than 30 days?"
-msgstr ""
+msgstr "Удалить файлы ICS старше 30 дней?"
 
 msgid "Delete file"
-msgstr ""
+msgstr "Удалить файл"
 
 msgid "Delete {0}?"
-msgstr ""
+msgstr "Удалить {0}?"
 
 msgid "Delete: {0}"
-msgstr ""
+msgstr "Удалить: {0}"
 
 msgid "Deleted {0} ICS events"
-msgstr ""
+msgstr "Удалены события {0} ICS."
 
 msgid "Deleted {0} contacts from database"
-msgstr ""
+msgstr "Удалены контакты {0} из базы данных."
 
 msgid "Description"
 msgstr "Описание"
@@ -323,25 +323,25 @@ msgid "Description:"
 msgstr "Описание:"
 
 msgid "Directory: {0}"
-msgstr ""
+msgstr "Каталог: {0}"
 
 msgid "Disk"
-msgstr ""
+msgstr "Диск"
 
 msgid "Duplicates cleaned: %d"
-msgstr ""
+msgstr "Дубликаты удалены: %d"
 
 msgid "E:{0}"
-msgstr ""
+msgstr "Э:{0}"
 
 msgid "Edit"
 msgstr "Редактировать"
 
 msgid "Edit Contact"
-msgstr ""
+msgstr "Редактировать контакт"
 
 msgid "Edit Contact ({0}/{1})"
-msgstr ""
+msgstr "Изменить контакт ({0}/{1})"
 
 msgid "Edit Date"
 msgstr "Изменить дату"
@@ -350,19 +350,19 @@ msgid "Edit Description"
 msgstr "Редактировать описание"
 
 msgid "Edit Event"
-msgstr ""
+msgstr "Редактировать событие"
 
 msgid "Edit Event ({0}/{1})"
-msgstr ""
+msgstr "Редактировать событие ({0}/{1})"
 
 msgid "Edit Event ({0}/{1}) - Today"
-msgstr ""
+msgstr "Изменить событие ({0}/{1}) – сегодня"
 
 msgid "Edit Holiday"
 msgstr "Редактировать отпуск"
 
 msgid "Edit ICS Event"
-msgstr ""
+msgstr "Изменить событие ICS"
 
 #, fuzzy
 msgid "Edit Note"
@@ -372,166 +372,166 @@ msgid "Edit Sign"
 msgstr "Редактировать знак"
 
 msgid "Edit: {0}"
-msgstr ""
+msgstr "Изменить: {0}"
 
 msgid "Email"
-msgstr ""
+msgstr "Электронная почта"
 
 msgid "Enable autostart"
-msgstr ""
+msgstr "Включить автозапуск"
 
 msgid "Enable debug mode"
-msgstr ""
+msgstr "Включить режим отладки"
 
 msgid "Enable event management with date/time"
-msgstr ""
+msgstr "Включить управление событиями с указанием даты и времени"
 
 msgid "Enable event system"
-msgstr ""
+msgstr "Включить систему событий"
 
 msgid "Enable holiday coloring"
-msgstr ""
+msgstr "Включить праздничную раскраску"
 
 msgid "Enable notifications"
-msgstr ""
+msgstr "Включить уведомления"
 
 msgid "Enter"
-msgstr ""
+msgstr "Входить"
 
 msgid "Error deleting contact"
-msgstr ""
+msgstr "Ошибка удаления контакта"
 
 msgid "Error deleting contact '{0}'"
-msgstr ""
+msgstr "Ошибка удаления контакта «{0}»."
 
 msgid "Error deleting database: {0}"
-msgstr ""
+msgstr "Ошибка удаления базы данных: {0}."
 
 msgid "Error getting ICS statistics"
-msgstr ""
+msgstr "Ошибка получения статистики ICS"
 
 msgid "Error opening ICS browser: %s"
-msgstr ""
+msgstr "Ошибка открытия браузера ICS: %s"
 
 msgid "Error opening ICS importer: {0}"
-msgstr ""
+msgstr "Ошибка при открытии импортера ICS: {0}."
 
 msgid "Error opening event dialog"
 msgstr "Ошибка при открытии диалогового окна события"
 
 msgid "Error saving ICS data"
-msgstr ""
+msgstr "Ошибка сохранения данных ICS."
 
 msgid "Error saving contact"
-msgstr ""
+msgstr "Ошибка сохранения контакта"
 
 msgid "Error saving data"
 msgstr "Ошибка сохранения данных"
 
 msgid "Error saving event"
-msgstr ""
+msgstr "Ошибка сохранения мероприятия."
 
 msgid "Error: {0}"
-msgstr ""
+msgstr "Ошибка: {0}"
 
 msgid "Errors: %d"
-msgstr ""
+msgstr "Ошибки: %d"
 
 msgid "Errors: {0}"
-msgstr ""
+msgstr "Ошибки: {0}"
 
 msgid "Event"
-msgstr ""
+msgstr "Событие"
 
 msgid "Event '{0}' deleted successfully"
-msgstr ""
+msgstr "Событие «{0}» успешно удалено."
 
 msgid "Event '{0}' saved successfully"
-msgstr ""
+msgstr "Событие «{0}» успешно сохранено."
 
 msgid "Event check interval"
-msgstr ""
+msgstr "Интервал проверки событий"
 
 msgid "Event color"
-msgstr ""
+msgstr "Цвет события"
 
 msgid "Event manager not available"
-msgstr ""
+msgstr "Менеджер мероприятий недоступен"
 
 msgid "Event manager not initialized"
-msgstr ""
+msgstr "Менеджер событий не инициализирован"
 
 msgid "Event system is disabled. Enable it in settings first."
-msgstr ""
+msgstr "Система событий отключена. Сначала включите его в настройках."
 
 msgid "Event system is disabled. Enable it in settings."
 msgstr "Система событий отключена. Включите её в настройках."
 
 msgid "Event system is not enabled"
-msgstr ""
+msgstr "Система событий не включена"
 
 msgid "Events found: {0}"
-msgstr ""
+msgstr "Найдено событий: {0}"
 
 msgid "Events imported successfully"
-msgstr ""
+msgstr "События успешно импортированы"
 
 msgid "Export All to ICS File"
-msgstr ""
+msgstr "Экспортировать все в файл ICS"
 
 msgid "Export error: {0}"
-msgstr ""
+msgstr "Ошибка экспорта: {0}"
 
 msgid "Export failed or no contacts to export"
-msgstr ""
+msgstr "Экспорт не удался или нет контактов для экспорта"
 
 msgid "Export format"
-msgstr ""
+msgstr "Формат экспорта"
 
 msgid "Export location"
-msgstr ""
+msgstr "Местоположение экспорта"
 
 msgid "Export subdirectory"
-msgstr ""
+msgstr "Экспортировать подкаталог"
 
 msgid "Export vCard File"
-msgstr ""
+msgstr "Экспорт файла vCard"
 
 msgid "Exporting contacts..."
-msgstr ""
+msgstr "Экспорт контактов..."
 
 msgid "Failed to create backup. Update cancelled."
 msgstr "Не удалось создать резервную копию. Обновление отменено."
 
 msgid "Failed to start import"
-msgstr ""
+msgstr "Не удалось начать импорт."
 
 msgid "February"
 msgstr "Февраль"
 
 msgid "Field {0}/{1}: {2}"
-msgstr ""
+msgstr "Поле {0}/{1}: {2}"
 
 msgid "File deleted"
-msgstr ""
+msgstr "Файл удален"
 
 msgid "File not found!"
 msgstr "Файл не найден!"
 
 msgid "File re-imported successfully"
-msgstr ""
+msgstr "Файл успешно повторно импортирован"
 
 msgid "File re-imported. Found {0} potential duplicates."
-msgstr ""
+msgstr "Файл повторно импортирован. Обнаружено {0} потенциальных дубликатов."
 
 msgid "File: {0}"
-msgstr ""
+msgstr "Файл: {0}"
 
 msgid "Files is Empty..."
 msgstr "Файлы пусты..."
 
 msgid "Found {0} ICS files"
-msgstr ""
+msgstr "Найдено {0} файлов ICS."
 
 msgid "Fri"
 msgstr "Пт"
@@ -540,40 +540,40 @@ msgid "Green"
 msgstr "Зеленый"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Жесткий диск"
 
 msgid "Hard Disk (/media/hdd)"
-msgstr ""
+msgstr "Жесткий диск (/media/hdd)"
 
 msgid "Holiday"
 msgstr "Праздник"
 
 msgid "Holiday color"
-msgstr ""
+msgstr "Праздничный цвет"
 
 msgid "Holiday:"
-msgstr ""
+msgstr "Праздничный день:"
 
 msgid "Holidays imported"
-msgstr ""
+msgstr "Праздники импортированные"
 
 msgid "I:{0}"
-msgstr ""
+msgstr "Я:{0}"
 
 msgid "ICS Events: 0"
-msgstr ""
+msgstr "События ICS: 0"
 
 msgid "ICS Events: {0}/{1}"
-msgstr ""
+msgstr "События ICS: {0}/{1}"
 
 msgid "ICS format"
-msgstr ""
+msgstr "формат ICS"
 
 msgid "ICS format (google calendar)"
-msgstr ""
+msgstr "Формат ICS (календарь Google)"
 
 msgid "ICS import feature not yet available: {0}"
-msgstr ""
+msgstr "Функция импорта ICS пока недоступна: {0}"
 
 msgid "Import"
 msgstr "Импорт"
@@ -582,67 +582,67 @@ msgid "Import All"
 msgstr "Импортировать всё"
 
 msgid "Import Google Calendar (.ics)"
-msgstr ""
+msgstr "Импорт Календаря Google (.ics)"
 
 msgid "Import Holidays"
 msgstr "Импортные праздники"
 
 msgid "Import ICS Contacts Google Calendar (.ics)"
-msgstr ""
+msgstr "Импорт контактов ICS Календаря Google (.ics)"
 
 msgid "Import completed"
-msgstr ""
+msgstr "Импорт завершен"
 
 msgid "Import completed - Sorting contacts..."
-msgstr ""
+msgstr "Импорт завершен – Сортировка контактов..."
 
 msgid "Import completed!"
-msgstr ""
+msgstr "Импорт завершен!"
 
 msgid "Import completed. Ready."
-msgstr ""
+msgstr "Импорт завершен. Готовый."
 
 msgid "Import error: {0}"
-msgstr ""
+msgstr "Ошибка импорта: {0}"
 
 msgid "Import events to calendar"
-msgstr ""
+msgstr "Импортировать события в календарь"
 
 msgid "Import vCard File"
-msgstr ""
+msgstr "Импортировать файл vCard"
 
 msgid "Imported ICS Files"
-msgstr ""
+msgstr "Импортированные файлы ICS"
 
 msgid "Imported: %d"
-msgstr ""
+msgstr "Импортировано: %d"
 
 msgid "Imported: {0}"
-msgstr ""
+msgstr "Импортировано: {0}"
 
 msgid "Imported: {0} contacts"
-msgstr ""
+msgstr "Импортировано: {0} контактов."
 
 msgid "Importing iCalendar File"
-msgstr ""
+msgstr "Импорт файла iCalendar"
 
 msgid "Importing vCard File"
-msgstr ""
+msgstr "Импорт файла vCard"
 
 msgid "Initializing..."
-msgstr ""
+msgstr "Инициализация..."
 
 msgid "Invalid birthday format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "Неверный формат дня рождения. Используйте ГГГГ-ММ-ДД"
 
 msgid "Invalid date format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "Неверный формат даты. Используйте ГГГГ-ММ-ДД"
 
 msgid "Invalid time format! Use HH:MM (00:00 to 23:59)"
-msgstr ""
+msgstr "Неверный формат времени! Используйте ЧЧ:ММ (с 00:00 до 23:59)."
 
 msgid "Invalid time format. Use HH:MM"
-msgstr ""
+msgstr "Неверный формат времени. Используйте ЧЧ:ММ"
 
 msgid "January"
 msgstr "Январь"
@@ -654,23 +654,23 @@ msgid "June"
 msgstr "Июнь"
 
 msgid "Labels (comma separated)"
-msgstr ""
+msgstr "Ярлыки (через запятую)"
 
 msgid "Legacy format (text files)"
-msgstr ""
+msgstr "Устаревший формат (текстовые файлы)"
 
 msgid "Manage Contacts"
-msgstr ""
+msgstr "Управление контактами"
 
 #, fuzzy
 msgid "Manage Event"
 msgstr "Управление событиями"
 
 msgid "Manage ICS Events"
-msgstr ""
+msgstr "Управление событиями ICS"
 
 msgid "Manage ICS Files"
-msgstr ""
+msgstr "Управление файлами ICS"
 
 msgid "March"
 msgstr "Март"
@@ -679,7 +679,7 @@ msgid "May"
 msgstr "Май"
 
 msgid "Modified: {0}"
-msgstr ""
+msgstr "Изменено: {0}"
 
 msgid "Mon"
 msgstr "Пон"
@@ -691,97 +691,97 @@ msgid "Month -"
 msgstr "Месяц -"
 
 msgid "Name"
-msgstr ""
+msgstr "Имя"
 
 msgid "Name is required"
-msgstr ""
+msgstr "Требуется имя"
 
 msgid "Network Share"
-msgstr ""
+msgstr "Сетевой ресурс"
 
 msgid "New Date"
 msgstr "Новая дата"
 
 msgid "Newest file: {0}"
-msgstr ""
+msgstr "Самый новый файл: {0}"
 
 msgid "Next Field"
-msgstr ""
+msgstr "Следующее поле"
 
 msgid "No ICS directory found"
-msgstr ""
+msgstr "Каталог ICS не найден"
 
 msgid "No ICS events found"
-msgstr ""
+msgstr "События ICS не найдены"
 
 msgid "No ICS files found"
-msgstr ""
+msgstr "Файлы ICS не найдены"
 
 msgid "No ICS files in archive"
-msgstr ""
+msgstr "В архиве нет файлов ICS"
 
 msgid "No TV service currently playing"
-msgstr ""
+msgstr "В данный момент ни один ТВ-сервис не воспроизводится"
 
 msgid "No contact files found"
-msgstr ""
+msgstr "Файлы контактов не найдены"
 
 msgid "No contact selected"
-msgstr ""
+msgstr "Контакт не выбран"
 
 msgid "No contacts found in database"
-msgstr ""
+msgstr "В базе данных не найдено контактов"
 
 msgid "No data found to convert"
-msgstr ""
+msgstr "Не найдено данных для конвертации"
 
 msgid "No data to export"
-msgstr ""
+msgstr "Нет данных для экспорта"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "Дубликатов не обнаружено"
 
 msgid "No event selected"
-msgstr ""
+msgstr "Мероприятие не выбрано"
 
 msgid "No events database found"
-msgstr ""
+msgstr "База данных событий не найдена"
 
 msgid "No events for today"
-msgstr ""
+msgstr "На сегодня нет событий"
 
 msgid "No events to convert"
-msgstr ""
+msgstr "Нет событий для конвертации"
 
 msgid "No file in database..."
 msgstr "Нет файла в базе данных..."
 
 msgid "No file selected"
-msgstr ""
+msgstr "Файл не выбран"
 
 msgid "No past events to remove"
 msgstr "Нет прошлых событий, которые нужно удалить"
 
 msgid "No sorting (original order)"
-msgstr ""
+msgstr "Без сортировки (исходный порядок)"
 
 msgid "No sound"
 msgstr "Нет звука"
 
 msgid "Note"
-msgstr ""
+msgstr "Примечание"
 
 msgid "Note:"
-msgstr ""
+msgstr "Примечание:"
 
 msgid "Notes"
-msgstr ""
+msgstr "Примечания"
 
 msgid "Notification sound type"
-msgstr ""
+msgstr "Тип звука уведомления"
 
 msgid "Notification tone"
-msgstr ""
+msgstr "Звук уведомления"
 
 msgid "Notify"
 msgstr "Уведомить"
@@ -796,7 +796,7 @@ msgid "October"
 msgstr "Октябрь"
 
 msgid "Oldest file: {0}\\\\\\\\n"
-msgstr ""
+msgstr "Самый старый файл: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
 msgstr "Оранжевый"
@@ -805,46 +805,46 @@ msgid "P:{0}/{1}"
 msgstr ""
 
 msgid "Phone"
-msgstr ""
+msgstr "Телефон"
 
 msgid "Play a sound when event notification appears"
-msgstr ""
+msgstr "Воспроизведение звука при появлении уведомления о событии"
 
 msgid "Play sound with notifications"
-msgstr ""
+msgstr "Воспроизведение звука с уведомлениями"
 
 msgid "Please restart Enigma2 manually."
 msgstr "Пожалуйста, перезапустите Enigma2 вручную."
 
 msgid "Plugin Directory"
-msgstr ""
+msgstr "Каталог плагинов"
 
 msgid "Plugin is up to date"
 msgstr "Плагин обновлен"
 
 msgid "Press GREEN to import"
-msgstr ""
+msgstr "Нажмите ЗЕЛЕНУЮ, чтобы импортировать"
 
 msgid "Press TEXT to search"
-msgstr ""
+msgstr "Нажмите ТЕКСТ для поиска"
 
 msgid "Preview file content"
-msgstr ""
+msgstr "Предварительный просмотр содержимого файла"
 
 msgid "Progress: {0}%"
-msgstr ""
+msgstr "Прогресс: {0}%"
 
 msgid "Re-import"
-msgstr ""
+msgstr "Реимпорт"
 
 msgid "Red"
 msgstr "Красный"
 
 msgid "Refresh"
-msgstr ""
+msgstr "Обновить"
 
 msgid "Refreshed"
-msgstr ""
+msgstr "Обновленный"
 
 msgid "Remove"
 msgstr "Удалить"
@@ -859,19 +859,19 @@ msgid "Repeat"
 msgstr "Повторять"
 
 msgid "Repeat (none/daily/weekly/monthly/yearly)"
-msgstr ""
+msgstr "Повтор (нет/ежедневно/еженедельно/ежемесячно/ежегодно)"
 
 msgid "Repeat:"
 msgstr "Повторять:"
 
 msgid "Repeat: {0}"
-msgstr ""
+msgstr "Повторите: {0}"
 
 msgid "Root Home (/home/root)"
-msgstr ""
+msgstr "Корневой дом (/home/root)"
 
 msgid "S:{0}"
-msgstr ""
+msgstr "С:{0}"
 
 msgid "SCHEDULED EVENTS:"
 msgstr "ЗАПЛАНИРОВАННЫЕ МЕРОПРИЯТИЯ:"
@@ -883,31 +883,31 @@ msgid "Save"
 msgstr "Сохранить"
 
 msgid "Search contacts"
-msgstr ""
+msgstr "Поиск контактов"
 
 msgid "Search events"
-msgstr ""
+msgstr "Поиск событий"
 
 msgid "Search:"
-msgstr ""
+msgstr "Поиск:"
 
 msgid "Seconds between event checks (advanced)"
-msgstr ""
+msgstr "Секунды между проверками событий (дополнительно)"
 
 msgid "Seconds to wait after boot before starting notifications"
-msgstr ""
+msgstr "Секунды ожидания после загрузки, прежде чем запускать уведомления"
 
 msgid "Select .ics file to import"
-msgstr ""
+msgstr "Выберите файл .ics для импорта"
 
 msgid "Select a file, not a folder"
-msgstr ""
+msgstr "Выберите файл, а не папку"
 
 msgid "Select vCard file to import"
-msgstr ""
+msgstr "Выберите файл vCard для импорта"
 
 msgid "Selected: {0}"
-msgstr ""
+msgstr "Выбрано: {0}"
 
 msgid "September"
 msgstr "Сентябрь"
@@ -916,122 +916,122 @@ msgid "Short beep"
 msgstr "Короткий звуковой сигнал"
 
 msgid "Show 'H' marker on holiday days"
-msgstr ""
+msgstr "Показывать маркер «H» в праздничные дни"
 
 msgid "Show Statistics"
-msgstr ""
+msgstr "Показать статистику"
 
 msgid "Show Today's Holidays"
-msgstr ""
+msgstr "Показать сегодняшние праздники"
 
 msgid "Show Upcoming Holidays"
 msgstr "Показать предстоящие праздники"
 
 msgid "Show debug messages in console/log"
-msgstr ""
+msgstr "Показывать отладочные сообщения в консоли/журнале"
 
 msgid "Show event indicators"
-msgstr ""
+msgstr "Показать индикаторы событий"
 
 msgid "Show event statistics"
-msgstr ""
+msgstr "Показать статистику событий"
 
 msgid "Show holiday indicators"
-msgstr ""
+msgstr "Показать индикаторы праздников"
 
 msgid "Show markers on days with events"
-msgstr ""
+msgstr "Показывать маркеры в дни событий"
 
 msgid "Show notifications for upcoming events"
-msgstr ""
+msgstr "Показывать уведомления о предстоящих событиях"
 
 msgid "Sign"
 msgstr "Подпись"
 
 msgid "Sign:"
-msgstr ""
+msgstr "Знак:"
 
 msgid "Size: {0:.1f} KB"
-msgstr ""
+msgstr "Размер: {0:.1f} КБ"
 
 msgid "Size: {0:.1f} MB"
-msgstr ""
+msgstr "Размер: {0:.1f} МБ"
 
 msgid "Skipped: %d"
-msgstr ""
+msgstr "Пропущено: %d"
 
 msgid "Skipped: {0}"
-msgstr ""
+msgstr "Пропущено: {0}"
 
 msgid "Skipped: {0} (duplicates)"
-msgstr ""
+msgstr "Пропущено: {0} (дубликаты)"
 
 msgid "Sort"
-msgstr ""
+msgstr "Сортировать"
 
 msgid "Sort by birthday (month/day)"
-msgstr ""
+msgstr "Сортировать по дню рождения (месяц/день)"
 
 msgid "Sort by category"
-msgstr ""
+msgstr "Сортировать по категориям"
 
 msgid "Sort by name (alphabetical)"
-msgstr ""
+msgstr "Сортировать по названию (в алфавитном порядке)"
 
 msgid "Sorted by birthday"
-msgstr ""
+msgstr "Сортировка по дню рождения"
 
 msgid "Sorted by category"
-msgstr ""
+msgstr "Сортировано по категориям"
 
 msgid "Sorted by date"
-msgstr ""
+msgstr "Сортировано по дате"
 
 msgid "Sorted by name"
-msgstr ""
+msgstr "Сортировано по имени"
 
 msgid "Sorted by title"
-msgstr ""
+msgstr "Сортировано по названию"
 
 msgid "Sorted by: Birthday"
-msgstr ""
+msgstr "Сортировать по: Дню рождения"
 
 msgid "Sorted by: Category"
-msgstr ""
+msgstr "Сортировать по: Категория"
 
 msgid "Sorted by: Date"
-msgstr ""
+msgstr "Сортировать по: Дате"
 
 msgid "Sorted by: Name"
-msgstr ""
+msgstr "Сортировать по: имени"
 
 msgid "Sorted by: Title"
-msgstr ""
+msgstr "Сортировать по: Название"
 
 msgid "Start event notifications in background (recommended)"
-msgstr ""
+msgstr "Запуск уведомлений о событиях в фоновом режиме (рекомендуется)"
 
 msgid "Subdirectory name for exports (created automatically)"
-msgstr ""
+msgstr "Имя подкаталога для экспорта (создается автоматически)"
 
 msgid "Successfully converted {0} entries to ICS format"
-msgstr ""
+msgstr "Записи {0} успешно преобразованы в формат ICS."
 
 msgid "Sun"
 msgstr "Вс"
 
 msgid "Tags: {0}"
-msgstr ""
+msgstr "Теги: {0}"
 
 msgid "Temporary Storage (/tmp)"
-msgstr ""
+msgstr "Временное хранилище (/tmp)"
 
 #, fuzzy
 msgid "Test error: %s"
 msgstr "Ошибка обновления: %s"
 
 msgid "Text format"
-msgstr ""
+msgstr "Текстовый формат"
 
 msgid "Thu"
 msgstr "Чт"
@@ -1040,7 +1040,7 @@ msgid "Time"
 msgstr "Время"
 
 msgid "Time (HH:MM)"
-msgstr ""
+msgstr "Время (ЧЧ:ММ)"
 
 msgid "Time:"
 msgstr "Время:"
@@ -1052,28 +1052,28 @@ msgid "Title and date are required!"
 msgstr "Обязательно укажите заголовок и дату!"
 
 msgid "Title is required"
-msgstr ""
+msgstr "Требуется название"
 
 msgid "Title:"
 msgstr "Заголовок:"
 
 msgid "Today"
-msgstr ""
+msgstr "Сегодня"
 
 msgid "Total events: {0}"
-msgstr ""
+msgstr "Всего событий: {0}"
 
 msgid "Total files: {0}\\\\\\\\n"
-msgstr ""
+msgstr "Всего файлов: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Total size: {0:.1f} KB\\\\\\\\n"
-msgstr ""
+msgstr "Общий размер: {0:.1f} КБ\\\\\\\\\\\\\\\\n"
 
 msgid "Total: %d"
-msgstr ""
+msgstr "Итого: %d"
 
 msgid "Total: {0}"
-msgstr ""
+msgstr "Итого: {0}"
 
 msgid "Tue"
 msgstr "Вт"
@@ -1082,19 +1082,19 @@ msgid "Type of sound to play with notifications"
 msgstr ""
 
 msgid "U:{0}"
-msgstr ""
+msgstr "У:{0}"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB-накопитель"
 
 msgid "USB Drive (/media/usb)"
-msgstr ""
+msgstr "USB-накопитель (/media/usb)"
 
 msgid "Unable to play test sound"
-msgstr ""
+msgstr "Невозможно воспроизвести тестовый звук"
 
 msgid "Update available!"
-msgstr ""
+msgstr "Доступно обновление!"
 "{server_version} {version_server}\n"
 "{installed_version} {version}\n"
 "\n"
@@ -1128,19 +1128,19 @@ msgid "Update successful!"
 msgstr "Обновление успешно завершено!"
 
 msgid "Updated: {0}"
-msgstr ""
+msgstr "Обновлено: {0}"
 
 msgid "Updating plugin... Please wait"
 msgstr "Обновление плагина... Пожалуйста, подождите"
 
 msgid "Using legacy database format"
-msgstr ""
+msgstr "Использование устаревшего формата базы данных"
 
 msgid "View"
-msgstr ""
+msgstr "Вид"
 
 msgid "Waiting for thread to stop..."
-msgstr ""
+msgstr "Ожидание остановки потока..."
 
 msgid "Wed"
 msgstr "Ср"
@@ -1155,25 +1155,25 @@ msgid "You have the latest version of Calendar."
 msgstr "У вас установлена последняя версия Календаря."
 
 msgid "not sorted"
-msgstr ""
+msgstr "не отсортировано"
 
 msgid "sorted by birthday"
-msgstr ""
+msgstr "отсортировано по дню рождения"
 
 msgid "sorted by category"
-msgstr ""
+msgstr "отсортировано по категориям"
 
 msgid "sorted by name"
-msgstr ""
+msgstr "отсортировано по имени"
 
 msgid "vCard format"
-msgstr ""
+msgstr "формат визитной карточки"
 
 msgid "vCard format (standard)"
-msgstr ""
+msgstr "Формат vCard (стандартный)"
 
 msgid "vCard import feature not available: {0}"
-msgstr ""
+msgstr "Функция импорта vCard недоступна: {0}"
 
 #~ msgid "..."
 #~ msgstr "..."

@@ -10,1153 +10,1153 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "(Search: '{0}')"
-msgstr ""
+msgstr "(Cari: '{0}')"
 
 msgid "(truncated)"
-msgstr ""
+msgstr "(dipotong)"
 
 msgid "--- CONTACTS ---"
-msgstr ""
+msgstr "--- KONTAK ---"
 
 msgid "--- DATABASE ---"
 msgstr ""
 
 msgid "--- EVENTS ---"
-msgstr ""
+msgstr "--- ACARA ---"
 
 msgid "--- HOLIDAYS ---"
-msgstr ""
+msgstr "--- LIBUR ---"
 
 msgid "--- PERSONAL DATA ---"
-msgstr ""
+msgstr "--- DATA PRIBADI ---"
 
 msgid "--- SYSTEM ---"
-msgstr ""
+msgstr "--- SISTEM ---"
 
 msgid "Active"
-msgstr ""
+msgstr "Aktif"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktif:"
 
 msgid "Add"
-msgstr ""
+msgstr "Menambahkan"
 
 msgid "Add Contact"
-msgstr ""
+msgstr "Tambahkan Kontak"
 
 msgid "Add Event"
-msgstr ""
+msgstr "Tambahkan Acara"
 
 msgid "Add date and time to exported filenames"
-msgstr ""
+msgstr "Tambahkan tanggal dan waktu ke nama file yang diekspor"
 
 msgid "Add timestamp to filename"
-msgstr ""
+msgstr "Tambahkan stempel waktu ke nama file"
 
 msgid "Alert sound"
-msgstr ""
+msgstr "Suara peringatan"
 
 msgid "Already on today's event"
-msgstr ""
+msgstr "Sudah ada di acara hari ini"
 
 msgid "April"
 msgstr ""
 
 msgid "August"
-msgstr ""
+msgstr "Agustus"
 
 msgid "Automatically clean old notified events"
-msgstr ""
+msgstr "Secara otomatis membersihkan acara lama yang diberitahukan"
 
 msgid "Autostart delay"
-msgstr ""
+msgstr "Penundaan mulai otomatis"
 
 msgid "Back"
-msgstr ""
+msgstr "Kembali"
 
 msgid "Birthday (YYYY-MM-DD)"
-msgstr ""
+msgstr "Ulang Tahun (YYYY-MM-DD)"
 
 msgid "Birthdays: {0}"
-msgstr ""
+msgstr "Ulang tahun: {0}"
 
 msgid "Blue"
-msgstr ""
+msgstr "Biru"
 
 msgid "Browse ICS Files"
-msgstr ""
+msgstr "Jelajahi File ICS"
 
 msgid "CONTACTS WITH BIRTHDAYS TODAY:"
-msgstr ""
+msgstr "KONTAK DENGAN ULANG TAHUN HARI INI:"
 
 msgid "CSV format"
-msgstr ""
+msgstr "format CSV"
 
 msgid "Calendar"
-msgstr ""
+msgstr "Kalender"
 
 msgid "Calendar Planner"
-msgstr ""
+msgstr "Perencana Kalender"
 
 msgid "Calendar Planner | Ready"
-msgstr ""
+msgstr "Perencana Kalender | Siap"
 
 msgid "Calendar Settings"
-msgstr ""
+msgstr "Pengaturan Kalender"
 
 msgid "Calendar with events and notifications"
-msgstr ""
+msgstr "Kalender dengan acara dan pemberitahuan"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Membatalkan"
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "Membatalkan..."
 
 msgid "Cannot delete: Contact has no ID"
-msgstr ""
+msgstr "Tidak dapat menghapus: Kontak tidak memiliki ID"
 
 msgid "Cannot initialize event system: {0}"
-msgstr ""
+msgstr "Tidak dapat menginisialisasi sistem acara: {0}"
 
 msgid "Categories (comma separated)"
-msgstr ""
+msgstr "Kategori (dipisahkan koma)"
 
 msgid "Check for Updates"
-msgstr ""
+msgstr "Periksa Pembaruan"
 
 msgid "Checking for updates..."
-msgstr ""
+msgstr "Memeriksa pembaruan..."
 
 msgid "Choose between legacy text files or standard vCard format"
-msgstr ""
+msgstr "Pilih antara file teks lama atau format vCard standar"
 
 msgid "Choose where to save exported files"
-msgstr ""
+msgstr "Pilih tempat untuk menyimpan file yang diekspor"
 
 msgid "Clean after days"
-msgstr ""
+msgstr "Bersihkan setelah berhari-hari"
 
 msgid "Clean old notifications"
-msgstr ""
+msgstr "Bersihkan notifikasi lama"
 
 msgid "Cleaned {0} duplicate events"
-msgstr ""
+msgstr "Membersihkan {0} acara duplikat"
 
 msgid "Cleaned {0} old ICS files"
-msgstr ""
+msgstr "Membersihkan {0} file ICS lama"
 
 msgid "Cleanup Old Files"
-msgstr ""
+msgstr "Bersihkan File Lama"
 
 msgid "Cleanup duplicate events"
-msgstr ""
+msgstr "Bersihkan acara duplikat"
 
 msgid "Cleanup past events"
-msgstr ""
+msgstr "Bersihkan peristiwa masa lalu"
 
 msgid "Clear ALL holiday entries from all date files?"
-msgstr ""
+msgstr "Hapus SEMUA entri hari libur dari semua file tanggal?"
 
 msgid "Clear All"
-msgstr ""
+msgstr "Hapus Semua"
 
 msgid "Clear Holiday Database"
-msgstr ""
+msgstr "Hapus Database Liburan"
 
 msgid "Close"
-msgstr ""
+msgstr "Menutup"
 
 msgid "Color days with holidays"
-msgstr ""
+msgstr "Warnai hari dengan hari libur"
 
 msgid "Color for days with events"
-msgstr ""
+msgstr "Warnai hari-hari dengan acara"
 
 msgid "Color for holiday days"
-msgstr ""
+msgstr "Warna untuk hari libur"
 
 msgid "Completed"
-msgstr ""
+msgstr "Selesai"
 
 msgid "Contact"
-msgstr ""
+msgstr "Kontak"
 
 msgid "Contact '{0}' deleted successfully"
-msgstr ""
+msgstr "Kontak '{0}' berhasil dihapus"
 
 msgid "Contact:"
-msgstr ""
+msgstr "Kontak:"
 
 msgid "Contacts directory not found"
-msgstr ""
+msgstr "Direktori kontak tidak ditemukan"
 
 msgid "Contacts imported from ICS file!"
-msgstr ""
+msgstr "Kontak diimpor dari file ICS!"
 
 msgid "Contacts: 0"
-msgstr ""
+msgstr "Kontak: 0"
 
 msgid "Contacts: {0}/{1}"
-msgstr ""
+msgstr "Kontak: {0}/{1}"
 
 msgid "Conversion error: {0}"
-msgstr ""
+msgstr "Kesalahan konversi: {0}"
 
 msgid "Convert all existing data to vCard format?"
-msgstr ""
+msgstr "Konversikan semua data yang ada ke format vCard?"
 
 msgid "Convert to ICS format"
-msgstr ""
+msgstr "Konversikan ke format ICS"
 
 msgid "Convert to legacy format"
-msgstr ""
+msgstr "Konversikan ke format lama"
 
 msgid "Convert to vCard format"
-msgstr ""
+msgstr "Konversikan ke format vCard"
 
 msgid "Converted {0} events to {1}"
-msgstr ""
+msgstr "Mengonversi acara {0} menjadi {1}"
 
 msgid "Could not check for updates. Check internet connection."
-msgstr ""
+msgstr "Tidak dapat memeriksa pembaruan. Periksa koneksi internet."
 
 msgid "Could not check for updates: %s"
-msgstr ""
+msgstr "Tidak dapat memeriksa pembaruan: %s"
 
 msgid "Could not read file"
-msgstr ""
+msgstr "Tidak dapat membaca file"
 
 msgid "Cyan"
-msgstr ""
+msgstr "Sian"
 
 msgid "Database converted to vCard format"
-msgstr ""
+msgstr "Basis data dikonversi ke format vCard"
 
 msgid "Database format"
-msgstr ""
+msgstr "Format basis data"
 
 msgid "Date"
-msgstr ""
+msgstr "Tanggal"
 
 msgid "Date (YYYY-MM-DD)"
-msgstr ""
+msgstr "Tanggal (YYYY-MM-DD)"
 
 msgid "Date range: {0} to {1}"
-msgstr ""
+msgstr "Rentang tanggal: {0} hingga {1}"
 
 msgid "Date:"
-msgstr ""
+msgstr "Tanggal:"
 
 msgid "Day +"
-msgstr ""
+msgstr "Hari +"
 
 msgid "Day -"
-msgstr ""
+msgstr "Hari -"
 
 msgid "Days to keep notifications in cache"
-msgstr ""
+msgstr "Hari untuk menyimpan notifikasi di cache"
 
 msgid "December"
-msgstr ""
+msgstr "Desember"
 
 msgid "Default event time"
-msgstr ""
+msgstr "Waktu acara bawaan"
 
 msgid "Default format for exported files"
-msgstr ""
+msgstr "Format default untuk file yang diekspor"
 
 msgid "Default minutes before event to show notification"
-msgstr ""
+msgstr "Menit default sebelum acara untuk menampilkan pemberitahuan"
 
 msgid "Default notification minutes"
-msgstr ""
+msgstr "Menit pemberitahuan default"
 
 msgid "Default time for new events (HH:MM format)"
-msgstr ""
+msgstr "Waktu default untuk acara baru (format HH:MM)"
 
 msgid "Delete"
-msgstr ""
+msgstr "Menghapus"
 
 msgid "Delete ALL ICS events"
-msgstr ""
+msgstr "Hapus SEMUA acara ICS"
 
 msgid "Delete ALL contacts"
-msgstr ""
+msgstr "Hapus SEMUA kontak"
 
 msgid "Delete ALL events"
-msgstr ""
+msgstr "Hapus SEMUA acara"
 
 msgid "Delete File"
-msgstr ""
+msgstr "Hapus Berkas"
 
 msgid "Delete ICS files older than 30 days?"
-msgstr ""
+msgstr "Hapus file ICS yang lebih lama dari 30 hari?"
 
 msgid "Delete file"
-msgstr ""
+msgstr "Hapus berkas"
 
 msgid "Delete {0}?"
-msgstr ""
+msgstr "Hapus {0}?"
 
 msgid "Delete: {0}"
-msgstr ""
+msgstr "Hapus: {0}"
 
 msgid "Deleted {0} ICS events"
-msgstr ""
+msgstr "Menghapus {0} acara ICS"
 
 msgid "Deleted {0} contacts from database"
-msgstr ""
+msgstr "Menghapus {0} kontak dari database"
 
 msgid "Description"
-msgstr ""
+msgstr "Keterangan"
 
 msgid "Description:"
-msgstr ""
+msgstr "Keterangan:"
 
 msgid "Directory: {0}"
-msgstr ""
+msgstr "Direktori: {0}"
 
 msgid "Disk"
 msgstr ""
 
 msgid "Duplicates cleaned: %d"
-msgstr ""
+msgstr "Duplikat dibersihkan: %d"
 
 msgid "E:{0}"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Sunting"
 
 msgid "Edit Contact"
-msgstr ""
+msgstr "Sunting Kontak"
 
 msgid "Edit Contact ({0}/{1})"
-msgstr ""
+msgstr "Edit Kontak ({0}/{1})"
 
 msgid "Edit Date"
-msgstr ""
+msgstr "Sunting Tanggal"
 
 msgid "Edit Description"
-msgstr ""
+msgstr "Sunting Deskripsi"
 
 msgid "Edit Event"
-msgstr ""
+msgstr "Sunting Acara"
 
 msgid "Edit Event ({0}/{1})"
-msgstr ""
+msgstr "Sunting Acara ({0}/{1})"
 
 msgid "Edit Event ({0}/{1}) - Today"
-msgstr ""
+msgstr "Sunting Acara ({0}/{1}) - Hari ini"
 
 msgid "Edit Holiday"
-msgstr ""
+msgstr "Sunting Liburan"
 
 msgid "Edit ICS Event"
-msgstr ""
+msgstr "Sunting Acara ICS"
 
 msgid "Edit Note"
-msgstr ""
+msgstr "Sunting Catatan"
 
 msgid "Edit Sign"
-msgstr ""
+msgstr "Sunting Tanda"
 
 msgid "Edit: {0}"
-msgstr ""
+msgstr "Sunting: {0}"
 
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 msgid "Enable autostart"
-msgstr ""
+msgstr "Aktifkan mulai otomatis"
 
 msgid "Enable debug mode"
-msgstr ""
+msgstr "Aktifkan mode debug"
 
 msgid "Enable event management with date/time"
-msgstr ""
+msgstr "Aktifkan manajemen acara dengan tanggal/waktu"
 
 msgid "Enable event system"
-msgstr ""
+msgstr "Aktifkan sistem acara"
 
 msgid "Enable holiday coloring"
-msgstr ""
+msgstr "Aktifkan pewarnaan liburan"
 
 msgid "Enable notifications"
-msgstr ""
+msgstr "Aktifkan notifikasi"
 
 msgid "Enter"
-msgstr ""
+msgstr "Memasuki"
 
 msgid "Error deleting contact"
-msgstr ""
+msgstr "Terjadi kesalahan saat menghapus kontak"
 
 msgid "Error deleting contact '{0}'"
-msgstr ""
+msgstr "Terjadi kesalahan saat menghapus kontak '{0}'"
 
 msgid "Error deleting database: {0}"
-msgstr ""
+msgstr "Kesalahan saat menghapus basis data: {0}"
 
 msgid "Error getting ICS statistics"
-msgstr ""
+msgstr "Terjadi kesalahan saat mendapatkan statistik ICS"
 
 msgid "Error opening ICS browser: %s"
-msgstr ""
+msgstr "Kesalahan saat membuka browser ICS: %s"
 
 msgid "Error opening ICS importer: {0}"
-msgstr ""
+msgstr "Kesalahan saat membuka importir ICS: {0}"
 
 msgid "Error opening event dialog"
-msgstr ""
+msgstr "Terjadi kesalahan saat membuka dialog acara"
 
 msgid "Error saving ICS data"
-msgstr ""
+msgstr "Terjadi kesalahan saat menyimpan data ICS"
 
 msgid "Error saving contact"
-msgstr ""
+msgstr "Terjadi kesalahan saat menyimpan kontak"
 
 msgid "Error saving data"
-msgstr ""
+msgstr "Terjadi kesalahan saat menyimpan data"
 
 msgid "Error saving event"
-msgstr ""
+msgstr "Terjadi kesalahan saat menyimpan acara"
 
 msgid "Error: {0}"
-msgstr ""
+msgstr "Kesalahan: {0}"
 
 msgid "Errors: %d"
-msgstr ""
+msgstr "Kesalahan: %d"
 
 msgid "Errors: {0}"
-msgstr ""
+msgstr "Kesalahan: {0}"
 
 msgid "Event"
-msgstr ""
+msgstr "Peristiwa"
 
 msgid "Event '{0}' deleted successfully"
-msgstr ""
+msgstr "Acara '{0}' berhasil dihapus"
 
 msgid "Event '{0}' saved successfully"
-msgstr ""
+msgstr "Acara '{0}' berhasil disimpan"
 
 msgid "Event check interval"
-msgstr ""
+msgstr "Interval pemeriksaan acara"
 
 msgid "Event color"
-msgstr ""
+msgstr "Warna acara"
 
 msgid "Event manager not available"
-msgstr ""
+msgstr "Manajer acara tidak tersedia"
 
 msgid "Event manager not initialized"
-msgstr ""
+msgstr "Manajer acara tidak diinisialisasi"
 
 msgid "Event system is disabled. Enable it in settings first."
-msgstr ""
+msgstr "Sistem acara dinonaktifkan. Aktifkan di pengaturan terlebih dahulu."
 
 msgid "Event system is disabled. Enable it in settings."
-msgstr ""
+msgstr "Sistem acara dinonaktifkan. Aktifkan di pengaturan."
 
 msgid "Event system is not enabled"
-msgstr ""
+msgstr "Sistem acara tidak diaktifkan"
 
 msgid "Events found: {0}"
-msgstr ""
+msgstr "Acara ditemukan: {0}"
 
 msgid "Events imported successfully"
-msgstr ""
+msgstr "Acara berhasil diimpor"
 
 msgid "Export All to ICS File"
-msgstr ""
+msgstr "Ekspor Semua ke File ICS"
 
 msgid "Export error: {0}"
-msgstr ""
+msgstr "Kesalahan ekspor: {0}"
 
 msgid "Export failed or no contacts to export"
-msgstr ""
+msgstr "Ekspor gagal atau tidak ada kontak untuk diekspor"
 
 msgid "Export format"
-msgstr ""
+msgstr "Format ekspor"
 
 msgid "Export location"
-msgstr ""
+msgstr "Ekspor lokasi"
 
 msgid "Export subdirectory"
-msgstr ""
+msgstr "Ekspor subdirektori"
 
 msgid "Export vCard File"
-msgstr ""
+msgstr "Ekspor File vCard"
 
 msgid "Exporting contacts..."
-msgstr ""
+msgstr "Mengekspor kontak..."
 
 msgid "Failed to create backup. Update cancelled."
-msgstr ""
+msgstr "Gagal membuat cadangan. Pembaruan dibatalkan."
 
 msgid "Failed to start import"
-msgstr ""
+msgstr "Gagal memulai impor"
 
 msgid "February"
-msgstr ""
+msgstr "Februari"
 
 msgid "Field {0}/{1}: {2}"
-msgstr ""
+msgstr "Bidang {0}/{1}: {2}"
 
 msgid "File deleted"
-msgstr ""
+msgstr "Berkas dihapus"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Berkas tidak ditemukan!"
 
 msgid "File re-imported successfully"
-msgstr ""
+msgstr "File berhasil diimpor ulang"
 
 msgid "File re-imported. Found {0} potential duplicates."
-msgstr ""
+msgstr "File diimpor ulang. Ditemukan {0} potensi duplikat."
 
 msgid "File: {0}"
-msgstr ""
+msgstr "Berkas: {0}"
 
 msgid "Files is Empty..."
-msgstr ""
+msgstr "File Kosong..."
 
 msgid "Found {0} ICS files"
-msgstr ""
+msgstr "Ditemukan {0} file ICS"
 
 msgid "Fri"
-msgstr ""
+msgstr "Jumat"
 
 msgid "Green"
-msgstr ""
+msgstr "Hijau"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Harddisk"
 
 msgid "Hard Disk (/media/hdd)"
-msgstr ""
+msgstr "Harddisk (/media/hdd)"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Hari libur"
 
 msgid "Holiday color"
-msgstr ""
+msgstr "Warna liburan"
 
 msgid "Holiday:"
-msgstr ""
+msgstr "Hari libur:"
 
 msgid "Holidays imported"
-msgstr ""
+msgstr "Hari libur diimpor"
 
 msgid "I:{0}"
-msgstr ""
+msgstr "Saya:{0}"
 
 msgid "ICS Events: 0"
-msgstr ""
+msgstr "Acara ICS: 0"
 
 msgid "ICS Events: {0}/{1}"
-msgstr ""
+msgstr "Acara ICS: {0}/{1}"
 
 msgid "ICS format"
-msgstr ""
+msgstr "format ICS"
 
 msgid "ICS format (google calendar)"
-msgstr ""
+msgstr "Format ICS (kalender google)"
 
 msgid "ICS import feature not yet available: {0}"
-msgstr ""
+msgstr "Fitur impor ICS belum tersedia: {0}"
 
 msgid "Import"
-msgstr ""
+msgstr "Impor"
 
 msgid "Import All"
-msgstr ""
+msgstr "Impor Semua"
 
 msgid "Import Google Calendar (.ics)"
-msgstr ""
+msgstr "Impor Google Kalender (.ics)"
 
 msgid "Import Holidays"
-msgstr ""
+msgstr "Impor Hari Libur"
 
 msgid "Import ICS Contacts Google Calendar (.ics)"
-msgstr ""
+msgstr "Impor Kontak ICS Google Kalender (.ics)"
 
 msgid "Import completed"
-msgstr ""
+msgstr "Impor selesai"
 
 msgid "Import completed - Sorting contacts..."
-msgstr ""
+msgstr "Impor selesai - Menyortir kontak..."
 
 msgid "Import completed!"
-msgstr ""
+msgstr "Impor selesai!"
 
 msgid "Import completed. Ready."
-msgstr ""
+msgstr "Impor selesai. Siap."
 
 msgid "Import error: {0}"
-msgstr ""
+msgstr "Kesalahan impor: {0}"
 
 msgid "Import events to calendar"
-msgstr ""
+msgstr "Impor acara ke kalender"
 
 msgid "Import vCard File"
-msgstr ""
+msgstr "Impor File vCard"
 
 msgid "Imported ICS Files"
-msgstr ""
+msgstr "File ICS yang diimpor"
 
 msgid "Imported: %d"
-msgstr ""
+msgstr "Diimpor: %d"
 
 msgid "Imported: {0}"
-msgstr ""
+msgstr "Diimpor: {0}"
 
 msgid "Imported: {0} contacts"
-msgstr ""
+msgstr "Diimpor: {0} kontak"
 
 msgid "Importing iCalendar File"
-msgstr ""
+msgstr "Mengimpor File iCalendar"
 
 msgid "Importing vCard File"
-msgstr ""
+msgstr "Mengimpor File vCard"
 
 msgid "Initializing..."
-msgstr ""
+msgstr "Menginisialisasi..."
 
 msgid "Invalid birthday format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "Format ulang tahun tidak valid. Gunakan YYYY-MM-DD"
 
 msgid "Invalid date format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "Format tanggal tidak valid. Gunakan YYYY-MM-DD"
 
 msgid "Invalid time format! Use HH:MM (00:00 to 23:59)"
-msgstr ""
+msgstr "Format waktu tidak valid! Gunakan JJ:MM (00:00 hingga 23:59)"
 
 msgid "Invalid time format. Use HH:MM"
-msgstr ""
+msgstr "Format waktu tidak valid. Gunakan HH:MM"
 
 msgid "January"
-msgstr ""
+msgstr "Januari"
 
 msgid "July"
-msgstr ""
+msgstr "Juli"
 
 msgid "June"
-msgstr ""
+msgstr "Juni"
 
 msgid "Labels (comma separated)"
-msgstr ""
+msgstr "Label (dipisahkan koma)"
 
 msgid "Legacy format (text files)"
-msgstr ""
+msgstr "Format lama (file teks)"
 
 msgid "Manage Contacts"
-msgstr ""
+msgstr "Kelola Kontak"
 
 msgid "Manage Event"
-msgstr ""
+msgstr "Kelola Acara"
 
 msgid "Manage ICS Events"
-msgstr ""
+msgstr "Kelola Acara ICS"
 
 msgid "Manage ICS Files"
-msgstr ""
+msgstr "Kelola File ICS"
 
 msgid "March"
-msgstr ""
+msgstr "Berbaris"
 
 msgid "May"
-msgstr ""
+msgstr "Mungkin"
 
 msgid "Modified: {0}"
-msgstr ""
+msgstr "Dimodifikasi: {0}"
 
 msgid "Mon"
-msgstr ""
+msgstr "Senin"
 
 msgid "Month +"
-msgstr ""
+msgstr "Bulan +"
 
 msgid "Month -"
-msgstr ""
+msgstr "Bulan -"
 
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 msgid "Name is required"
-msgstr ""
+msgstr "Nama wajib diisi"
 
 msgid "Network Share"
-msgstr ""
+msgstr "Berbagi Jaringan"
 
 msgid "New Date"
-msgstr ""
+msgstr "Tanggal Baru"
 
 msgid "Newest file: {0}"
-msgstr ""
+msgstr "File terbaru: {0}"
 
 msgid "Next Field"
-msgstr ""
+msgstr "Bidang Berikutnya"
 
 msgid "No ICS directory found"
-msgstr ""
+msgstr "Tidak ditemukan direktori ICS"
 
 msgid "No ICS events found"
-msgstr ""
+msgstr "Tidak ada acara ICS yang ditemukan"
 
 msgid "No ICS files found"
-msgstr ""
+msgstr "Tidak ada file ICS yang ditemukan"
 
 msgid "No ICS files in archive"
-msgstr ""
+msgstr "Tidak ada file ICS dalam arsip"
 
 msgid "No TV service currently playing"
-msgstr ""
+msgstr "Tidak ada layanan TV yang sedang diputar"
 
 msgid "No contact files found"
-msgstr ""
+msgstr "Tidak ada file kontak yang ditemukan"
 
 msgid "No contact selected"
-msgstr ""
+msgstr "Tidak ada kontak yang dipilih"
 
 msgid "No contacts found in database"
-msgstr ""
+msgstr "Tidak ada kontak yang ditemukan di database"
 
 msgid "No data found to convert"
-msgstr ""
+msgstr "Tidak ada data yang ditemukan untuk dikonversi"
 
 msgid "No data to export"
-msgstr ""
+msgstr "Tidak ada data untuk diekspor"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "Tidak ada duplikat yang ditemukan"
 
 msgid "No event selected"
-msgstr ""
+msgstr "Tidak ada acara yang dipilih"
 
 msgid "No events database found"
-msgstr ""
+msgstr "Tidak ada database acara yang ditemukan"
 
 msgid "No events for today"
-msgstr ""
+msgstr "Tidak ada acara untuk hari ini"
 
 msgid "No events to convert"
-msgstr ""
+msgstr "Tidak ada acara untuk dikonversi"
 
 msgid "No file in database..."
-msgstr ""
+msgstr "Tidak ada file di database..."
 
 msgid "No file selected"
-msgstr ""
+msgstr "Tidak ada berkas yang dipilih"
 
 msgid "No past events to remove"
-msgstr ""
+msgstr "Tidak ada peristiwa masa lalu yang perlu dihapus"
 
 msgid "No sorting (original order)"
-msgstr ""
+msgstr "Tidak ada penyortiran (pesanan asli)"
 
 msgid "No sound"
-msgstr ""
+msgstr "Tidak ada suara"
 
 msgid "Note"
-msgstr ""
+msgstr "Catatan"
 
 msgid "Note:"
-msgstr ""
+msgstr "Catatan:"
 
 msgid "Notes"
-msgstr ""
+msgstr "Catatan"
 
 msgid "Notification sound type"
-msgstr ""
+msgstr "Jenis suara notifikasi"
 
 msgid "Notification tone"
-msgstr ""
+msgstr "Nada pemberitahuan"
 
 msgid "Notify"
-msgstr ""
+msgstr "Memberitahu"
 
 msgid "Notify:"
-msgstr ""
+msgstr "Memberitahu:"
 
 msgid "November"
 msgstr ""
 
 msgid "October"
-msgstr ""
+msgstr "Oktober"
 
 msgid "Oldest file: {0}\\\\\\\\n"
-msgstr ""
+msgstr "File tertua: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
-msgstr ""
+msgstr "Oranye"
 
 msgid "P:{0}/{1}"
 msgstr ""
 
 msgid "Phone"
-msgstr ""
+msgstr "Telepon"
 
 msgid "Play a sound when event notification appears"
-msgstr ""
+msgstr "Memutar suara saat notifikasi acara muncul"
 
 msgid "Play sound with notifications"
-msgstr ""
+msgstr "Putar suara dengan notifikasi"
 
 msgid "Please restart Enigma2 manually."
-msgstr ""
+msgstr "Silakan restart Enigma2 secara manual."
 
 msgid "Plugin Directory"
-msgstr ""
+msgstr "Direktori Plugin"
 
 msgid "Plugin is up to date"
-msgstr ""
+msgstr "Plugin sudah diperbarui"
 
 msgid "Press GREEN to import"
-msgstr ""
+msgstr "Tekan HIJAU untuk mengimpor"
 
 msgid "Press TEXT to search"
-msgstr ""
+msgstr "Tekan TEKS untuk mencari"
 
 msgid "Preview file content"
-msgstr ""
+msgstr "Pratinjau konten file"
 
 msgid "Progress: {0}%"
-msgstr ""
+msgstr "Kemajuan: {0}%"
 
 msgid "Re-import"
-msgstr ""
+msgstr "Impor ulang"
 
 msgid "Red"
-msgstr ""
+msgstr "Merah"
 
 msgid "Refresh"
-msgstr ""
+msgstr "Menyegarkan"
 
 msgid "Refreshed"
-msgstr ""
+msgstr "Disegarkan"
 
 msgid "Remove"
-msgstr ""
+msgstr "Menghapus"
 
 msgid "Remove Date"
-msgstr ""
+msgstr "Hapus Tanggal"
 
 msgid "Removed {0} past events"
-msgstr ""
+msgstr "Menghapus {0} acara sebelumnya"
 
 msgid "Repeat"
-msgstr ""
+msgstr "Mengulang"
 
 msgid "Repeat (none/daily/weekly/monthly/yearly)"
-msgstr ""
+msgstr "Berulang (tidak ada/harian/mingguan/bulanan/tahunan)"
 
 msgid "Repeat:"
-msgstr ""
+msgstr "Mengulang:"
 
 msgid "Repeat: {0}"
-msgstr ""
+msgstr "Ulangi: {0}"
 
 msgid "Root Home (/home/root)"
-msgstr ""
+msgstr "Akar Rumah (/ rumah/root)"
 
 msgid "S:{0}"
 msgstr ""
 
 msgid "SCHEDULED EVENTS:"
-msgstr ""
+msgstr "ACARA TERJADWAL:"
 
 msgid "Sat"
-msgstr ""
+msgstr "Duduk"
 
 msgid "Save"
-msgstr ""
+msgstr "Menyimpan"
 
 msgid "Search contacts"
-msgstr ""
+msgstr "Cari kontak"
 
 msgid "Search events"
-msgstr ""
+msgstr "Acara pencarian"
 
 msgid "Search:"
-msgstr ""
+msgstr "Mencari:"
 
 msgid "Seconds between event checks (advanced)"
-msgstr ""
+msgstr "Detik antara pemeriksaan acara (lanjutan)"
 
 msgid "Seconds to wait after boot before starting notifications"
-msgstr ""
+msgstr "Detik untuk menunggu setelah boot sebelum memulai notifikasi"
 
 msgid "Select .ics file to import"
-msgstr ""
+msgstr "Pilih file .ics untuk diimpor"
 
 msgid "Select a file, not a folder"
-msgstr ""
+msgstr "Pilih file, bukan folder"
 
 msgid "Select vCard file to import"
-msgstr ""
+msgstr "Pilih file vCard untuk diimpor"
 
 msgid "Selected: {0}"
-msgstr ""
+msgstr "Terpilih: {0}"
 
 msgid "September"
 msgstr ""
 
 msgid "Short beep"
-msgstr ""
+msgstr "Bunyi bip pendek"
 
 msgid "Show 'H' marker on holiday days"
-msgstr ""
+msgstr "Tunjukkan penanda 'H' pada hari libur"
 
 msgid "Show Statistics"
-msgstr ""
+msgstr "Tampilkan Statistik"
 
 msgid "Show Today's Holidays"
-msgstr ""
+msgstr "Tampilkan Hari Libur Hari Ini"
 
 msgid "Show Upcoming Holidays"
-msgstr ""
+msgstr "Tampilkan Hari Libur Mendatang"
 
 msgid "Show debug messages in console/log"
-msgstr ""
+msgstr "Tampilkan pesan debug di konsol/log"
 
 msgid "Show event indicators"
-msgstr ""
+msgstr "Tampilkan indikator acara"
 
 msgid "Show event statistics"
-msgstr ""
+msgstr "Tampilkan statistik acara"
 
 msgid "Show holiday indicators"
-msgstr ""
+msgstr "Tampilkan indikator hari libur"
 
 msgid "Show markers on days with events"
-msgstr ""
+msgstr "Tampilkan penanda pada hari-hari dengan acara"
 
 msgid "Show notifications for upcoming events"
-msgstr ""
+msgstr "Tampilkan pemberitahuan untuk acara mendatang"
 
 msgid "Sign"
-msgstr ""
+msgstr "Tanda"
 
 msgid "Sign:"
-msgstr ""
+msgstr "Tanda:"
 
 msgid "Size: {0:.1f} KB"
-msgstr ""
+msgstr "Ukuran: {0:.1f} KB"
 
 msgid "Size: {0:.1f} MB"
-msgstr ""
+msgstr "Ukuran: {0:.1f} MB"
 
 msgid "Skipped: %d"
-msgstr ""
+msgstr "Dilewati: %d"
 
 msgid "Skipped: {0}"
-msgstr ""
+msgstr "Dilewati: {0}"
 
 msgid "Skipped: {0} (duplicates)"
-msgstr ""
+msgstr "Dilewati: {0} (duplikat)"
 
 msgid "Sort"
-msgstr ""
+msgstr "Menyortir"
 
 msgid "Sort by birthday (month/day)"
-msgstr ""
+msgstr "Urutkan berdasarkan tanggal lahir (bulan/hari)"
 
 msgid "Sort by category"
-msgstr ""
+msgstr "Urutkan berdasarkan kategori"
 
 msgid "Sort by name (alphabetical)"
-msgstr ""
+msgstr "Urutkan berdasarkan nama (berdasarkan abjad)"
 
 msgid "Sorted by birthday"
-msgstr ""
+msgstr "Diurutkan berdasarkan tanggal lahir"
 
 msgid "Sorted by category"
-msgstr ""
+msgstr "Diurutkan berdasarkan kategori"
 
 msgid "Sorted by date"
-msgstr ""
+msgstr "Diurutkan berdasarkan tanggal"
 
 msgid "Sorted by name"
-msgstr ""
+msgstr "Diurutkan berdasarkan nama"
 
 msgid "Sorted by title"
-msgstr ""
+msgstr "Diurutkan berdasarkan judul"
 
 msgid "Sorted by: Birthday"
-msgstr ""
+msgstr "Diurutkan berdasarkan: Ulang tahun"
 
 msgid "Sorted by: Category"
-msgstr ""
+msgstr "Diurutkan berdasarkan: Kategori"
 
 msgid "Sorted by: Date"
-msgstr ""
+msgstr "Diurutkan berdasarkan: Tanggal"
 
 msgid "Sorted by: Name"
-msgstr ""
+msgstr "Diurutkan berdasarkan: Nama"
 
 msgid "Sorted by: Title"
-msgstr ""
+msgstr "Diurutkan berdasarkan: Judul"
 
 msgid "Start event notifications in background (recommended)"
-msgstr ""
+msgstr "Mulai pemberitahuan acara di latar belakang (disarankan)"
 
 msgid "Subdirectory name for exports (created automatically)"
-msgstr ""
+msgstr "Nama subdirektori untuk ekspor (dibuat secara otomatis)"
 
 msgid "Successfully converted {0} entries to ICS format"
-msgstr ""
+msgstr "Berhasil mengonversi entri {0} ke format ICS"
 
 msgid "Sun"
-msgstr ""
+msgstr "Matahari"
 
 msgid "Tags: {0}"
-msgstr ""
+msgstr "Tag: {0}"
 
 msgid "Temporary Storage (/tmp)"
-msgstr ""
+msgstr "Penyimpanan Sementara (/tmp)"
 
 msgid "Test error: %s"
-msgstr ""
+msgstr "Kesalahan pengujian: %s"
 
 msgid "Text format"
-msgstr ""
+msgstr "Format teks"
 
 msgid "Thu"
-msgstr ""
+msgstr "Kam"
 
 msgid "Time"
-msgstr ""
+msgstr "Waktu"
 
 msgid "Time (HH:MM)"
-msgstr ""
+msgstr "Waktu (JJ:MM)"
 
 msgid "Time:"
-msgstr ""
+msgstr "Waktu:"
 
 msgid "Title"
-msgstr ""
+msgstr "Judul"
 
 msgid "Title and date are required!"
-msgstr ""
+msgstr "Judul dan tanggal wajib diisi!"
 
 msgid "Title is required"
-msgstr ""
+msgstr "Judul diperlukan"
 
 msgid "Title:"
-msgstr ""
+msgstr "Judul:"
 
 msgid "Today"
-msgstr ""
+msgstr "Hari ini"
 
 msgid "Total events: {0}"
-msgstr ""
+msgstr "Jumlah acara: {0}"
 
 msgid "Total files: {0}\\\\\\\\n"
-msgstr ""
+msgstr "Total file: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Total size: {0:.1f} KB\\\\\\\\n"
-msgstr ""
+msgstr "Ukuran total: {0:.1f} KB\\\\\\\\\\\\\\\\n"
 
 msgid "Total: %d"
-msgstr ""
+msgstr "Jumlah: %d"
 
 msgid "Total: {0}"
-msgstr ""
+msgstr "Jumlah: {0}"
 
 msgid "Tue"
-msgstr ""
+msgstr "Selasa"
 
 msgid "Type of sound to play with notifications"
-msgstr ""
+msgstr "Jenis suara untuk diputar dengan notifikasi"
 
 msgid "U:{0}"
-msgstr ""
+msgstr "kamu:{0}"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Drive USB"
 
 msgid "USB Drive (/media/usb)"
-msgstr ""
+msgstr "Drive USB (/media/usb)"
 
 msgid "Unable to play test sound"
-msgstr ""
+msgstr "Tidak dapat memutar suara uji"
 
 msgid "Update available!"
-msgstr ""
+msgstr "Pembaruan tersedia!"
 
 msgid "Update cancelled"
-msgstr ""
+msgstr "Pembaruan dibatalkan"
 
 msgid "Update check error"
-msgstr ""
+msgstr "Kesalahan pemeriksaan pembaruan"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "Pemeriksaan pembaruan gagal"
 
 msgid "Update completed successfully!"
-msgstr ""
+msgstr "Pembaruan berhasil diselesaikan!"
 
 msgid "Update error: %s"
-msgstr ""
+msgstr "Kesalahan pembaruan: %s"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Pembaruan gagal"
 
 msgid "Update failed and backup restore also failed!"
-msgstr ""
+msgstr "Pembaruan gagal dan pemulihan cadangan juga gagal!"
 
 msgid "Update failed. Restored from backup."
-msgstr ""
+msgstr "Pembaruan gagal. Dipulihkan dari cadangan."
 
 msgid "Update successful!"
-msgstr ""
+msgstr "Pembaruan berhasil!"
 
 msgid "Updated: {0}"
-msgstr ""
+msgstr "Diperbarui: {0}"
 
 msgid "Updating plugin... Please wait"
-msgstr ""
+msgstr "Memperbarui plugin... Harap tunggu"
 
 msgid "Using legacy database format"
-msgstr ""
+msgstr "Menggunakan format database lama"
 
 msgid "View"
-msgstr ""
+msgstr "Melihat"
 
 msgid "Waiting for thread to stop..."
-msgstr ""
+msgstr "Menunggu thread berhenti..."
 
 msgid "Wed"
-msgstr ""
+msgstr "Menikahi"
 
 msgid "White"
-msgstr ""
+msgstr "Putih"
 
 msgid "Yellow"
-msgstr ""
+msgstr "Kuning"
 
 msgid "You have the latest version of Calendar."
-msgstr ""
+msgstr "Anda memiliki Kalender versi terbaru."
 
 msgid "not sorted"
-msgstr ""
+msgstr "tidak diurutkan"
 
 msgid "sorted by birthday"
-msgstr ""
+msgstr "diurutkan berdasarkan tanggal lahir"
 
 msgid "sorted by category"
-msgstr ""
+msgstr "diurutkan berdasarkan kategori"
 
 msgid "sorted by name"
-msgstr ""
+msgstr "diurutkan berdasarkan nama"
 
 msgid "vCard format"
-msgstr ""
+msgstr "format vCard"
 
 msgid "vCard format (standard)"
-msgstr ""
+msgstr "format vCard (standar)"
 
 msgid "vCard import feature not available: {0}"
-msgstr ""
+msgstr "Fitur impor vCard tidak tersedia: {0}"

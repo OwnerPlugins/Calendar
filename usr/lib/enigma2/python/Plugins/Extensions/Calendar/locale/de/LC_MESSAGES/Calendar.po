@@ -227,7 +227,7 @@ msgid "Converted {0} events to {1}"
 msgstr "Konvertierte {0}-Ereignisse in {1}"
 
 msgid "Could not check for updates. Check internet connection."
-msgstr ""
+msgstr "Es konnte nicht nach Updates gesucht werden. Überprüfen Sie die Internetverbindung."
 
 msgid "Could not check for updates: %s"
 msgstr "Konnte nicht nach Updates suchen: %s"
@@ -793,8 +793,9 @@ msgstr "November"
 msgid "October"
 msgstr "Oktober"
 
+#, fuzzy
 msgid "Oldest file: {0}\\\\\\\\n"
-msgstr "Älteste Datei: {0}\\\\\\\\\\\\\\\\n"
+msgstr "Älteste Datei: {0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
 msgstr ""
@@ -1060,11 +1061,13 @@ msgstr "Heute"
 msgid "Total events: {0}"
 msgstr "Gesamtzahl der Ereignisse: {0}"
 
+#, fuzzy
 msgid "Total files: {0}\\\\\\\\n"
-msgstr "Gesamtzahl der Dateien: {0}\\\\\\\\\\\\\\\\n"
+msgstr "Gesamtzahl der Dateien: {0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "Total size: {0:.1f} KB\\\\\\\\n"
-msgstr "Gesamtgröße: {0:.1f} KB\\\\\\\\\\\\\\\\n"
+msgstr "Gesamtgröße: {0:.1f} KB\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Total: %d"
 msgstr "Gesamt: %d"
