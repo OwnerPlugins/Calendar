@@ -11,1153 +11,1153 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "(Search: '{0}')"
-msgstr ""
+msgstr "(Tìm kiếm: '{0}')"
 
 msgid "(truncated)"
-msgstr ""
+msgstr "(cắt ngắn)"
 
 msgid "--- CONTACTS ---"
-msgstr ""
+msgstr "--- LIÊN HỆ ---"
 
 msgid "--- DATABASE ---"
-msgstr ""
+msgstr "--- CƠ SỞ DỮ LIỆU ---"
 
 msgid "--- EVENTS ---"
-msgstr ""
+msgstr "--- SỰ KIỆN ---"
 
 msgid "--- HOLIDAYS ---"
-msgstr ""
+msgstr "--- NGÀY NGHỈ ---"
 
 msgid "--- PERSONAL DATA ---"
-msgstr ""
+msgstr "--- DỮ LIỆU CÁ NHÂN ---"
 
 msgid "--- SYSTEM ---"
-msgstr ""
+msgstr "--- HỆ THỐNG ---"
 
 msgid "Active"
-msgstr ""
+msgstr "Tích cực"
 
 msgid "Active:"
-msgstr ""
+msgstr "Tích cực:"
 
 msgid "Add"
-msgstr ""
+msgstr "Thêm vào"
 
 msgid "Add Contact"
-msgstr ""
+msgstr "Thêm liên hệ"
 
 msgid "Add Event"
-msgstr ""
+msgstr "Thêm sự kiện"
 
 msgid "Add date and time to exported filenames"
-msgstr ""
+msgstr "Thêm ngày và giờ vào tên tệp được xuất"
 
 msgid "Add timestamp to filename"
-msgstr ""
+msgstr "Thêm dấu thời gian vào tên tệp"
 
 msgid "Alert sound"
-msgstr ""
+msgstr "Âm thanh cảnh báo"
 
 msgid "Already on today's event"
-msgstr ""
+msgstr "Đã có mặt trong sự kiện ngày hôm nay"
 
 msgid "April"
-msgstr ""
+msgstr "Tháng tư"
 
 msgid "August"
-msgstr ""
+msgstr "Tháng tám"
 
 msgid "Automatically clean old notified events"
-msgstr ""
+msgstr "Tự động xóa các sự kiện được thông báo cũ"
 
 msgid "Autostart delay"
-msgstr ""
+msgstr "Độ trễ tự động khởi động"
 
 msgid "Back"
-msgstr ""
+msgstr "Mặt sau"
 
 msgid "Birthday (YYYY-MM-DD)"
-msgstr ""
+msgstr "Sinh nhật (YYYY-MM-DD)"
 
 msgid "Birthdays: {0}"
-msgstr ""
+msgstr "Sinh nhật: {0}"
 
 msgid "Blue"
-msgstr ""
+msgstr "Màu xanh da trời"
 
 msgid "Browse ICS Files"
-msgstr ""
+msgstr "Duyệt tập tin ICS"
 
 msgid "CONTACTS WITH BIRTHDAYS TODAY:"
-msgstr ""
+msgstr "LIÊN HỆ VỚI SINH NHẬT HÔM NAY:"
 
 msgid "CSV format"
-msgstr ""
+msgstr "định dạng CSV"
 
 msgid "Calendar"
-msgstr ""
+msgstr "Lịch"
 
 msgid "Calendar Planner"
-msgstr ""
+msgstr "Công cụ lập kế hoạch lịch"
 
 msgid "Calendar Planner | Ready"
-msgstr ""
+msgstr "Công cụ lập kế hoạch lịch | Sẵn sàng"
 
 msgid "Calendar Settings"
-msgstr ""
+msgstr "Cài đặt lịch"
 
 msgid "Calendar with events and notifications"
-msgstr ""
+msgstr "Lịch với các sự kiện và thông báo"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "Đang hủy..."
 
 msgid "Cannot delete: Contact has no ID"
-msgstr ""
+msgstr "Không thể xóa: Liên hệ không có ID"
 
 msgid "Cannot initialize event system: {0}"
-msgstr ""
+msgstr "Không thể khởi tạo hệ thống sự kiện: {0}"
 
 msgid "Categories (comma separated)"
-msgstr ""
+msgstr "Danh mục (cách nhau bằng dấu phẩy)"
 
 msgid "Check for Updates"
-msgstr ""
+msgstr "Kiểm tra cập nhật"
 
 msgid "Checking for updates..."
-msgstr ""
+msgstr "Đang kiểm tra cập nhật..."
 
 msgid "Choose between legacy text files or standard vCard format"
-msgstr ""
+msgstr "Chọn giữa các tệp văn bản cũ hoặc định dạng vCard tiêu chuẩn"
 
 msgid "Choose where to save exported files"
-msgstr ""
+msgstr "Chọn nơi lưu file đã xuất"
 
 msgid "Clean after days"
-msgstr ""
+msgstr "Sạch sẽ sau nhiều ngày"
 
 msgid "Clean old notifications"
-msgstr ""
+msgstr "Làm sạch thông báo cũ"
 
 msgid "Cleaned {0} duplicate events"
-msgstr ""
+msgstr "Đã xóa {0} sự kiện trùng lặp"
 
 msgid "Cleaned {0} old ICS files"
-msgstr ""
+msgstr "Đã xóa {0} tệp ICS cũ"
 
 msgid "Cleanup Old Files"
-msgstr ""
+msgstr "Dọn dẹp tập tin cũ"
 
 msgid "Cleanup duplicate events"
-msgstr ""
+msgstr "Dọn dẹp các sự kiện trùng lặp"
 
 msgid "Cleanup past events"
-msgstr ""
+msgstr "Dọn dẹp các sự kiện trong quá khứ"
 
 msgid "Clear ALL holiday entries from all date files?"
-msgstr ""
+msgstr "Xóa TẤT CẢ các mục ngày lễ khỏi tất cả các tệp ngày?"
 
 msgid "Clear All"
-msgstr ""
+msgstr "Xóa tất cả"
 
 msgid "Clear Holiday Database"
-msgstr ""
+msgstr "Xóa cơ sở dữ liệu kỳ nghỉ"
 
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 msgid "Color days with holidays"
-msgstr ""
+msgstr "Ngày màu với ngày lễ"
 
 msgid "Color for days with events"
-msgstr ""
+msgstr "Màu sắc cho những ngày có sự kiện"
 
 msgid "Color for holiday days"
-msgstr ""
+msgstr "Sắc màu cho ngày lễ"
 
 msgid "Completed"
-msgstr ""
+msgstr "Hoàn thành"
 
 msgid "Contact"
-msgstr ""
+msgstr "Liên hệ"
 
 msgid "Contact '{0}' deleted successfully"
-msgstr ""
+msgstr "Liên hệ '{0}' đã được xóa thành công"
 
 msgid "Contact:"
-msgstr ""
+msgstr "Liên hệ:"
 
 msgid "Contacts directory not found"
-msgstr ""
+msgstr "Không tìm thấy thư mục liên hệ"
 
 msgid "Contacts imported from ICS file!"
-msgstr ""
+msgstr "Danh bạ được nhập từ tệp ICS!"
 
 msgid "Contacts: 0"
-msgstr ""
+msgstr "Liên hệ: 0"
 
 msgid "Contacts: {0}/{1}"
-msgstr ""
+msgstr "Liên hệ: {0}/{1}"
 
 msgid "Conversion error: {0}"
-msgstr ""
+msgstr "Lỗi chuyển đổi: {0}"
 
 msgid "Convert all existing data to vCard format?"
-msgstr ""
+msgstr "Chuyển đổi tất cả dữ liệu hiện có sang định dạng vCard?"
 
 msgid "Convert to ICS format"
-msgstr ""
+msgstr "Chuyển đổi sang định dạng ICS"
 
 msgid "Convert to legacy format"
-msgstr ""
+msgstr "Chuyển đổi sang định dạng cũ"
 
 msgid "Convert to vCard format"
-msgstr ""
+msgstr "Chuyển đổi sang định dạng vCard"
 
 msgid "Converted {0} events to {1}"
-msgstr ""
+msgstr "Đã chuyển đổi sự kiện {0} thành {1}"
 
 msgid "Could not check for updates. Check internet connection."
-msgstr ""
+msgstr "Không thể kiểm tra cập nhật. Kiểm tra kết nối internet."
 
 msgid "Could not check for updates: %s"
-msgstr ""
+msgstr "Không thể kiểm tra cập nhật: %s"
 
 msgid "Could not read file"
-msgstr ""
+msgstr "Không thể đọc tập tin"
 
 msgid "Cyan"
-msgstr ""
+msgstr "lục lam"
 
 msgid "Database converted to vCard format"
-msgstr ""
+msgstr "Cơ sở dữ liệu được chuyển đổi sang định dạng vCard"
 
 msgid "Database format"
-msgstr ""
+msgstr "Định dạng cơ sở dữ liệu"
 
 msgid "Date"
-msgstr ""
+msgstr "Ngày"
 
 msgid "Date (YYYY-MM-DD)"
-msgstr ""
+msgstr "Ngày (YYYY-MM-DD)"
 
 msgid "Date range: {0} to {1}"
-msgstr ""
+msgstr "Phạm vi ngày: {0} đến {1}"
 
 msgid "Date:"
-msgstr ""
+msgstr "Ngày:"
 
 msgid "Day +"
-msgstr ""
+msgstr "Ngày +"
 
 msgid "Day -"
-msgstr ""
+msgstr "Ngày -"
 
 msgid "Days to keep notifications in cache"
-msgstr ""
+msgstr "Số ngày lưu thông báo trong bộ nhớ đệm"
 
 msgid "December"
-msgstr ""
+msgstr "Tháng 12"
 
 msgid "Default event time"
-msgstr ""
+msgstr "Thời gian sự kiện mặc định"
 
 msgid "Default format for exported files"
-msgstr ""
+msgstr "Định dạng mặc định cho tệp được xuất"
 
 msgid "Default minutes before event to show notification"
-msgstr ""
+msgstr "Phút mặc định trước sự kiện để hiển thị thông báo"
 
 msgid "Default notification minutes"
-msgstr ""
+msgstr "Số phút thông báo mặc định"
 
 msgid "Default time for new events (HH:MM format)"
-msgstr ""
+msgstr "Thời gian mặc định cho các sự kiện mới (định dạng HH:MM)"
 
 msgid "Delete"
-msgstr ""
+msgstr "Xóa bỏ"
 
 msgid "Delete ALL ICS events"
-msgstr ""
+msgstr "Xóa TẤT CẢ sự kiện ICS"
 
 msgid "Delete ALL contacts"
-msgstr ""
+msgstr "Xóa TẤT CẢ địa chỉ liên hệ"
 
 msgid "Delete ALL events"
-msgstr ""
+msgstr "Xóa TẤT CẢ sự kiện"
 
 msgid "Delete File"
-msgstr ""
+msgstr "Xóa tập tin"
 
 msgid "Delete ICS files older than 30 days?"
-msgstr ""
+msgstr "Xóa các tệp ICS cũ hơn 30 ngày?"
 
 msgid "Delete file"
-msgstr ""
+msgstr "Xóa tập tin"
 
 msgid "Delete {0}?"
-msgstr ""
+msgstr "Xóa {0}?"
 
 msgid "Delete: {0}"
-msgstr ""
+msgstr "Xóa: {0}"
 
 msgid "Deleted {0} ICS events"
-msgstr ""
+msgstr "Đã xóa {0} sự kiện ICS"
 
 msgid "Deleted {0} contacts from database"
-msgstr ""
+msgstr "Đã xóa liên hệ {0} khỏi cơ sở dữ liệu"
 
 msgid "Description"
-msgstr ""
+msgstr "Sự miêu tả"
 
 msgid "Description:"
-msgstr ""
+msgstr "Sự miêu tả:"
 
 msgid "Directory: {0}"
-msgstr ""
+msgstr "Thư mục: {0}"
 
 msgid "Disk"
-msgstr ""
+msgstr "đĩa"
 
 msgid "Duplicates cleaned: %d"
-msgstr ""
+msgstr "Đã xóa các bản sao: %d"
 
 msgid "E:{0}"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Biên tập"
 
 msgid "Edit Contact"
-msgstr ""
+msgstr "Chỉnh sửa liên hệ"
 
 msgid "Edit Contact ({0}/{1})"
-msgstr ""
+msgstr "Chỉnh sửa liên hệ ({0}/{1})"
 
 msgid "Edit Date"
-msgstr ""
+msgstr "Chỉnh sửa ngày"
 
 msgid "Edit Description"
-msgstr ""
+msgstr "Chỉnh sửa mô tả"
 
 msgid "Edit Event"
-msgstr ""
+msgstr "Chỉnh sửa sự kiện"
 
 msgid "Edit Event ({0}/{1})"
-msgstr ""
+msgstr "Chỉnh sửa sự kiện ({0}/{1})"
 
 msgid "Edit Event ({0}/{1}) - Today"
-msgstr ""
+msgstr "Chỉnh sửa sự kiện ({0}/{1}) - Hôm nay"
 
 msgid "Edit Holiday"
-msgstr ""
+msgstr "Chỉnh sửa ngày lễ"
 
 msgid "Edit ICS Event"
-msgstr ""
+msgstr "Chỉnh sửa sự kiện ICS"
 
 msgid "Edit Note"
-msgstr ""
+msgstr "Chỉnh sửa ghi chú"
 
 msgid "Edit Sign"
-msgstr ""
+msgstr "Chỉnh sửa ký hiệu"
 
 msgid "Edit: {0}"
-msgstr ""
+msgstr "Chỉnh sửa: {0}"
 
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 msgid "Enable autostart"
-msgstr ""
+msgstr "Bật tự động khởi động"
 
 msgid "Enable debug mode"
-msgstr ""
+msgstr "Bật chế độ gỡ lỗi"
 
 msgid "Enable event management with date/time"
-msgstr ""
+msgstr "Cho phép quản lý sự kiện theo ngày/giờ"
 
 msgid "Enable event system"
-msgstr ""
+msgstr "Kích hoạt hệ thống sự kiện"
 
 msgid "Enable holiday coloring"
-msgstr ""
+msgstr "Bật màu ngày lễ"
 
 msgid "Enable notifications"
-msgstr ""
+msgstr "Bật thông báo"
 
 msgid "Enter"
-msgstr ""
+msgstr "Đi vào"
 
 msgid "Error deleting contact"
-msgstr ""
+msgstr "Lỗi xóa liên hệ"
 
 msgid "Error deleting contact '{0}'"
-msgstr ""
+msgstr "Lỗi xóa liên hệ '{0}'"
 
 msgid "Error deleting database: {0}"
-msgstr ""
+msgstr "Lỗi xóa cơ sở dữ liệu: {0}"
 
 msgid "Error getting ICS statistics"
-msgstr ""
+msgstr "Lỗi khi lấy số liệu thống kê ICS"
 
 msgid "Error opening ICS browser: %s"
-msgstr ""
+msgstr "Lỗi mở trình duyệt ICS: %s"
 
 msgid "Error opening ICS importer: {0}"
-msgstr ""
+msgstr "Lỗi khi mở trình nhập ICS: {0}"
 
 msgid "Error opening event dialog"
-msgstr ""
+msgstr "Lỗi mở hộp thoại sự kiện"
 
 msgid "Error saving ICS data"
-msgstr ""
+msgstr "Lỗi lưu dữ liệu ICS"
 
 msgid "Error saving contact"
-msgstr ""
+msgstr "Lỗi lưu liên hệ"
 
 msgid "Error saving data"
-msgstr ""
+msgstr "Lỗi lưu dữ liệu"
 
 msgid "Error saving event"
-msgstr ""
+msgstr "Lỗi lưu sự kiện"
 
 msgid "Error: {0}"
-msgstr ""
+msgstr "Lỗi: {0}"
 
 msgid "Errors: %d"
-msgstr ""
+msgstr "Lỗi: %d"
 
 msgid "Errors: {0}"
-msgstr ""
+msgstr "Lỗi: {0}"
 
 msgid "Event"
-msgstr ""
+msgstr "Sự kiện"
 
 msgid "Event '{0}' deleted successfully"
-msgstr ""
+msgstr "Sự kiện '{0}' đã được xóa thành công"
 
 msgid "Event '{0}' saved successfully"
-msgstr ""
+msgstr "Sự kiện '{0}' đã được lưu thành công"
 
 msgid "Event check interval"
-msgstr ""
+msgstr "Khoảng thời gian kiểm tra sự kiện"
 
 msgid "Event color"
-msgstr ""
+msgstr "Màu sự kiện"
 
 msgid "Event manager not available"
-msgstr ""
+msgstr "Người quản lý sự kiện không có sẵn"
 
 msgid "Event manager not initialized"
-msgstr ""
+msgstr "Trình quản lý sự kiện chưa được khởi tạo"
 
 msgid "Event system is disabled. Enable it in settings first."
-msgstr ""
+msgstr "Hệ thống sự kiện bị vô hiệu hóa. Kích hoạt nó trong cài đặt đầu tiên."
 
 msgid "Event system is disabled. Enable it in settings."
-msgstr ""
+msgstr "Hệ thống sự kiện bị vô hiệu hóa. Kích hoạt nó trong cài đặt."
 
 msgid "Event system is not enabled"
-msgstr ""
+msgstr "Hệ thống sự kiện chưa được kích hoạt"
 
 msgid "Events found: {0}"
-msgstr ""
+msgstr "Sự kiện được tìm thấy: {0}"
 
 msgid "Events imported successfully"
-msgstr ""
+msgstr "Sự kiện được nhập thành công"
 
 msgid "Export All to ICS File"
-msgstr ""
+msgstr "Xuất tất cả sang tệp ICS"
 
 msgid "Export error: {0}"
-msgstr ""
+msgstr "Lỗi xuất: {0}"
 
 msgid "Export failed or no contacts to export"
-msgstr ""
+msgstr "Xuất không thành công hoặc không có liên hệ nào để xuất"
 
 msgid "Export format"
-msgstr ""
+msgstr "Định dạng xuất"
 
 msgid "Export location"
-msgstr ""
+msgstr "Xuất vị trí"
 
 msgid "Export subdirectory"
-msgstr ""
+msgstr "Xuất thư mục con"
 
 msgid "Export vCard File"
-msgstr ""
+msgstr "Xuất tệp vCard"
 
 msgid "Exporting contacts..."
-msgstr ""
+msgstr "Đang xuất danh bạ..."
 
 msgid "Failed to create backup. Update cancelled."
-msgstr ""
+msgstr "Không tạo được bản sao lưu. Đã hủy cập nhật."
 
 msgid "Failed to start import"
-msgstr ""
+msgstr "Không thể bắt đầu nhập"
 
 msgid "February"
-msgstr ""
+msgstr "Tháng hai"
 
 msgid "Field {0}/{1}: {2}"
-msgstr ""
+msgstr "Trường {0}/{1}: {2}"
 
 msgid "File deleted"
-msgstr ""
+msgstr "Đã xóa tệp"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Không tìm thấy tập tin!"
 
 msgid "File re-imported successfully"
-msgstr ""
+msgstr "Đã nhập lại tệp thành công"
 
 msgid "File re-imported. Found {0} potential duplicates."
-msgstr ""
+msgstr "Đã nhập lại tệp. Đã tìm thấy {0} bản sao tiềm năng."
 
 msgid "File: {0}"
-msgstr ""
+msgstr "Tập tin: {0}"
 
 msgid "Files is Empty..."
-msgstr ""
+msgstr "Tập tin trống..."
 
 msgid "Found {0} ICS files"
-msgstr ""
+msgstr "Đã tìm thấy {0} tệp ICS"
 
 msgid "Fri"
-msgstr ""
+msgstr "Thứ sáu"
 
 msgid "Green"
-msgstr ""
+msgstr "Màu xanh lá"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Đĩa cứng"
 
 msgid "Hard Disk (/media/hdd)"
-msgstr ""
+msgstr "Đĩa cứng (/media/hdd)"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Ngày lễ"
 
 msgid "Holiday color"
-msgstr ""
+msgstr "Màu ngày lễ"
 
 msgid "Holiday:"
-msgstr ""
+msgstr "Ngày lễ:"
 
 msgid "Holidays imported"
-msgstr ""
+msgstr "Ngày lễ nhập khẩu"
 
 msgid "I:{0}"
-msgstr ""
+msgstr "Tôi:{0}"
 
 msgid "ICS Events: 0"
-msgstr ""
+msgstr "Sự kiện ICS: 0"
 
 msgid "ICS Events: {0}/{1}"
-msgstr ""
+msgstr "Sự kiện ICS: {0}/{1}"
 
 msgid "ICS format"
-msgstr ""
+msgstr "định dạng ICS"
 
 msgid "ICS format (google calendar)"
-msgstr ""
+msgstr "Định dạng ICS (lịch google)"
 
 msgid "ICS import feature not yet available: {0}"
-msgstr ""
+msgstr "Tính năng nhập ICS chưa khả dụng: {0}"
 
 msgid "Import"
-msgstr ""
+msgstr "Nhập khẩu"
 
 msgid "Import All"
-msgstr ""
+msgstr "Nhập tất cả"
 
 msgid "Import Google Calendar (.ics)"
-msgstr ""
+msgstr "Nhập Lịch Google (.ics)"
 
 msgid "Import Holidays"
-msgstr ""
+msgstr "Ngày lễ nhập khẩu"
 
 msgid "Import ICS Contacts Google Calendar (.ics)"
-msgstr ""
+msgstr "Nhập Danh bạ ICS Lịch Google (.ics)"
 
 msgid "Import completed"
-msgstr ""
+msgstr "Đã nhập xong"
 
 msgid "Import completed - Sorting contacts..."
-msgstr ""
+msgstr "Đã nhập xong - Sắp xếp danh bạ..."
 
 msgid "Import completed!"
-msgstr ""
+msgstr "Nhập khẩu hoàn tất!"
 
 msgid "Import completed. Ready."
-msgstr ""
+msgstr "Nhập khẩu hoàn tất. Sẵn sàng."
 
 msgid "Import error: {0}"
-msgstr ""
+msgstr "Lỗi nhập: {0}"
 
 msgid "Import events to calendar"
-msgstr ""
+msgstr "Nhập sự kiện vào lịch"
 
 msgid "Import vCard File"
-msgstr ""
+msgstr "Nhập tệp vCard"
 
 msgid "Imported ICS Files"
-msgstr ""
+msgstr "Tệp ICS đã nhập"
 
 msgid "Imported: %d"
-msgstr ""
+msgstr "Đã nhập: %d"
 
 msgid "Imported: {0}"
-msgstr ""
+msgstr "Đã nhập: {0}"
 
 msgid "Imported: {0} contacts"
-msgstr ""
+msgstr "Đã nhập: {0} liên hệ"
 
 msgid "Importing iCalendar File"
-msgstr ""
+msgstr "Nhập tệp iCalendar"
 
 msgid "Importing vCard File"
-msgstr ""
+msgstr "Nhập tệp vCard"
 
 msgid "Initializing..."
-msgstr ""
+msgstr "Đang khởi tạo..."
 
 msgid "Invalid birthday format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "Định dạng ngày sinh không hợp lệ. Sử dụng YYYY-MM-DD"
 
 msgid "Invalid date format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "Định dạng ngày không hợp lệ. Sử dụng YYYY-MM-DD"
 
 msgid "Invalid time format! Use HH:MM (00:00 to 23:59)"
-msgstr ""
+msgstr "Định dạng thời gian không hợp lệ! Sử dụng HH:MM (00:00 đến 23:59)"
 
 msgid "Invalid time format. Use HH:MM"
-msgstr ""
+msgstr "Định dạng thời gian không hợp lệ. Sử dụng HH:MM"
 
 msgid "January"
-msgstr ""
+msgstr "Tháng Một"
 
 msgid "July"
-msgstr ""
+msgstr "Tháng bảy"
 
 msgid "June"
-msgstr ""
+msgstr "Tháng sáu"
 
 msgid "Labels (comma separated)"
-msgstr ""
+msgstr "Nhãn (được phân tách bằng dấu phẩy)"
 
 msgid "Legacy format (text files)"
-msgstr ""
+msgstr "Định dạng kế thừa (tệp văn bản)"
 
 msgid "Manage Contacts"
-msgstr ""
+msgstr "Quản lý danh bạ"
 
 msgid "Manage Event"
-msgstr ""
+msgstr "Quản lý sự kiện"
 
 msgid "Manage ICS Events"
-msgstr ""
+msgstr "Quản lý sự kiện ICS"
 
 msgid "Manage ICS Files"
-msgstr ""
+msgstr "Quản lý tập tin ICS"
 
 msgid "March"
-msgstr ""
+msgstr "Bước đều"
 
 msgid "May"
-msgstr ""
+msgstr "Có thể"
 
 msgid "Modified: {0}"
-msgstr ""
+msgstr "Đã sửa đổi: {0}"
 
 msgid "Mon"
-msgstr ""
+msgstr "Thứ hai"
 
 msgid "Month +"
-msgstr ""
+msgstr "Tháng +"
 
 msgid "Month -"
-msgstr ""
+msgstr "Tháng -"
 
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 msgid "Name is required"
-msgstr ""
+msgstr "Tên là bắt buộc"
 
 msgid "Network Share"
-msgstr ""
+msgstr "Chia sẻ mạng"
 
 msgid "New Date"
-msgstr ""
+msgstr "Ngày mới"
 
 msgid "Newest file: {0}"
-msgstr ""
+msgstr "Tệp mới nhất: {0}"
 
 msgid "Next Field"
-msgstr ""
+msgstr "Trường tiếp theo"
 
 msgid "No ICS directory found"
-msgstr ""
+msgstr "Không tìm thấy thư mục ICS"
 
 msgid "No ICS events found"
-msgstr ""
+msgstr "Không tìm thấy sự kiện ICS nào"
 
 msgid "No ICS files found"
-msgstr ""
+msgstr "Không tìm thấy tệp ICS"
 
 msgid "No ICS files in archive"
-msgstr ""
+msgstr "Không có tệp ICS nào trong kho lưu trữ"
 
 msgid "No TV service currently playing"
-msgstr ""
+msgstr "Hiện không có dịch vụ TV nào đang phát"
 
 msgid "No contact files found"
-msgstr ""
+msgstr "Không tìm thấy tệp liên hệ nào"
 
 msgid "No contact selected"
-msgstr ""
+msgstr "Không có liên hệ nào được chọn"
 
 msgid "No contacts found in database"
-msgstr ""
+msgstr "Không tìm thấy địa chỉ liên hệ nào trong cơ sở dữ liệu"
 
 msgid "No data found to convert"
-msgstr ""
+msgstr "Không tìm thấy dữ liệu để chuyển đổi"
 
 msgid "No data to export"
-msgstr ""
+msgstr "Không có dữ liệu để xuất"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "Không tìm thấy bản sao"
 
 msgid "No event selected"
-msgstr ""
+msgstr "Không có sự kiện nào được chọn"
 
 msgid "No events database found"
-msgstr ""
+msgstr "Không tìm thấy cơ sở dữ liệu sự kiện"
 
 msgid "No events for today"
-msgstr ""
+msgstr "Không có sự kiện nào cho ngày hôm nay"
 
 msgid "No events to convert"
-msgstr ""
+msgstr "Không có sự kiện nào để chuyển đổi"
 
 msgid "No file in database..."
-msgstr ""
+msgstr "Không có tập tin trong cơ sở dữ liệu..."
 
 msgid "No file selected"
-msgstr ""
+msgstr "Không có tập tin nào được chọn"
 
 msgid "No past events to remove"
-msgstr ""
+msgstr "Không có sự kiện nào trong quá khứ để xóa"
 
 msgid "No sorting (original order)"
-msgstr ""
+msgstr "Không sắp xếp (thứ tự ban đầu)"
 
 msgid "No sound"
-msgstr ""
+msgstr "Không có âm thanh"
 
 msgid "Note"
-msgstr ""
+msgstr "Ghi chú"
 
 msgid "Note:"
-msgstr ""
+msgstr "Ghi chú:"
 
 msgid "Notes"
-msgstr ""
+msgstr "Ghi chú"
 
 msgid "Notification sound type"
-msgstr ""
+msgstr "Loại âm thanh thông báo"
 
 msgid "Notification tone"
-msgstr ""
+msgstr "Âm thông báo"
 
 msgid "Notify"
-msgstr ""
+msgstr "Thông báo"
 
 msgid "Notify:"
-msgstr ""
+msgstr "Thông báo:"
 
 msgid "November"
-msgstr ""
+msgstr "Tháng mười một"
 
 msgid "October"
-msgstr ""
+msgstr "tháng mười"
 
 msgid "Oldest file: {0}\\\\\\\\n"
-msgstr ""
+msgstr "Tệp cũ nhất: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
-msgstr ""
+msgstr "Quả cam"
 
 msgid "P:{0}/{1}"
 msgstr ""
 
 msgid "Phone"
-msgstr ""
+msgstr "Điện thoại"
 
 msgid "Play a sound when event notification appears"
-msgstr ""
+msgstr "Phát âm thanh khi thông báo sự kiện xuất hiện"
 
 msgid "Play sound with notifications"
-msgstr ""
+msgstr "Phát âm thanh với thông báo"
 
 msgid "Please restart Enigma2 manually."
-msgstr ""
+msgstr "Vui lòng khởi động lại Enigma2 theo cách thủ công."
 
 msgid "Plugin Directory"
-msgstr ""
+msgstr "Thư mục plugin"
 
 msgid "Plugin is up to date"
-msgstr ""
+msgstr "Plugin đã được cập nhật"
 
 msgid "Press GREEN to import"
-msgstr ""
+msgstr "Nhấn XANH để nhập"
 
 msgid "Press TEXT to search"
-msgstr ""
+msgstr "Nhấn TEXT để tìm kiếm"
 
 msgid "Preview file content"
-msgstr ""
+msgstr "Xem trước nội dung tập tin"
 
 msgid "Progress: {0}%"
-msgstr ""
+msgstr "Tiến độ: {0}%"
 
 msgid "Re-import"
-msgstr ""
+msgstr "Nhập lại"
 
 msgid "Red"
-msgstr ""
+msgstr "Màu đỏ"
 
 msgid "Refresh"
-msgstr ""
+msgstr "Làm cho khỏe lại"
 
 msgid "Refreshed"
-msgstr ""
+msgstr "Đã làm mới"
 
 msgid "Remove"
-msgstr ""
+msgstr "Di dời"
 
 msgid "Remove Date"
-msgstr ""
+msgstr "Xóa ngày"
 
 msgid "Removed {0} past events"
-msgstr ""
+msgstr "Đã xóa {0} sự kiện trước đây"
 
 msgid "Repeat"
-msgstr ""
+msgstr "Lặp lại"
 
 msgid "Repeat (none/daily/weekly/monthly/yearly)"
-msgstr ""
+msgstr "Lặp lại (không/hàng ngày/hàng tuần/hàng tháng/hàng năm)"
 
 msgid "Repeat:"
-msgstr ""
+msgstr "Lặp lại:"
 
 msgid "Repeat: {0}"
-msgstr ""
+msgstr "Lặp lại: {0}"
 
 msgid "Root Home (/home/root)"
-msgstr ""
+msgstr "Trang chủ gốc (/home/root)"
 
 msgid "S:{0}"
 msgstr ""
 
 msgid "SCHEDULED EVENTS:"
-msgstr ""
+msgstr "SỰ KIỆN ĐÃ LẬP TRÌNH:"
 
 msgid "Sat"
-msgstr ""
+msgstr "Đã ngồi"
 
 msgid "Save"
-msgstr ""
+msgstr "Cứu"
 
 msgid "Search contacts"
-msgstr ""
+msgstr "Tìm kiếm liên hệ"
 
 msgid "Search events"
-msgstr ""
+msgstr "Tìm kiếm sự kiện"
 
 msgid "Search:"
-msgstr ""
+msgstr "Tìm kiếm:"
 
 msgid "Seconds between event checks (advanced)"
-msgstr ""
+msgstr "Số giây giữa các lần kiểm tra sự kiện (nâng cao)"
 
 msgid "Seconds to wait after boot before starting notifications"
-msgstr ""
+msgstr "Vài giây chờ sau khi khởi động trước khi bắt đầu thông báo"
 
 msgid "Select .ics file to import"
-msgstr ""
+msgstr "Chọn tệp .ics để nhập"
 
 msgid "Select a file, not a folder"
-msgstr ""
+msgstr "Chọn một tập tin, không phải một thư mục"
 
 msgid "Select vCard file to import"
-msgstr ""
+msgstr "Chọn tệp vCard để nhập"
 
 msgid "Selected: {0}"
-msgstr ""
+msgstr "Đã chọn: {0}"
 
 msgid "September"
-msgstr ""
+msgstr "Tháng 9"
 
 msgid "Short beep"
-msgstr ""
+msgstr "Tiếng bíp ngắn"
 
 msgid "Show 'H' marker on holiday days"
-msgstr ""
+msgstr "Hiển thị điểm đánh dấu 'H' vào những ngày nghỉ lễ"
 
 msgid "Show Statistics"
-msgstr ""
+msgstr "Hiển thị số liệu thống kê"
 
 msgid "Show Today's Holidays"
-msgstr ""
+msgstr "Hiển thị ngày lễ hôm nay"
 
 msgid "Show Upcoming Holidays"
-msgstr ""
+msgstr "Hiển thị các ngày lễ sắp tới"
 
 msgid "Show debug messages in console/log"
-msgstr ""
+msgstr "Hiển thị thông báo gỡ lỗi trong bảng điều khiển/nhật ký"
 
 msgid "Show event indicators"
-msgstr ""
+msgstr "Hiển thị chỉ báo sự kiện"
 
 msgid "Show event statistics"
-msgstr ""
+msgstr "Hiển thị số liệu thống kê sự kiện"
 
 msgid "Show holiday indicators"
-msgstr ""
+msgstr "Hiển thị các chỉ số ngày lễ"
 
 msgid "Show markers on days with events"
-msgstr ""
+msgstr "Hiển thị điểm đánh dấu vào những ngày có sự kiện"
 
 msgid "Show notifications for upcoming events"
-msgstr ""
+msgstr "Hiển thị thông báo cho các sự kiện sắp tới"
 
 msgid "Sign"
-msgstr ""
+msgstr "Dấu hiệu"
 
 msgid "Sign:"
-msgstr ""
+msgstr "Dấu hiệu:"
 
 msgid "Size: {0:.1f} KB"
-msgstr ""
+msgstr "Kích thước: {0:.1f} KB"
 
 msgid "Size: {0:.1f} MB"
-msgstr ""
+msgstr "Kích thước: {0:.1f} MB"
 
 msgid "Skipped: %d"
-msgstr ""
+msgstr "Đã bỏ qua: %d"
 
 msgid "Skipped: {0}"
-msgstr ""
+msgstr "Đã bỏ qua: {0}"
 
 msgid "Skipped: {0} (duplicates)"
-msgstr ""
+msgstr "Đã bỏ qua: {0} (trùng lặp)"
 
 msgid "Sort"
-msgstr ""
+msgstr "Loại"
 
 msgid "Sort by birthday (month/day)"
-msgstr ""
+msgstr "Sắp xếp theo ngày sinh (tháng/ngày)"
 
 msgid "Sort by category"
-msgstr ""
+msgstr "Sắp xếp theo danh mục"
 
 msgid "Sort by name (alphabetical)"
-msgstr ""
+msgstr "Sắp xếp theo tên (theo bảng chữ cái)"
 
 msgid "Sorted by birthday"
-msgstr ""
+msgstr "Sắp xếp theo ngày sinh"
 
 msgid "Sorted by category"
-msgstr ""
+msgstr "Sắp xếp theo danh mục"
 
 msgid "Sorted by date"
-msgstr ""
+msgstr "Sắp xếp theo ngày"
 
 msgid "Sorted by name"
-msgstr ""
+msgstr "Sắp xếp theo tên"
 
 msgid "Sorted by title"
-msgstr ""
+msgstr "Sắp xếp theo tiêu đề"
 
 msgid "Sorted by: Birthday"
-msgstr ""
+msgstr "Sắp xếp theo: Sinh nhật"
 
 msgid "Sorted by: Category"
-msgstr ""
+msgstr "Sắp xếp theo: Danh mục"
 
 msgid "Sorted by: Date"
-msgstr ""
+msgstr "Sắp xếp theo: Ngày"
 
 msgid "Sorted by: Name"
-msgstr ""
+msgstr "Sắp xếp theo: Tên"
 
 msgid "Sorted by: Title"
-msgstr ""
+msgstr "Sắp xếp theo: Tiêu đề"
 
 msgid "Start event notifications in background (recommended)"
-msgstr ""
+msgstr "Bắt đầu thông báo sự kiện ở chế độ nền (được khuyến nghị)"
 
 msgid "Subdirectory name for exports (created automatically)"
-msgstr ""
+msgstr "Tên thư mục con để xuất (được tạo tự động)"
 
 msgid "Successfully converted {0} entries to ICS format"
-msgstr ""
+msgstr "Đã chuyển đổi thành công các mục nhập {0} sang định dạng ICS"
 
 msgid "Sun"
-msgstr ""
+msgstr "Mặt trời"
 
 msgid "Tags: {0}"
-msgstr ""
+msgstr "Thẻ: {0}"
 
 msgid "Temporary Storage (/tmp)"
-msgstr ""
+msgstr "Lưu trữ tạm thời (/tmp)"
 
 msgid "Test error: %s"
-msgstr ""
+msgstr "Lỗi kiểm tra: %s"
 
 msgid "Text format"
-msgstr ""
+msgstr "định dạng văn bản"
 
 msgid "Thu"
-msgstr ""
+msgstr "Thứ năm"
 
 msgid "Time"
-msgstr ""
+msgstr "Thời gian"
 
 msgid "Time (HH:MM)"
-msgstr ""
+msgstr "Thời gian (HH:MM)"
 
 msgid "Time:"
-msgstr ""
+msgstr "Thời gian:"
 
 msgid "Title"
-msgstr ""
+msgstr "Tiêu đề"
 
 msgid "Title and date are required!"
-msgstr ""
+msgstr "Tiêu đề và ngày tháng là bắt buộc!"
 
 msgid "Title is required"
-msgstr ""
+msgstr "Tiêu đề là bắt buộc"
 
 msgid "Title:"
-msgstr ""
+msgstr "Tiêu đề:"
 
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
 msgid "Total events: {0}"
-msgstr ""
+msgstr "Tổng số sự kiện: {0}"
 
 msgid "Total files: {0}\\\\\\\\n"
-msgstr ""
+msgstr "Tổng số tệp: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Total size: {0:.1f} KB\\\\\\\\n"
-msgstr ""
+msgstr "Tổng kích thước: {0:.1f} KB\\\\\\\\\\\\\\\\n"
 
 msgid "Total: %d"
-msgstr ""
+msgstr "Tổng cộng: %d"
 
 msgid "Total: {0}"
-msgstr ""
+msgstr "Tổng cộng: {0}"
 
 msgid "Tue"
-msgstr ""
+msgstr "thứ ba"
 
 msgid "Type of sound to play with notifications"
-msgstr ""
+msgstr "Loại âm thanh để phát với thông báo"
 
 msgid "U:{0}"
-msgstr ""
+msgstr "Bạn:{0}"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Ổ USB"
 
 msgid "USB Drive (/media/usb)"
-msgstr ""
+msgstr "Ổ đĩa USB (/media/usb)"
 
 msgid "Unable to play test sound"
-msgstr ""
+msgstr "Không thể phát âm thanh thử nghiệm"
 
 msgid "Update available!"
-msgstr ""
+msgstr "Cập nhật có sẵn!"
 
 msgid "Update cancelled"
-msgstr ""
+msgstr "Đã hủy cập nhật"
 
 msgid "Update check error"
-msgstr ""
+msgstr "Lỗi kiểm tra cập nhật"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "Kiểm tra cập nhật không thành công"
 
 msgid "Update completed successfully!"
-msgstr ""
+msgstr "Cập nhật hoàn tất thành công!"
 
 msgid "Update error: %s"
-msgstr ""
+msgstr "Lỗi cập nhật: %s"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Cập nhật không thành công"
 
 msgid "Update failed and backup restore also failed!"
-msgstr ""
+msgstr "Cập nhật không thành công và khôi phục bản sao lưu cũng không thành công!"
 
 msgid "Update failed. Restored from backup."
-msgstr ""
+msgstr "Cập nhật không thành công. Đã khôi phục từ bản sao lưu."
 
 msgid "Update successful!"
-msgstr ""
+msgstr "Cập nhật thành công!"
 
 msgid "Updated: {0}"
-msgstr ""
+msgstr "Đã cập nhật: {0}"
 
 msgid "Updating plugin... Please wait"
-msgstr ""
+msgstr "Đang cập nhật plugin... Vui lòng đợi"
 
 msgid "Using legacy database format"
-msgstr ""
+msgstr "Sử dụng định dạng cơ sở dữ liệu kế thừa"
 
 msgid "View"
-msgstr ""
+msgstr "Xem"
 
 msgid "Waiting for thread to stop..."
-msgstr ""
+msgstr "Đang chờ chủ đề dừng lại..."
 
 msgid "Wed"
-msgstr ""
+msgstr "Thứ tư"
 
 msgid "White"
-msgstr ""
+msgstr "Trắng"
 
 msgid "Yellow"
-msgstr ""
+msgstr "Màu vàng"
 
 msgid "You have the latest version of Calendar."
-msgstr ""
+msgstr "Bạn có phiên bản Lịch mới nhất."
 
 msgid "not sorted"
-msgstr ""
+msgstr "không được sắp xếp"
 
 msgid "sorted by birthday"
-msgstr ""
+msgstr "sắp xếp theo ngày sinh"
 
 msgid "sorted by category"
-msgstr ""
+msgstr "sắp xếp theo danh mục"
 
 msgid "sorted by name"
-msgstr ""
+msgstr "sắp xếp theo tên"
 
 msgid "vCard format"
-msgstr ""
+msgstr "định dạng vCard"
 
 msgid "vCard format (standard)"
-msgstr ""
+msgstr "Định dạng vCard (tiêu chuẩn)"
 
 msgid "vCard import feature not available: {0}"
-msgstr ""
+msgstr "Tính năng nhập vCard không khả dụng: {0}"

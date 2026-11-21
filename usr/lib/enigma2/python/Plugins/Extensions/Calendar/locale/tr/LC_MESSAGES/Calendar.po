@@ -11,1153 +11,1153 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "(Search: '{0}')"
-msgstr ""
+msgstr "(Arama: '{0}')"
 
 msgid "(truncated)"
-msgstr ""
+msgstr "(kesilmiş)"
 
 msgid "--- CONTACTS ---"
-msgstr ""
+msgstr "--- İLETİŞİM ---"
 
 msgid "--- DATABASE ---"
-msgstr ""
+msgstr "--- VERİTABANI ---"
 
 msgid "--- EVENTS ---"
-msgstr ""
+msgstr "--- OLAYLAR ---"
 
 msgid "--- HOLIDAYS ---"
-msgstr ""
+msgstr "--- TATİLLER ---"
 
 msgid "--- PERSONAL DATA ---"
-msgstr ""
+msgstr "--- KİŞİSEL VERİLER ---"
 
 msgid "--- SYSTEM ---"
-msgstr ""
+msgstr "--- SİSTEM ---"
 
 msgid "Active"
-msgstr ""
+msgstr "Aktif"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktif:"
 
 msgid "Add"
-msgstr ""
+msgstr "Eklemek"
 
 msgid "Add Contact"
-msgstr ""
+msgstr "Kişi Ekle"
 
 msgid "Add Event"
-msgstr ""
+msgstr "Etkinlik Ekle"
 
 msgid "Add date and time to exported filenames"
-msgstr ""
+msgstr "Dışa aktarılan dosya adlarına tarih ve saat ekleme"
 
 msgid "Add timestamp to filename"
-msgstr ""
+msgstr "Dosya adına zaman damgası ekleyin"
 
 msgid "Alert sound"
-msgstr ""
+msgstr "Uyarı sesi"
 
 msgid "Already on today's event"
-msgstr ""
+msgstr "Zaten bugünkü etkinlikte"
 
 msgid "April"
-msgstr ""
+msgstr "Nisan"
 
 msgid "August"
-msgstr ""
+msgstr "Ağustos"
 
 msgid "Automatically clean old notified events"
-msgstr ""
+msgstr "Bildirilen eski etkinlikleri otomatik olarak temizle"
 
 msgid "Autostart delay"
-msgstr ""
+msgstr "Otomatik başlatma gecikmesi"
 
 msgid "Back"
-msgstr ""
+msgstr "Geri"
 
 msgid "Birthday (YYYY-MM-DD)"
-msgstr ""
+msgstr "Doğum Günü (YYYY-AA-GG)"
 
 msgid "Birthdays: {0}"
-msgstr ""
+msgstr "Doğum günleri: {0}"
 
 msgid "Blue"
-msgstr ""
+msgstr "Mavi"
 
 msgid "Browse ICS Files"
-msgstr ""
+msgstr "ICS Dosyalarına Gözatın"
 
 msgid "CONTACTS WITH BIRTHDAYS TODAY:"
-msgstr ""
+msgstr "BUGÜN DOĞUM GÜNLERİYLE İLETİŞİM:"
 
 msgid "CSV format"
-msgstr ""
+msgstr "CSV biçimi"
 
 msgid "Calendar"
-msgstr ""
+msgstr "Takvim"
 
 msgid "Calendar Planner"
-msgstr ""
+msgstr "Takvim Planlayıcı"
 
 msgid "Calendar Planner | Ready"
-msgstr ""
+msgstr "Takvim Planlayıcı | Hazır"
 
 msgid "Calendar Settings"
-msgstr ""
+msgstr "Takvim Ayarları"
 
 msgid "Calendar with events and notifications"
-msgstr ""
+msgstr "Etkinlikler ve bildirimler içeren takvim"
 
 msgid "Cancel"
-msgstr ""
+msgstr "İptal etmek"
 
 msgid "Cancelling..."
-msgstr ""
+msgstr "İptal..."
 
 msgid "Cannot delete: Contact has no ID"
-msgstr ""
+msgstr "Silinemiyor: Kişinin kimliği yok"
 
 msgid "Cannot initialize event system: {0}"
-msgstr ""
+msgstr "Olay sistemi başlatılamıyor: {0}"
 
 msgid "Categories (comma separated)"
-msgstr ""
+msgstr "Kategoriler (virgülle ayrılmış)"
 
 msgid "Check for Updates"
-msgstr ""
+msgstr "Güncellemeleri Kontrol Et"
 
 msgid "Checking for updates..."
-msgstr ""
+msgstr "Güncellemeler kontrol ediliyor..."
 
 msgid "Choose between legacy text files or standard vCard format"
-msgstr ""
+msgstr "Eski metin dosyaları veya standart vCard formatı arasında seçim yapın"
 
 msgid "Choose where to save exported files"
-msgstr ""
+msgstr "Dışa aktarılan dosyaların nereye kaydedileceğini seçin"
 
 msgid "Clean after days"
-msgstr ""
+msgstr "Günler sonra temizlik"
 
 msgid "Clean old notifications"
-msgstr ""
+msgstr "Eski bildirimleri temizle"
 
 msgid "Cleaned {0} duplicate events"
-msgstr ""
+msgstr "{0} yinelenen etkinlik temizlendi"
 
 msgid "Cleaned {0} old ICS files"
-msgstr ""
+msgstr "{0} eski ICS dosyası temizlendi"
 
 msgid "Cleanup Old Files"
-msgstr ""
+msgstr "Eski Dosyaları Temizleme"
 
 msgid "Cleanup duplicate events"
-msgstr ""
+msgstr "Yinelenen etkinlikleri temizleme"
 
 msgid "Cleanup past events"
-msgstr ""
+msgstr "Geçmiş etkinlikleri temizleme"
 
 msgid "Clear ALL holiday entries from all date files?"
-msgstr ""
+msgstr "Tüm tarih dosyalarındaki TÜM tatil girişleri temizlensin mi?"
 
 msgid "Clear All"
-msgstr ""
+msgstr "Tümünü Temizle"
 
 msgid "Clear Holiday Database"
-msgstr ""
+msgstr "Tatil Veritabanını Temizle"
 
 msgid "Close"
-msgstr ""
+msgstr "Kapalı"
 
 msgid "Color days with holidays"
-msgstr ""
+msgstr "Bayramlarla renkli günler"
 
 msgid "Color for days with events"
-msgstr ""
+msgstr "Etkinliklerle dolu günler için renk"
 
 msgid "Color for holiday days"
-msgstr ""
+msgstr "Tatil günlerinin rengi"
 
 msgid "Completed"
-msgstr ""
+msgstr "Tamamlanmış"
 
 msgid "Contact"
-msgstr ""
+msgstr "Temas etmek"
 
 msgid "Contact '{0}' deleted successfully"
-msgstr ""
+msgstr "'{0}' kişisi başarıyla silindi"
 
 msgid "Contact:"
-msgstr ""
+msgstr "Temas etmek:"
 
 msgid "Contacts directory not found"
-msgstr ""
+msgstr "Kişiler dizini bulunamadı"
 
 msgid "Contacts imported from ICS file!"
-msgstr ""
+msgstr "ICS dosyasından içe aktarılan kişiler!"
 
 msgid "Contacts: 0"
-msgstr ""
+msgstr "Kişiler: 0"
 
 msgid "Contacts: {0}/{1}"
-msgstr ""
+msgstr "Kişiler: {0}/{1}"
 
 msgid "Conversion error: {0}"
-msgstr ""
+msgstr "Dönüştürme hatası: {0}"
 
 msgid "Convert all existing data to vCard format?"
-msgstr ""
+msgstr "Mevcut tüm veriler vCard formatına dönüştürülsün mü?"
 
 msgid "Convert to ICS format"
-msgstr ""
+msgstr "ICS formatına dönüştürün"
 
 msgid "Convert to legacy format"
-msgstr ""
+msgstr "Eski formata dönüştür"
 
 msgid "Convert to vCard format"
-msgstr ""
+msgstr "vCard formatına dönüştürün"
 
 msgid "Converted {0} events to {1}"
-msgstr ""
+msgstr "{0} olayları {1}'ye dönüştürüldü"
 
 msgid "Could not check for updates. Check internet connection."
-msgstr ""
+msgstr "Güncellemeler kontrol edilemedi. İnternet bağlantısını kontrol edin."
 
 msgid "Could not check for updates: %s"
-msgstr ""
+msgstr "Güncellemeler kontrol edilemedi: %s"
 
 msgid "Could not read file"
-msgstr ""
+msgstr "Dosya okunamadı"
 
 msgid "Cyan"
-msgstr ""
+msgstr "Camgöbeği"
 
 msgid "Database converted to vCard format"
-msgstr ""
+msgstr "Veritabanı vCard formatına dönüştürüldü"
 
 msgid "Database format"
-msgstr ""
+msgstr "Veritabanı formatı"
 
 msgid "Date"
-msgstr ""
+msgstr "Tarih"
 
 msgid "Date (YYYY-MM-DD)"
-msgstr ""
+msgstr "Tarih (YYYY-AA-GG)"
 
 msgid "Date range: {0} to {1}"
-msgstr ""
+msgstr "Tarih aralığı: {0} ile {1} arası"
 
 msgid "Date:"
-msgstr ""
+msgstr "Tarih:"
 
 msgid "Day +"
-msgstr ""
+msgstr "Gün +"
 
 msgid "Day -"
-msgstr ""
+msgstr "Gün -"
 
 msgid "Days to keep notifications in cache"
-msgstr ""
+msgstr "Bildirimlerin önbellekte tutulacağı gün sayısı"
 
 msgid "December"
-msgstr ""
+msgstr "Aralık"
 
 msgid "Default event time"
-msgstr ""
+msgstr "Varsayılan olay zamanı"
 
 msgid "Default format for exported files"
-msgstr ""
+msgstr "Dışa aktarılan dosyalar için varsayılan format"
 
 msgid "Default minutes before event to show notification"
-msgstr ""
+msgstr "Bildirimi göstermek için etkinlikten önceki varsayılan dakikalar"
 
 msgid "Default notification minutes"
-msgstr ""
+msgstr "Varsayılan bildirim dakikaları"
 
 msgid "Default time for new events (HH:MM format)"
-msgstr ""
+msgstr "Yeni etkinlikler için varsayılan zaman (SS:DD biçimi)"
 
 msgid "Delete"
-msgstr ""
+msgstr "Silmek"
 
 msgid "Delete ALL ICS events"
-msgstr ""
+msgstr "TÜM ICS olaylarını sil"
 
 msgid "Delete ALL contacts"
-msgstr ""
+msgstr "TÜM kişileri sil"
 
 msgid "Delete ALL events"
-msgstr ""
+msgstr "TÜM etkinlikleri sil"
 
 msgid "Delete File"
-msgstr ""
+msgstr "Dosyayı Sil"
 
 msgid "Delete ICS files older than 30 days?"
-msgstr ""
+msgstr "30 günden eski ICS dosyaları silinsin mi?"
 
 msgid "Delete file"
-msgstr ""
+msgstr "Dosyayı sil"
 
 msgid "Delete {0}?"
-msgstr ""
+msgstr "{0} silinsin mi?"
 
 msgid "Delete: {0}"
-msgstr ""
+msgstr "Sil: {0}"
 
 msgid "Deleted {0} ICS events"
-msgstr ""
+msgstr "{0} ICS etkinlikleri silindi"
 
 msgid "Deleted {0} contacts from database"
-msgstr ""
+msgstr "{0} kişi veritabanından silindi"
 
 msgid "Description"
-msgstr ""
+msgstr "Tanım"
 
 msgid "Description:"
-msgstr ""
+msgstr "Tanım:"
 
 msgid "Directory: {0}"
-msgstr ""
+msgstr "Dizin: {0}"
 
 msgid "Disk"
 msgstr ""
 
 msgid "Duplicates cleaned: %d"
-msgstr ""
+msgstr "Temizlenen kopyalar: %d"
 
 msgid "E:{0}"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Düzenlemek"
 
 msgid "Edit Contact"
-msgstr ""
+msgstr "Kişiyi Düzenle"
 
 msgid "Edit Contact ({0}/{1})"
-msgstr ""
+msgstr "Kişiyi Düzenle ({0}/{1})"
 
 msgid "Edit Date"
-msgstr ""
+msgstr "Tarihi Düzenle"
 
 msgid "Edit Description"
-msgstr ""
+msgstr "Açıklamayı Düzenle"
 
 msgid "Edit Event"
-msgstr ""
+msgstr "Etkinliği Düzenle"
 
 msgid "Edit Event ({0}/{1})"
-msgstr ""
+msgstr "Etkinliği Düzenle ({0}/{1})"
 
 msgid "Edit Event ({0}/{1}) - Today"
-msgstr ""
+msgstr "Etkinliği Düzenle ({0}/{1}) - Bugün"
 
 msgid "Edit Holiday"
-msgstr ""
+msgstr "Tatili Düzenle"
 
 msgid "Edit ICS Event"
-msgstr ""
+msgstr "ICS Etkinliğini Düzenle"
 
 msgid "Edit Note"
-msgstr ""
+msgstr "Notu Düzenle"
 
 msgid "Edit Sign"
-msgstr ""
+msgstr "İşareti Düzenle"
 
 msgid "Edit: {0}"
-msgstr ""
+msgstr "Düzenleme: {0}"
 
 msgid "Email"
-msgstr ""
+msgstr "E-posta"
 
 msgid "Enable autostart"
-msgstr ""
+msgstr "Otomatik başlatmayı etkinleştir"
 
 msgid "Enable debug mode"
-msgstr ""
+msgstr "Hata ayıklama modunu etkinleştir"
 
 msgid "Enable event management with date/time"
-msgstr ""
+msgstr "Tarih/saat ile etkinlik yönetimini etkinleştirin"
 
 msgid "Enable event system"
-msgstr ""
+msgstr "Etkinlik sistemini etkinleştir"
 
 msgid "Enable holiday coloring"
-msgstr ""
+msgstr "Tatil renklendirmesini etkinleştir"
 
 msgid "Enable notifications"
-msgstr ""
+msgstr "Bildirimleri etkinleştir"
 
 msgid "Enter"
-msgstr ""
+msgstr "Girmek"
 
 msgid "Error deleting contact"
-msgstr ""
+msgstr "Kişi silinirken hata oluştu"
 
 msgid "Error deleting contact '{0}'"
-msgstr ""
+msgstr "'{0}' kişisi silinirken hata oluştu"
 
 msgid "Error deleting database: {0}"
-msgstr ""
+msgstr "Veritabanı silinirken hata oluştu: {0}"
 
 msgid "Error getting ICS statistics"
-msgstr ""
+msgstr "ICS istatistikleri alınırken hata oluştu"
 
 msgid "Error opening ICS browser: %s"
-msgstr ""
+msgstr "ICS tarayıcısı açılırken hata oluştu: %s"
 
 msgid "Error opening ICS importer: {0}"
-msgstr ""
+msgstr "ICS içe aktarıcısı açılırken hata oluştu: {0}"
 
 msgid "Error opening event dialog"
-msgstr ""
+msgstr "Etkinlik iletişim kutusu açılırken hata oluştu"
 
 msgid "Error saving ICS data"
-msgstr ""
+msgstr "ICS verileri kaydedilirken hata oluştu"
 
 msgid "Error saving contact"
-msgstr ""
+msgstr "Kişi kaydedilirken hata oluştu"
 
 msgid "Error saving data"
-msgstr ""
+msgstr "Veriler kaydedilirken hata oluştu"
 
 msgid "Error saving event"
-msgstr ""
+msgstr "Etkinlik kaydedilirken hata oluştu"
 
 msgid "Error: {0}"
-msgstr ""
+msgstr "Hata: {0}"
 
 msgid "Errors: %d"
-msgstr ""
+msgstr "Hatalar: %d"
 
 msgid "Errors: {0}"
-msgstr ""
+msgstr "Hatalar: {0}"
 
 msgid "Event"
-msgstr ""
+msgstr "Etkinlik"
 
 msgid "Event '{0}' deleted successfully"
-msgstr ""
+msgstr "'{0}' olayı başarıyla silindi"
 
 msgid "Event '{0}' saved successfully"
-msgstr ""
+msgstr "'{0}' etkinliği başarıyla kaydedildi"
 
 msgid "Event check interval"
-msgstr ""
+msgstr "Olay kontrol aralığı"
 
 msgid "Event color"
-msgstr ""
+msgstr "Etkinlik rengi"
 
 msgid "Event manager not available"
-msgstr ""
+msgstr "Etkinlik yöneticisi mevcut değil"
 
 msgid "Event manager not initialized"
-msgstr ""
+msgstr "Etkinlik yöneticisi başlatılmadı"
 
 msgid "Event system is disabled. Enable it in settings first."
-msgstr ""
+msgstr "Etkinlik sistemi devre dışı. İlk önce ayarlarda etkinleştirin."
 
 msgid "Event system is disabled. Enable it in settings."
-msgstr ""
+msgstr "Etkinlik sistemi devre dışı. Ayarlarda etkinleştirin."
 
 msgid "Event system is not enabled"
-msgstr ""
+msgstr "Etkinlik sistemi etkin değil"
 
 msgid "Events found: {0}"
-msgstr ""
+msgstr "Bulunan etkinlikler: {0}"
 
 msgid "Events imported successfully"
-msgstr ""
+msgstr "Etkinlikler başarıyla içe aktarıldı"
 
 msgid "Export All to ICS File"
-msgstr ""
+msgstr "Tümünü ICS Dosyasına Aktar"
 
 msgid "Export error: {0}"
-msgstr ""
+msgstr "Dışa aktarma hatası: {0}"
 
 msgid "Export failed or no contacts to export"
-msgstr ""
+msgstr "Dışa aktarma başarısız oldu veya dışa aktarılacak kişi yok"
 
 msgid "Export format"
-msgstr ""
+msgstr "Dışa aktarma biçimi"
 
 msgid "Export location"
-msgstr ""
+msgstr "Konumu dışa aktar"
 
 msgid "Export subdirectory"
-msgstr ""
+msgstr "Alt dizini dışa aktar"
 
 msgid "Export vCard File"
-msgstr ""
+msgstr "vCard Dosyasını Dışa Aktar"
 
 msgid "Exporting contacts..."
-msgstr ""
+msgstr "Kişiler dışa aktarılıyor..."
 
 msgid "Failed to create backup. Update cancelled."
-msgstr ""
+msgstr "Yedekleme oluşturulamadı. Güncelleme iptal edildi."
 
 msgid "Failed to start import"
-msgstr ""
+msgstr "İçe aktarma başlatılamadı"
 
 msgid "February"
-msgstr ""
+msgstr "Şubat"
 
 msgid "Field {0}/{1}: {2}"
-msgstr ""
+msgstr "Alan {0}/{1}: {2}"
 
 msgid "File deleted"
-msgstr ""
+msgstr "Dosya silindi"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Dosya bulunamadı!"
 
 msgid "File re-imported successfully"
-msgstr ""
+msgstr "Dosya başarıyla yeniden içe aktarıldı"
 
 msgid "File re-imported. Found {0} potential duplicates."
-msgstr ""
+msgstr "Dosya yeniden içe aktarıldı. {0} potansiyel kopya bulundu."
 
 msgid "File: {0}"
-msgstr ""
+msgstr "Dosya: {0}"
 
 msgid "Files is Empty..."
-msgstr ""
+msgstr "Dosyalar Boş..."
 
 msgid "Found {0} ICS files"
-msgstr ""
+msgstr "{0} ICS dosyası bulundu"
 
 msgid "Fri"
-msgstr ""
+msgstr "Cuma"
 
 msgid "Green"
-msgstr ""
+msgstr "Yeşil"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Sabit Disk"
 
 msgid "Hard Disk (/media/hdd)"
-msgstr ""
+msgstr "Sabit Disk (/medya/hdd)"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Tatil"
 
 msgid "Holiday color"
-msgstr ""
+msgstr "Tatil rengi"
 
 msgid "Holiday:"
-msgstr ""
+msgstr "Tatil:"
 
 msgid "Holidays imported"
-msgstr ""
+msgstr "İçe aktarılan tatiller"
 
 msgid "I:{0}"
-msgstr ""
+msgstr "Ben:{0}"
 
 msgid "ICS Events: 0"
-msgstr ""
+msgstr "ICS Olayları: 0"
 
 msgid "ICS Events: {0}/{1}"
-msgstr ""
+msgstr "ICS Olayları: {0}/{1}"
 
 msgid "ICS format"
-msgstr ""
+msgstr "ICS biçimi"
 
 msgid "ICS format (google calendar)"
-msgstr ""
+msgstr "ICS biçimi (google takvim)"
 
 msgid "ICS import feature not yet available: {0}"
-msgstr ""
+msgstr "ICS içe aktarma özelliği henüz kullanılamıyor: {0}"
 
 msgid "Import"
-msgstr ""
+msgstr "İçe aktarmak"
 
 msgid "Import All"
-msgstr ""
+msgstr "Tümünü İçe Aktar"
 
 msgid "Import Google Calendar (.ics)"
-msgstr ""
+msgstr "Google Takvim'i (.ics) içe aktarın"
 
 msgid "Import Holidays"
-msgstr ""
+msgstr "Tatilleri İçe Aktar"
 
 msgid "Import ICS Contacts Google Calendar (.ics)"
-msgstr ""
+msgstr "ICS Kişilerini Google Takvim'e (.ics) aktarın"
 
 msgid "Import completed"
-msgstr ""
+msgstr "İçe aktarma tamamlandı"
 
 msgid "Import completed - Sorting contacts..."
-msgstr ""
+msgstr "İçe aktarma tamamlandı - Kişiler sıralanıyor..."
 
 msgid "Import completed!"
-msgstr ""
+msgstr "İçe aktarma tamamlandı!"
 
 msgid "Import completed. Ready."
-msgstr ""
+msgstr "İçe aktarma tamamlandı. Hazır."
 
 msgid "Import error: {0}"
-msgstr ""
+msgstr "İçe aktarma hatası: {0}"
 
 msgid "Import events to calendar"
-msgstr ""
+msgstr "Etkinlikleri takvime aktar"
 
 msgid "Import vCard File"
-msgstr ""
+msgstr "vCard Dosyasını İçe Aktar"
 
 msgid "Imported ICS Files"
-msgstr ""
+msgstr "İçe Aktarılan ICS Dosyaları"
 
 msgid "Imported: %d"
-msgstr ""
+msgstr "İçe aktarılan: %d"
 
 msgid "Imported: {0}"
-msgstr ""
+msgstr "İçe aktarılan: {0}"
 
 msgid "Imported: {0} contacts"
-msgstr ""
+msgstr "İçe aktarılan: {0} kişi"
 
 msgid "Importing iCalendar File"
-msgstr ""
+msgstr "iCalendar Dosyasını İçe Aktarma"
 
 msgid "Importing vCard File"
-msgstr ""
+msgstr "vCard Dosyasını İçe Aktarma"
 
 msgid "Initializing..."
-msgstr ""
+msgstr "Başlatılıyor..."
 
 msgid "Invalid birthday format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "Geçersiz doğum günü biçimi. YYYY-AA-GG'yi kullanın"
 
 msgid "Invalid date format. Use YYYY-MM-DD"
-msgstr ""
+msgstr "Geçersiz tarih biçimi. YYYY-AA-GG'yi kullanın"
 
 msgid "Invalid time format! Use HH:MM (00:00 to 23:59)"
-msgstr ""
+msgstr "Geçersiz zaman biçimi! SS:DD'yi kullanın (00:00 - 23:59)"
 
 msgid "Invalid time format. Use HH:MM"
-msgstr ""
+msgstr "Geçersiz zaman biçimi. SS:DD'yi kullan"
 
 msgid "January"
-msgstr ""
+msgstr "Ocak"
 
 msgid "July"
-msgstr ""
+msgstr "Temmuz"
 
 msgid "June"
-msgstr ""
+msgstr "Haziran"
 
 msgid "Labels (comma separated)"
-msgstr ""
+msgstr "Etiketler (virgülle ayrılmış)"
 
 msgid "Legacy format (text files)"
-msgstr ""
+msgstr "Eski format (metin dosyaları)"
 
 msgid "Manage Contacts"
-msgstr ""
+msgstr "Kişileri Yönet"
 
 msgid "Manage Event"
-msgstr ""
+msgstr "Etkinliği Yönet"
 
 msgid "Manage ICS Events"
-msgstr ""
+msgstr "ICS Olaylarını Yönetin"
 
 msgid "Manage ICS Files"
-msgstr ""
+msgstr "ICS Dosyalarını Yönetin"
 
 msgid "March"
-msgstr ""
+msgstr "Mart"
 
 msgid "May"
-msgstr ""
+msgstr "Mayıs"
 
 msgid "Modified: {0}"
-msgstr ""
+msgstr "Değiştirildi: {0}"
 
 msgid "Mon"
-msgstr ""
+msgstr "Pazartesi"
 
 msgid "Month +"
-msgstr ""
+msgstr "Ay +"
 
 msgid "Month -"
-msgstr ""
+msgstr "Ay -"
 
 msgid "Name"
-msgstr ""
+msgstr "İsim"
 
 msgid "Name is required"
-msgstr ""
+msgstr "Ad gerekli"
 
 msgid "Network Share"
-msgstr ""
+msgstr "Ağ Paylaşımı"
 
 msgid "New Date"
-msgstr ""
+msgstr "Yeni Tarih"
 
 msgid "Newest file: {0}"
-msgstr ""
+msgstr "En yeni dosya: {0}"
 
 msgid "Next Field"
-msgstr ""
+msgstr "Sonraki Alan"
 
 msgid "No ICS directory found"
-msgstr ""
+msgstr "ICS dizini bulunamadı"
 
 msgid "No ICS events found"
-msgstr ""
+msgstr "Hiçbir ICS etkinliği bulunamadı"
 
 msgid "No ICS files found"
-msgstr ""
+msgstr "ICS dosyası bulunamadı"
 
 msgid "No ICS files in archive"
-msgstr ""
+msgstr "Arşivde ICS dosyası yok"
 
 msgid "No TV service currently playing"
-msgstr ""
+msgstr "Şu anda oynatılan TV hizmeti yok"
 
 msgid "No contact files found"
-msgstr ""
+msgstr "İletişim dosyası bulunamadı"
 
 msgid "No contact selected"
-msgstr ""
+msgstr "Kişi seçilmedi"
 
 msgid "No contacts found in database"
-msgstr ""
+msgstr "Veritabanında kişi bulunamadı"
 
 msgid "No data found to convert"
-msgstr ""
+msgstr "Dönüştürülecek veri bulunamadı"
 
 msgid "No data to export"
-msgstr ""
+msgstr "Dışa aktarılacak veri yok"
 
 msgid "No duplicates found"
-msgstr ""
+msgstr "Kopya bulunamadı"
 
 msgid "No event selected"
-msgstr ""
+msgstr "Etkinlik seçilmedi"
 
 msgid "No events database found"
-msgstr ""
+msgstr "Hiçbir etkinlik veritabanı bulunamadı"
 
 msgid "No events for today"
-msgstr ""
+msgstr "Bugün için etkinlik yok"
 
 msgid "No events to convert"
-msgstr ""
+msgstr "Dönüştürülecek etkinlik yok"
 
 msgid "No file in database..."
-msgstr ""
+msgstr "Veritabanında dosya yok..."
 
 msgid "No file selected"
-msgstr ""
+msgstr "Hiçbir dosya seçilmedi"
 
 msgid "No past events to remove"
-msgstr ""
+msgstr "Kaldırılacak geçmiş etkinlik yok"
 
 msgid "No sorting (original order)"
-msgstr ""
+msgstr "Sıralama yok (orijinal sıralama)"
 
 msgid "No sound"
-msgstr ""
+msgstr "Ses yok"
 
 msgid "Note"
-msgstr ""
+msgstr "Not"
 
 msgid "Note:"
-msgstr ""
+msgstr "Not:"
 
 msgid "Notes"
-msgstr ""
+msgstr "Notlar"
 
 msgid "Notification sound type"
-msgstr ""
+msgstr "Bildirim ses türü"
 
 msgid "Notification tone"
-msgstr ""
+msgstr "Bildirim tonu"
 
 msgid "Notify"
-msgstr ""
+msgstr "Bildir"
 
 msgid "Notify:"
-msgstr ""
+msgstr "Bildir:"
 
 msgid "November"
-msgstr ""
+msgstr "Kasım"
 
 msgid "October"
-msgstr ""
+msgstr "Ekim"
 
 msgid "Oldest file: {0}\\\\\\\\n"
-msgstr ""
+msgstr "En eski dosya: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
-msgstr ""
+msgstr "Turuncu"
 
 msgid "P:{0}/{1}"
 msgstr ""
 
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 msgid "Play a sound when event notification appears"
-msgstr ""
+msgstr "Etkinlik bildirimi göründüğünde ses çal"
 
 msgid "Play sound with notifications"
-msgstr ""
+msgstr "Bildirimlerle ses çal"
 
 msgid "Please restart Enigma2 manually."
-msgstr ""
+msgstr "Lütfen Enigma2'yi manuel olarak yeniden başlatın."
 
 msgid "Plugin Directory"
-msgstr ""
+msgstr "Eklenti Dizini"
 
 msgid "Plugin is up to date"
-msgstr ""
+msgstr "Eklenti güncel"
 
 msgid "Press GREEN to import"
-msgstr ""
+msgstr "İçe aktarmak için YEŞİL tuşuna basın"
 
 msgid "Press TEXT to search"
-msgstr ""
+msgstr "Aramak için TEXT'e basın"
 
 msgid "Preview file content"
-msgstr ""
+msgstr "Dosya içeriğini önizleyin"
 
 msgid "Progress: {0}%"
-msgstr ""
+msgstr "İlerleme: %{0}"
 
 msgid "Re-import"
-msgstr ""
+msgstr "Yeniden içe aktar"
 
 msgid "Red"
-msgstr ""
+msgstr "Kırmızı"
 
 msgid "Refresh"
-msgstr ""
+msgstr "Yenile"
 
 msgid "Refreshed"
-msgstr ""
+msgstr "Yenilendi"
 
 msgid "Remove"
-msgstr ""
+msgstr "Kaldırmak"
 
 msgid "Remove Date"
-msgstr ""
+msgstr "Tarihi Kaldır"
 
 msgid "Removed {0} past events"
-msgstr ""
+msgstr "{0} geçmişteki etkinlikler kaldırıldı"
 
 msgid "Repeat"
-msgstr ""
+msgstr "Tekrarlamak"
 
 msgid "Repeat (none/daily/weekly/monthly/yearly)"
-msgstr ""
+msgstr "Tekrarla (yok/günlük/haftalık/aylık/yıllık)"
 
 msgid "Repeat:"
-msgstr ""
+msgstr "Tekrarlamak:"
 
 msgid "Repeat: {0}"
-msgstr ""
+msgstr "Tekrar: {0}"
 
 msgid "Root Home (/home/root)"
-msgstr ""
+msgstr "Kök Ana Sayfa (/ev/kök)"
 
 msgid "S:{0}"
 msgstr ""
 
 msgid "SCHEDULED EVENTS:"
-msgstr ""
+msgstr "PLANLANMIŞ ETKİNLİKLER:"
 
 msgid "Sat"
-msgstr ""
+msgstr "Doygunluk"
 
 msgid "Save"
-msgstr ""
+msgstr "Kaydetmek"
 
 msgid "Search contacts"
-msgstr ""
+msgstr "Kişileri arayın"
 
 msgid "Search events"
-msgstr ""
+msgstr "Etkinlikleri arayın"
 
 msgid "Search:"
-msgstr ""
+msgstr "Aramak:"
 
 msgid "Seconds between event checks (advanced)"
-msgstr ""
+msgstr "Olay kontrolleri arasındaki saniyeler (gelişmiş)"
 
 msgid "Seconds to wait after boot before starting notifications"
-msgstr ""
+msgstr "Önyükleme sonrasında bildirimleri başlatmadan önce beklenecek saniyeler"
 
 msgid "Select .ics file to import"
-msgstr ""
+msgstr "İçe aktarılacak .ics dosyasını seçin"
 
 msgid "Select a file, not a folder"
-msgstr ""
+msgstr "Klasör değil dosya seçin"
 
 msgid "Select vCard file to import"
-msgstr ""
+msgstr "İçe aktarılacak vCard dosyasını seçin"
 
 msgid "Selected: {0}"
-msgstr ""
+msgstr "Seçilen: {0}"
 
 msgid "September"
-msgstr ""
+msgstr "Eylül"
 
 msgid "Short beep"
-msgstr ""
+msgstr "Kısa bip sesi"
 
 msgid "Show 'H' marker on holiday days"
-msgstr ""
+msgstr "Tatil günlerinde 'H' işaretini göster"
 
 msgid "Show Statistics"
-msgstr ""
+msgstr "İstatistikleri Göster"
 
 msgid "Show Today's Holidays"
-msgstr ""
+msgstr "Bugünkü Tatilleri Göster"
 
 msgid "Show Upcoming Holidays"
-msgstr ""
+msgstr "Yaklaşan Tatilleri Göster"
 
 msgid "Show debug messages in console/log"
-msgstr ""
+msgstr "Konsolda/günlükte hata ayıklama mesajlarını göster"
 
 msgid "Show event indicators"
-msgstr ""
+msgstr "Etkinlik göstergelerini göster"
 
 msgid "Show event statistics"
-msgstr ""
+msgstr "Etkinlik istatistiklerini göster"
 
 msgid "Show holiday indicators"
-msgstr ""
+msgstr "Tatil göstergelerini göster"
 
 msgid "Show markers on days with events"
-msgstr ""
+msgstr "Etkinliklerin olduğu günlerde işaretçileri göster"
 
 msgid "Show notifications for upcoming events"
-msgstr ""
+msgstr "Yaklaşan etkinliklere ilişkin bildirimleri göster"
 
 msgid "Sign"
-msgstr ""
+msgstr "İmza"
 
 msgid "Sign:"
-msgstr ""
+msgstr "İmza:"
 
 msgid "Size: {0:.1f} KB"
-msgstr ""
+msgstr "Boyut: {0:.1f} KB"
 
 msgid "Size: {0:.1f} MB"
-msgstr ""
+msgstr "Boyut: {0:.1f} MB"
 
 msgid "Skipped: %d"
-msgstr ""
+msgstr "Atlandı: %d"
 
 msgid "Skipped: {0}"
-msgstr ""
+msgstr "Atlandı: {0}"
 
 msgid "Skipped: {0} (duplicates)"
-msgstr ""
+msgstr "Atlandı: {0} (kopyalar)"
 
 msgid "Sort"
-msgstr ""
+msgstr "Düzenlemek"
 
 msgid "Sort by birthday (month/day)"
-msgstr ""
+msgstr "Doğum gününe göre sırala (ay/gün)"
 
 msgid "Sort by category"
-msgstr ""
+msgstr "Kategoriye göre sırala"
 
 msgid "Sort by name (alphabetical)"
-msgstr ""
+msgstr "Ada göre sırala (alfabetik)"
 
 msgid "Sorted by birthday"
-msgstr ""
+msgstr "Doğum gününe göre sıralandı"
 
 msgid "Sorted by category"
-msgstr ""
+msgstr "Kategoriye göre sıralandı"
 
 msgid "Sorted by date"
-msgstr ""
+msgstr "Tarihe göre sıralanmış"
 
 msgid "Sorted by name"
-msgstr ""
+msgstr "İsme göre sıralandı"
 
 msgid "Sorted by title"
-msgstr ""
+msgstr "Başlığa göre sıralandı"
 
 msgid "Sorted by: Birthday"
-msgstr ""
+msgstr "Sıralama ölçütü: Doğum günü"
 
 msgid "Sorted by: Category"
-msgstr ""
+msgstr "Sıralama ölçütü: Kategori"
 
 msgid "Sorted by: Date"
-msgstr ""
+msgstr "Sıralama ölçütü: Tarih"
 
 msgid "Sorted by: Name"
-msgstr ""
+msgstr "Sıralama ölçütü: Ad"
 
 msgid "Sorted by: Title"
-msgstr ""
+msgstr "Sıralama ölçütü: Başlık"
 
 msgid "Start event notifications in background (recommended)"
-msgstr ""
+msgstr "Etkinlik bildirimlerini arka planda başlat (önerilir)"
 
 msgid "Subdirectory name for exports (created automatically)"
-msgstr ""
+msgstr "Dışa aktarmalar için alt dizin adı (otomatik olarak oluşturulur)"
 
 msgid "Successfully converted {0} entries to ICS format"
-msgstr ""
+msgstr "{0} girişleri başarıyla ICS biçimine dönüştürüldü"
 
 msgid "Sun"
-msgstr ""
+msgstr "Güneş"
 
 msgid "Tags: {0}"
-msgstr ""
+msgstr "Etiketler: {0}"
 
 msgid "Temporary Storage (/tmp)"
-msgstr ""
+msgstr "Geçici Depolama (/tmp)"
 
 msgid "Test error: %s"
-msgstr ""
+msgstr "Test hatası: %s"
 
 msgid "Text format"
-msgstr ""
+msgstr "Metin formatı"
 
 msgid "Thu"
-msgstr ""
+msgstr "Per"
 
 msgid "Time"
-msgstr ""
+msgstr "Zaman"
 
 msgid "Time (HH:MM)"
-msgstr ""
+msgstr "Zaman (SS:DD)"
 
 msgid "Time:"
-msgstr ""
+msgstr "Zaman:"
 
 msgid "Title"
-msgstr ""
+msgstr "Başlık"
 
 msgid "Title and date are required!"
-msgstr ""
+msgstr "Başlık ve tarih gereklidir!"
 
 msgid "Title is required"
-msgstr ""
+msgstr "Başlık gerekli"
 
 msgid "Title:"
-msgstr ""
+msgstr "Başlık:"
 
 msgid "Today"
-msgstr ""
+msgstr "Bugün"
 
 msgid "Total events: {0}"
-msgstr ""
+msgstr "Toplam olay: {0}"
 
 msgid "Total files: {0}\\\\\\\\n"
-msgstr ""
+msgstr "Toplam dosyalar: {0}\\\\\\\\\\\\\\\\n"
 
 msgid "Total size: {0:.1f} KB\\\\\\\\n"
-msgstr ""
+msgstr "Toplam boyut: {0:.1f} KB\\\\\\\\\\\\\\\\n"
 
 msgid "Total: %d"
-msgstr ""
+msgstr "Toplam: %d"
 
 msgid "Total: {0}"
-msgstr ""
+msgstr "Toplam: {0}"
 
 msgid "Tue"
-msgstr ""
+msgstr "Salı"
 
 msgid "Type of sound to play with notifications"
-msgstr ""
+msgstr "Bildirimlerle çalınacak ses türü"
 
 msgid "U:{0}"
 msgstr ""
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB Sürücü"
 
 msgid "USB Drive (/media/usb)"
-msgstr ""
+msgstr "USB Sürücüsü (/medya/usb)"
 
 msgid "Unable to play test sound"
-msgstr ""
+msgstr "Test sesi çalınamıyor"
 
 msgid "Update available!"
-msgstr ""
+msgstr "Güncelleme mevcut!"
 
 msgid "Update cancelled"
-msgstr ""
+msgstr "Güncelleme iptal edildi"
 
 msgid "Update check error"
-msgstr ""
+msgstr "Güncelleme kontrolü hatası"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "Güncelleme kontrolü başarısız oldu"
 
 msgid "Update completed successfully!"
-msgstr ""
+msgstr "Güncelleme başarıyla tamamlandı!"
 
 msgid "Update error: %s"
-msgstr ""
+msgstr "Güncelleme hatası: %s"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Güncelleme başarısız oldu"
 
 msgid "Update failed and backup restore also failed!"
-msgstr ""
+msgstr "Güncelleme başarısız oldu ve yedekleme geri yüklemesi de başarısız oldu!"
 
 msgid "Update failed. Restored from backup."
-msgstr ""
+msgstr "Güncelleme başarısız oldu. Yedeklemeden geri yüklendi."
 
 msgid "Update successful!"
-msgstr ""
+msgstr "Güncelleme başarılı!"
 
 msgid "Updated: {0}"
-msgstr ""
+msgstr "Güncellendi: {0}"
 
 msgid "Updating plugin... Please wait"
-msgstr ""
+msgstr "Eklenti güncelleniyor... Lütfen bekleyin"
 
 msgid "Using legacy database format"
-msgstr ""
+msgstr "Eski veritabanı biçimini kullanma"
 
 msgid "View"
-msgstr ""
+msgstr "Görüş"
 
 msgid "Waiting for thread to stop..."
-msgstr ""
+msgstr "İş parçacığının durması bekleniyor..."
 
 msgid "Wed"
-msgstr ""
+msgstr "Çar"
 
 msgid "White"
-msgstr ""
+msgstr "Beyaz"
 
 msgid "Yellow"
-msgstr ""
+msgstr "Sarı"
 
 msgid "You have the latest version of Calendar."
-msgstr ""
+msgstr "Takvim'in en son sürümüne sahipsiniz."
 
 msgid "not sorted"
-msgstr ""
+msgstr "sıralanmamış"
 
 msgid "sorted by birthday"
-msgstr ""
+msgstr "doğum gününe göre sıralanmış"
 
 msgid "sorted by category"
-msgstr ""
+msgstr "kategoriye göre sıralanmış"
 
 msgid "sorted by name"
-msgstr ""
+msgstr "isme göre sıralanmış"
 
 msgid "vCard format"
-msgstr ""
+msgstr "vCard formatı"
 
 msgid "vCard format (standard)"
-msgstr ""
+msgstr "vCard formatı (standart)"
 
 msgid "vCard import feature not available: {0}"
-msgstr ""
+msgstr "vCard içe aktarma özelliği kullanılamıyor: {0}"

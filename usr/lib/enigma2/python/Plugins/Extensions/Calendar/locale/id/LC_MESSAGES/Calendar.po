@@ -786,8 +786,9 @@ msgstr ""
 msgid "October"
 msgstr "Oktober"
 
+#, fuzzy
 msgid "Oldest file: {0}\\\\\\\\n"
-msgstr "File tertua: {0}\\\\\\\\\\\\\\\\n"
+msgstr "File tertua: {0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
 msgstr "Oranye"
@@ -1053,11 +1054,13 @@ msgstr "Hari ini"
 msgid "Total events: {0}"
 msgstr "Jumlah acara: {0}"
 
+#, fuzzy
 msgid "Total files: {0}\\\\\\\\n"
-msgstr "Total file: {0}\\\\\\\\\\\\\\\\n"
+msgstr "Total file: {0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "Total size: {0:.1f} KB\\\\\\\\n"
-msgstr "Ukuran total: {0:.1f} KB\\\\\\\\\\\\\\\\n"
+msgstr "Ukuran total: {0:.1f} KB\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Total: %d"
 msgstr "Jumlah: %d"

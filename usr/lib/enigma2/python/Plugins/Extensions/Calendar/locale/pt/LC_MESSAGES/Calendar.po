@@ -787,8 +787,8 @@ msgstr "novembro"
 msgid "October"
 msgstr "outubro"
 
-msgid "Oldest file: {0}\\\\\\\\n"
-msgstr "Arquivo mais antigo: {0}\\\\\\\\\\\\\\\\n"
+msgid "Oldest file: {0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Arquivo mais antigo: {0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Orange"
 msgstr "Laranja"
@@ -1054,11 +1054,11 @@ msgstr "Hoje"
 msgid "Total events: {0}"
 msgstr "Total de eventos: {0}"
 
-msgid "Total files: {0}\\\\\\\\n"
-msgstr "Total de arquivos: {0}\\\\\\\\\\\\\\\\n"
+msgid "Total files: {0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Total de arquivos: {0}\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "Total size: {0:.1f} KB\\\\\\\\n"
-msgstr "Tamanho total: {0:.1f} KB\\\\\\\\\\\\\\\\n"
+msgid "Total size: {0:.1f} KB\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Tamanho total: {0:.1f} KB\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Total: %d"
 msgstr ""
